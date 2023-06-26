@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T17:24:45.775Z'
+created: '2023-06-26T17:33:13.271Z'
 guideType: onboarding
 key: assets-vs-liabilities-credit-union-academy
 name: Assets Vs Liabilities
@@ -41,28 +41,8 @@ steps:
     stepItems: []
     uuid: 03de28f6-5a38-4e63-a1ad-b023b78d0427
   - content: ''
-    name: Introduction Evaluation
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: a8799e1d-b0cb-4014-bad3-79d08a34adcc
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: ba024ea8-5207-4cf0-a786-bf776fa4a679
+    name: Evaluation
+    stepItems: []
     uuid: 0975dcc1-df2d-4f27-82c9-9d45a66cba24
   - content: >-
       Assets are resources that have economic value and are owned or controlled
@@ -115,15 +95,15 @@ steps:
     stepItems: []
     uuid: e91d5645-9d7b-4394-8539-c87c1377c427
   - content: ''
-    name: Introduction Evaluation
+    name: Evaluation
     stepItems: []
     uuid: bc65b549-4ac1-4221-ac96-bd38bf6648b7
-  - content: >
+  - content: >-
       Liabilities are debts or obligations that a person or company owes to
       someone else. They can be in the form of money, goods, or services.
       Liabilities are an important part of a company's financial structure and
       are used to finance operations and expansions. They are recorded on the
-      right side of a company's balance sheet. 
+      right side of a company's balance sheet.
 
 
       Liabilities can be categorized into current liabilities and non-current
@@ -141,68 +121,60 @@ steps:
       reasonably estimated.
 
 
-      Understanding liabilities is important for businesses and individuals to
-      assess their financial health and make informed decisions. Businesses need
-      to know their liabilities to manage their cash flow, plan for future
-      expenses, and determine their ability to meet their financial obligations.
-      Accountants play a crucial role in tracking and reporting liabilities,
-      ensuring that financial statements accurately reflect a company's
-      financial position.
+      Understanding liabilities is important for individuals and businesses to
+      manage their financial health. By keeping track of their liabilities,
+      individuals can ensure that they are meeting their financial obligations
+      and avoid accumulating excessive debt. For businesses, managing
+      liabilities is crucial for maintaining liquidity and financial stability.
+      It involves careful planning and budgeting to ensure that the company can
+      meet its debt obligations and continue to operate effectively.
     name: What are liabilities
     stepItems: []
     uuid: 119363ce-0907-49ba-9061-3c04473e010f
   - content: ''
-    name: Introduction Evaluation
+    name: Evaluation
     stepItems: []
     uuid: 43a815f6-a021-455c-90ff-24ae6fde5c21
   - content: >-
-      Generation Z, or Gen Z, is a group of individuals born between 1997 and
-      2012. They have unique values and characteristics that shape their
-      financial behaviors. To increase their assets, Gen Z can focus on several
-      key strategies.
+      To focus on increasing assets, it is important to prioritize saving money.
+      Setting aside a portion of your income regularly can help build a strong
+      financial foundation. Consider opening a savings account or investing in
+      fixed deposits to earn interest on your savings. Additionally, starting to
+      invest early can take advantage of the power of compounding and
+      significantly grow your wealth over time. Do thorough research and seek
+      professional advice before making investment decisions.
 
 
-      Firstly, Gen Z can prioritize saving money. A study found that about 32%
-      of Gen Z individuals in India are inclined towards saving money rather
-      than spending it. Setting aside a portion of their income regularly can
-      help them build a strong financial foundation. They can consider opening a
-      savings account or investing in fixed deposits to earn interest on their
-      savings.
-
-
-      Secondly, Gen Z can start investing early. The power of compounding can
-      significantly grow their wealth over time. By investing in mutual funds,
-      stocks, or exchange-traded funds (ETFs), they can take advantage of the
-      potential for higher returns. It is important for them to do thorough
-      research and seek professional advice before making investment decisions.
-
-
-      Thirdly, Gen Z can focus on budgeting and financial discipline. Creating a
-      budget can help them track their income and expenses, and ensure that they
-      are living within their means. They can use budgeting software or mobile
-      applications to make it easier to manage their finances. By practicing
-      financial discipline, they can avoid unnecessary expenses and save more
+      Another important aspect is budgeting and financial discipline. Creating a
+      budget can help track your income and expenses, ensuring that you are
+      living within your means. Utilize budgeting software or mobile
+      applications to make it easier to manage your finances. By practicing
+      financial discipline, you can avoid unnecessary expenses and save more
       money.
 
 
-      Additionally, Gen Z can consider higher education as an investment in
-      their future. While higher education can be expensive, it is often
-      necessary for career advancement. They can explore scholarships, grants,
-      or education loans to fund their education. Repaying the education loan
-      should be a priority in their monthly budget to avoid accumulating debt.
+      Considering higher education as an investment in your future is also
+      beneficial. While it can be expensive, it is often necessary for career
+      advancement. Explore scholarships, grants, or education loans to fund your
+      education. Repaying the education loan should be a priority in your
+      monthly budget to avoid accumulating debt.
 
 
-      Lastly, Gen Z should be cautious about seeking financial advice from
-      unreliable sources. While they may receive advice from friends, family
-      members, or influencers, it is important to do their own research and
-      consult qualified professionals. They should also be aware of potential
-      financial mistakes and learn from them to improve their financial
-      decision-making.
+      Lastly, be cautious about seeking financial advice from unreliable
+      sources. While you may receive advice from friends, family members, or
+      influencers, it is important to do your own research and consult qualified
+      professionals. Be aware of potential financial mistakes and learn from
+      them to improve your financial decision-making.
+
+
+      By following these strategies, you can focus on increasing your assets and
+      improve your overall financial health. Remember that it is an ongoing
+      process that requires discipline and commitment.
     name: How to focus on increasing asset
     stepItems: []
     uuid: faeda1c8-7964-499b-9b2b-68486808fa85
   - content: ''
-    name: Introduction Evaluation
+    name: Evaluation
     stepItems: []
     uuid: 1fce064e-54a2-439e-90d1-cfc7f9c9dabe
   - content: >-
@@ -250,7 +222,7 @@ steps:
     stepItems: []
     uuid: 62d5d50e-fd51-4cfb-b2ec-884136c07e81
   - content: ''
-    name: Introduction Evaluation
+    name: Evaluation
     stepItems: []
     uuid: 5a3dbccf-4357-454c-a714-ee849b99ea86
 thumbnail: >-
