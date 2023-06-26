@@ -1,10 +1,10 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-26T19:16:38.937Z",
+  "created": "2023-06-26T19:17:18.518Z",
   "guideType": "onboarding",
   "key": "guide-name-credit-union-academy",
-  "name": "Guide Name",
+  "name": "Inflation and its impact",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
@@ -117,6 +117,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "a479f905-08bd-4109-ac2e-aebcd23e2c45",
+  "uuid": "guide-name-credit-union-academy",
   "version": 1
 }
