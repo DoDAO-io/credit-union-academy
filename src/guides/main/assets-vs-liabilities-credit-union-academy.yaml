@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T17:12:57.387Z'
+created: '2023-06-26T17:18:00.840Z'
 guideType: onboarding
 key: assets-vs-liabilities-credit-union-academy
 name: Assets Vs Liabilities
@@ -37,7 +37,7 @@ steps:
       securities of other institutions, such as stocks and bonds. Intangible
       assets are economic resources that have no physical presence, such as
       patents or trademarks. 
-    name: Introduction
+    name: What are asserts
     stepItems: []
     uuid: 03de28f6-5a38-4e63-a1ad-b023b78d0427
   - content: ''
@@ -64,7 +64,57 @@ steps:
         type: MultipleChoice
         uuid: ba024ea8-5207-4cf0-a786-bf776fa4a679
     uuid: 0975dcc1-df2d-4f27-82c9-9d45a66cba24
+  - content: >-
+      Assets are resources that have economic value and are owned or controlled
+      by individuals, corporations, or countries. They can be physical items
+      like machinery or buildings, or intangible items like patents or
+      trademarks. The main purpose of an asset is to generate cash flow, reduce
+      expenses, or improve sales in the future. Assets are reported on a
+      company's balance sheet and can be classified into different types.
+
+
+      One way to classify assets is based on their convertibility into cash.
+      Current assets are short-term resources that are expected to be converted
+      into cash or consumed within one year. They include cash and cash
+      equivalents, accounts receivable, inventory, and prepaid expenses. On the
+      other hand, non-current assets are assets that cannot be easily and
+      readily converted into cash and cash equivalents. They are also known as
+      fixed assets, long-term assets, or hard assets, and examples include
+      plants, equipment, and buildings.
+
+
+      Another way to classify assets is based on their physical existence.
+      Tangible assets are assets with a physical presence that can be touched,
+      felt, and seen. Examples of tangible assets include machinery, vehicles,
+      and real estate. In contrast, intangible assets are economic resources
+      that have no physical presence. They include patents, trademarks,
+      copyrights, and goodwill. Intangible assets are valuable because they
+      represent legal rights or privileges that can generate economic benefits.
+
+
+      Assets can also be classified based on their usage or purpose. Operating
+      assets are assets that are required in the daily operation of a business.
+      They are used to generate revenue from a company's core business
+      activities. Examples of operating assets include inventory, equipment, and
+      accounts receivable. On the other hand, non-operating assets are assets
+      that are not required for daily business operations but can still generate
+      revenue. These assets may include investments in other companies, real
+      estate holdings, or intellectual property.
+
+
+      Understanding the different types of assets is important for businesses to
+      assess their financial health and make informed decisions. For example,
+      knowing which assets are current assets and which are fixed assets helps
+      determine a company's net working capital. Additionally, understanding
+      which assets are tangible and intangible can help assess a company's
+      solvency and risk. Lastly, determining which assets are operating assets
+      and which are non-operating assets helps understand the contribution of
+      revenue from each asset and the percentage of revenue generated from core
+      business activities.
+    name: '  Types of assets'
+    stepItems: []
+    uuid: e91d5645-9d7b-4394-8539-c87c1377c427
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 94cb2286-6e2c-44fa-a4d0-356d9ca37574
+uuid: assets-vs-liabilities-credit-union-academy
 version: 1
