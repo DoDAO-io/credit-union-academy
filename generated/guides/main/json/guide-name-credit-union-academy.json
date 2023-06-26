@@ -1,0 +1,122 @@
+{
+  "categories": [],
+  "content": "New Guide",
+  "created": "2023-06-26T19:16:38.937Z",
+  "guideType": "onboarding",
+  "key": "guide-name-credit-union-academy",
+  "name": "Guide Name",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\nIntroduction Comments \n        ",
+      "name": "What is Inflation",
+      "stepItems": [],
+      "uuid": "742b9707-cd58-49da-aa87-4740bf5f1383"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "c40d560b-c348-4f65-b6e7-bb03f77a5782"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "ea4fbfcb-ac17-433c-9fbe-21d93b67ac7e"
+        }
+      ],
+      "uuid": "7debd680-e366-4719-a29f-8a478465be73"
+    },
+    {
+      "content": "",
+      "name": "How does inflation occur",
+      "stepItems": [],
+      "uuid": "9f639df9-9f97-4899-a1d7-f702e7c6489e"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "260fdd46-83a6-44fa-b382-16e6a305d89f"
+    },
+    {
+      "content": "",
+      "name": "How does inflation affect invest",
+      "stepItems": [],
+      "uuid": "565032bb-3a61-4d3d-af88-9d7b63662d1d"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "c7b9f519-7401-4fa9-b2b5-371f74d2b94b"
+    },
+    {
+      "content": "",
+      "name": "Hacking during inflation",
+      "stepItems": [],
+      "uuid": "3e4cadec-251b-44b5-b06e-3118e56bb499"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "8f5fda4e-c8e9-4cbb-9daf-8939ba1d2e9e"
+    },
+    {
+      "content": "",
+      "name": "best asset during inflation",
+      "stepItems": [],
+      "uuid": "dc68608d-2b43-4c98-bc94-5b0c3bbf10c2"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "5e7817c1-beb5-43c8-b6ca-25fe8c8554e9"
+    },
+    {
+      "content": "",
+      "name": "How does government tackle it",
+      "stepItems": [],
+      "uuid": "0d0d2ec4-2c1d-4a4e-aaa8-3fe4bf80dfac"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "6499f67e-1b62-4ac2-ad61-3fe75e46e03d"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "a479f905-08bd-4109-ac2e-aebcd23e2c45",
+  "version": 1
+}
