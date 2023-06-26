@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T20:35:46.814Z'
+created: '2023-06-26T20:37:36.968Z'
 guideType: onboarding
 key: guide-name-credit-union-academy
 name: Inflation and its impact
@@ -79,7 +79,12 @@ steps:
         type: MultipleChoice
         uuid: ea4fbfcb-ac17-433c-9fbe-21d93b67ac7e
     uuid: 7debd680-e366-4719-a29f-8a478465be73
-  - content: ''
+  - content: >
+      https://www.forbes.com/advisor/in/personal-finance/how-governments-reduce-inflation/
+
+      https://byjus.com/question-answer/how-does-a-country-control-inflation/
+
+      https://www.imf.org/en/Blogs/Articles/2022/11/21/how-fiscal-restraint-can-help-fight-inflation
     name: How does inflation occur
     stepItems: []
     uuid: 9f639df9-9f97-4899-a1d7-f702e7c6489e
