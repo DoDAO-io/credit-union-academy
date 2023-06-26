@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T17:18:00.840Z'
+created: '2023-06-26T17:19:24.828Z'
 guideType: onboarding
 key: assets-vs-liabilities-credit-union-academy
 name: Assets Vs Liabilities
@@ -114,6 +114,43 @@ steps:
     name: '  Types of assets'
     stepItems: []
     uuid: e91d5645-9d7b-4394-8539-c87c1377c427
+  - content: ''
+    name: Step 4
+    stepItems: []
+    uuid: bc65b549-4ac1-4221-ac96-bd38bf6648b7
+  - content: >
+      Liabilities are debts or obligations that a person or company owes to
+      someone else. They can be in the form of money, goods, or services.
+      Liabilities are an important part of a company's financial structure and
+      are used to finance operations and expansions. They are recorded on the
+      right side of a company's balance sheet. 
+
+
+      Liabilities can be categorized into current liabilities and non-current
+      liabilities. Current liabilities are short-term debts and obligations that
+      are due within one year. They include accounts payable, loans, accrued
+      expenses, and income taxes. Non-current liabilities, on the other hand,
+      are debts and obligations that are due in the future but not within the
+      next year. They include long-term loans, mortgages, and leases.
+
+
+      Contingent liabilities are a special type of liability that may or may not
+      occur in the future. They are obligations that depend on the outcome of
+      uncertain events, such as lawsuits or warranty claims. Contingent
+      liabilities are only reported if they are probable and the cost can be
+      reasonably estimated.
+
+
+      Understanding liabilities is important for businesses and individuals to
+      assess their financial health and make informed decisions. Businesses need
+      to know their liabilities to manage their cash flow, plan for future
+      expenses, and determine their ability to meet their financial obligations.
+      Accountants play a crucial role in tracking and reporting liabilities,
+      ensuring that financial statements accurately reflect a company's
+      financial position.
+    name: Step 5
+    stepItems: []
+    uuid: 119363ce-0907-49ba-9061-3c04473e010f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: assets-vs-liabilities-credit-union-academy
