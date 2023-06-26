@@ -1,0 +1,70 @@
+categories: []
+content: New Guide
+created: '2023-06-26T17:12:57.387Z'
+guideType: onboarding
+key: assets-vs-liabilities-credit-union-academy
+name: Assets Vs Liabilities
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      Assets are resources that have economic value and are owned or controlled
+      by an individual, corporation, or country. They are acquired or created
+      with the intention of increasing the value of a firm or benefiting its
+      operations. Assets can take various forms, such as physical items like
+      machinery or buildings, or intangible items like patents or trademarks.
+      The main purpose of an asset is to generate cash flow, reduce expenses, or
+      improve sales in the future. Assets are reported on a company's balance
+      sheet and can be classified as current, fixed, financial, or intangible. 
+
+
+      An asset represents an economic resource that is owned or controlled by a
+      company. It can be something that is scarce and has the ability to produce
+      economic benefits by generating cash inflows or decreasing cash outflows.
+      Assets can also provide access that other individuals or firms do not
+      have, and this access can be legally enforceable. For something to be
+      considered an asset, a company must have a right to it as of the date of
+      the company's financial statements. 
+
+
+      Assets can be broadly categorized into current assets, fixed assets,
+      financial investments, and intangible assets. Current assets are
+      short-term resources that are expected to be converted into cash or
+      consumed within one year. They include cash and cash equivalents, accounts
+      receivable, inventory, and prepaid expenses. Fixed assets are resources
+      with an expected life of greater than a year, such as plants, equipment,
+      and buildings. Financial assets represent investments in the assets and
+      securities of other institutions, such as stocks and bonds. Intangible
+      assets are economic resources that have no physical presence, such as
+      patents or trademarks. 
+    name: Introduction
+    stepItems: []
+    uuid: 03de28f6-5a38-4e63-a1ad-b023b78d0427
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: a8799e1d-b0cb-4014-bad3-79d08a34adcc
+      - answerKeys:
+          - choice_1
+          - choice_2
+          - choice_3
+        choices:
+          - content: Choice 1
+            key: choice_1
+          - content: Choice 2
+            key: choice_2
+          - content: Choice 3
+            key: choice_3
+          - content: Choice 4
+            key: choice_4
+        content: Contents of the question
+        type: MultipleChoice
+        uuid: ba024ea8-5207-4cf0-a786-bf776fa4a679
+    uuid: 0975dcc1-df2d-4f27-82c9-9d45a66cba24
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 94cb2286-6e2c-44fa-a4d0-356d9ca37574
+version: 1
