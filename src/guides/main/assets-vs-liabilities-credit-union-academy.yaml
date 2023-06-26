@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T17:21:56.119Z'
+created: '2023-06-26T17:24:45.775Z'
 guideType: onboarding
 key: assets-vs-liabilities-credit-union-academy
 name: Assets Vs Liabilities
@@ -198,9 +198,61 @@ steps:
       consult qualified professionals. They should also be aware of potential
       financial mistakes and learn from them to improve their financial
       decision-making.
-    name: Step 7
+    name: How to focus on increasing asset
     stepItems: []
     uuid: faeda1c8-7964-499b-9b2b-68486808fa85
+  - content: ''
+    name: Introduction Evaluation
+    stepItems: []
+    uuid: 1fce064e-54a2-439e-90d1-cfc7f9c9dabe
+  - content: >-
+      To keep your liabilities low, it is important to understand what
+      liabilities are and how they can impact your financial health. Liabilities
+      are debts or obligations that you owe to someone else, such as loans,
+      credit card debt, or unpaid bills. Here are some strategies to keep your
+      liabilities low:
+
+
+      1. Minimize borrowing: One of the most effective ways to keep your
+      liabilities low is to minimize borrowing. Only take on debt when necessary
+      and avoid unnecessary expenses that can lead to debt. Prioritize saving
+      money and living within your means.
+
+
+      2. Pay off debts: If you have existing debts, focus on paying them off as
+      quickly as possible. Make regular payments and consider paying more than
+      the minimum amount due to reduce the overall interest you will pay over
+      time. Prioritize high-interest debts first to save money in the long run.
+
+
+      3. Create a budget: Creating a budget can help you track your income and
+      expenses, and ensure that you are not spending more than you earn. By
+      sticking to a budget, you can avoid unnecessary expenses and have more
+      control over your financial situation.
+
+
+      4. Build an emergency fund: Having an emergency fund can help you avoid
+      taking on debt in case of unexpected expenses or financial emergencies.
+      Aim to save at least three to six months' worth of living expenses in an
+      easily accessible account.
+
+
+      5. Seek professional advice: If you are struggling with managing your
+      liabilities, consider seeking professional advice from a financial advisor
+      or credit counselor. They can help you create a plan to reduce your
+      liabilities and improve your financial situation.
+
+
+      By following these strategies, you can keep your liabilities low and
+      improve your overall financial health. Remember that managing your
+      liabilities is an ongoing process and requires discipline and commitment.
+    name: How to keep your liabilities low
+    stepItems: []
+    uuid: 62d5d50e-fd51-4cfb-b2ec-884136c07e81
+  - content: ''
+    name: Introduction Evaluation
+    stepItems: []
+    uuid: 5a3dbccf-4357-454c-a714-ee849b99ea86
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: assets-vs-liabilities-credit-union-academy
