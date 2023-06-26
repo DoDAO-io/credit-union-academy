@@ -1,0 +1,69 @@
+{
+  "categories": [],
+  "content": "Understanding the fundamentals of Credit Score",
+  "created": "2023-06-26T17:58:21.963Z",
+  "guideType": "onboarding",
+  "key": "understanding-credit-score-credit-union-academy",
+  "name": "Understanding Credit Score",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "Heading 1: What is Credit Score\n\nA credit score is a three-digit number that represents your credit risk, or the likelihood that you will pay your bills on time. It is used by creditors and lenders to determine whether to approve you for a new credit account and what terms to offer you. Credit scores can range from 300 to 850, with higher scores indicating a lower credit risk. However, there is no specific number that guarantees approval or a certain interest rate. Different lenders may use different scoring models and consider various factors when evaluating your creditworthiness.\n\nHeading 2: How Credit Score is Measured and Interpreted\n\nCredit scores are calculated based on the information in your credit reports. Factors that are typically taken into account include your payment history, the amount of debt you owe, the length of your credit history, new credit applications, and the types of credit you have. Each factor is weighted differently, with payment history and amounts owed being the most significant. Lenders and creditors prefer to see a history of on-time payments and a low credit utilization rate, which is the amount of credit you're using compared to your total available credit.\n\nIt's important to note that there are multiple credit scoring models and each may use different algorithms to calculate your score. Additionally, your credit scores may vary depending on the credit reporting agency and the information they have on your credit report. For example, an auto lender may use a scoring model that places more emphasis on your payment history for auto loans. It's also worth mentioning that checking your own credit score does not impact your credit history or score.\n\nUnderstanding your credit score is crucial for your financial health. By knowing the factors that contribute to your score, such as payment history and credit utilization, you can take steps to improve it. This can help you qualify for better terms on financial products like credit cards, mortgages, and auto loans. It's also important to regularly check your credit reports for errors and take action to correct them. By being proactive and responsible with your credit, you can maintain a good credit score and have more opportunities for financial success.",
+      "name": "What is Credit Score",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "af511953-c582-4eb0-8963-310df677289a"
+        }
+      ],
+      "uuid": "2bb36091-af1e-4c91-ae88-599890a3b1fd"
+    },
+    {
+      "content": "",
+      "name": "What is Credit Score",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "9a608a3f-e131-45e6-a51c-6312c0490d06"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "8481e2fe-bb2e-462f-ab54-9d430ef849c1"
+        }
+      ],
+      "uuid": "0498ff17-1b8f-496a-bdb2-928800cc8afe"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "97a61ceb-7e84-4d06-b667-3f3531c005f2",
+  "version": 1
+}
