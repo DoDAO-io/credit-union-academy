@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-26T17:19:57.496Z",
+  "created": "2023-06-26T17:21:56.119Z",
   "guideType": "onboarding",
   "key": "assets-vs-liabilities-credit-union-academy",
   "name": "Assets Vs Liabilities",
@@ -63,7 +63,7 @@
     },
     {
       "content": "",
-      "name": "Step 4",
+      "name": "Introduction Evaluation",
       "stepItems": [],
       "uuid": "bc65b549-4ac1-4221-ac96-bd38bf6648b7"
     },
@@ -72,6 +72,18 @@
       "name": "What are liabilities",
       "stepItems": [],
       "uuid": "119363ce-0907-49ba-9061-3c04473e010f"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [],
+      "uuid": "43a815f6-a021-455c-90ff-24ae6fde5c21"
+    },
+    {
+      "content": "Generation Z, or Gen Z, is a group of individuals born between 1997 and 2012. They have unique values and characteristics that shape their financial behaviors. To increase their assets, Gen Z can focus on several key strategies.\n\nFirstly, Gen Z can prioritize saving money. A study found that about 32% of Gen Z individuals in India are inclined towards saving money rather than spending it. Setting aside a portion of their income regularly can help them build a strong financial foundation. They can consider opening a savings account or investing in fixed deposits to earn interest on their savings.\n\nSecondly, Gen Z can start investing early. The power of compounding can significantly grow their wealth over time. By investing in mutual funds, stocks, or exchange-traded funds (ETFs), they can take advantage of the potential for higher returns. It is important for them to do thorough research and seek professional advice before making investment decisions.\n\nThirdly, Gen Z can focus on budgeting and financial discipline. Creating a budget can help them track their income and expenses, and ensure that they are living within their means. They can use budgeting software or mobile applications to make it easier to manage their finances. By practicing financial discipline, they can avoid unnecessary expenses and save more money.\n\nAdditionally, Gen Z can consider higher education as an investment in their future. While higher education can be expensive, it is often necessary for career advancement. They can explore scholarships, grants, or education loans to fund their education. Repaying the education loan should be a priority in their monthly budget to avoid accumulating debt.\n\nLastly, Gen Z should be cautious about seeking financial advice from unreliable sources. While they may receive advice from friends, family members, or influencers, it is important to do their own research and consult qualified professionals. They should also be aware of potential financial mistakes and learn from them to improve their financial decision-making.",
+      "name": "Step 7",
+      "stepItems": [],
+      "uuid": "faeda1c8-7964-499b-9b2b-68486808fa85"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
