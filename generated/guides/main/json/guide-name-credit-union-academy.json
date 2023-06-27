@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-27T17:46:46.612Z",
+  "created": "2023-06-27T18:24:24.331Z",
   "guideType": "onboarding",
   "key": "guide-name-credit-union-academy",
   "name": "Inflation and its impact",
@@ -17,42 +17,7 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "c40d560b-c348-4f65-b6e7-bb03f77a5782"
-        },
-        {
-          "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
-          ],
-          "choices": [
-            {
-              "content": "Choice 1",
-              "key": "choice_1"
-            },
-            {
-              "content": "Choice 2",
-              "key": "choice_2"
-            },
-            {
-              "content": "Choice 3",
-              "key": "choice_3"
-            },
-            {
-              "content": "Choice 4",
-              "key": "choice_4"
-            }
-          ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "ea4fbfcb-ac17-433c-9fbe-21d93b67ac7e"
-        }
-      ],
+      "stepItems": [],
       "uuid": "7debd680-e366-4719-a29f-8a478465be73"
     },
     {
@@ -164,9 +129,36 @@
     },
     {
       "content": "",
-      "name": "Evaluation",
-      "stepItems": [],
-      "uuid": "6499f67e-1b62-4ac2-ad61-3fe75e46e03d"
+      "name": "Step 12",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Lower interest rates",
+              "key": "A"
+            },
+            {
+              "content": "Work closely with the central bank to implement monetary policies",
+              "key": "B"
+            },
+            {
+              "content": "Increase government securities to block commercial banks' money",
+              "key": "C"
+            },
+            {
+              "content": "Increase overall government expenditure",
+              "key": "D"
+            }
+          ],
+          "content": "What can the government do to control the money supply in the economy and manage inflation?",
+          "type": "SingleChoice",
+          "uuid": "201c49d6-e344-480f-a1e8-3ac431289c2a"
+        }
+      ],
+      "uuid": "669ba4f2-a68a-4e1f-a841-96f93f3693de"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
