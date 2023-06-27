@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-26T17:33:39.869Z",
+  "created": "2023-06-27T19:13:24.973Z",
   "guideType": "onboarding",
   "key": "assets-vs-liabilities-credit-union-academy",
   "name": "Assets Vs Liabilities",
@@ -17,7 +17,34 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Resources that have economic value and are owned or controlled by an individual, corporation, or country",
+              "key": "A"
+            },
+            {
+              "content": "Short-term resources that are expected to be converted into cash or consumed within one year",
+              "key": "B"
+            },
+            {
+              "content": "Resources that have economic value and can be physical or intangible",
+              "key": "C"
+            },
+            {
+              "content": "Investments in the assets and securities of other institutions",
+              "key": "D"
+            }
+          ],
+          "content": "What are assets?",
+          "type": "SingleChoice",
+          "uuid": "7afd78fe-b962-48a8-9820-49e0a9eb18eb"
+        }
+      ],
       "uuid": "0975dcc1-df2d-4f27-82c9-9d45a66cba24"
     },
     {
@@ -29,7 +56,34 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Patent",
+              "key": "A"
+            },
+            {
+              "content": "Trademark",
+              "key": "B"
+            },
+            {
+              "content": "Real estate",
+              "key": "C"
+            },
+            {
+              "content": "Goodwill",
+              "key": "D"
+            }
+          ],
+          "content": "Which of the following is an example of a tangible asset?",
+          "type": "SingleChoice",
+          "uuid": "956e9876-61b9-405c-b3ce-08d547fe4f9d"
+        }
+      ],
       "uuid": "bc65b549-4ac1-4221-ac96-bd38bf6648b7"
     },
     {
@@ -41,7 +95,34 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Assets that a person or company owes to someone else",
+              "key": "A"
+            },
+            {
+              "content": "Debts or obligations that a person or company owes to someone else",
+              "key": "B"
+            },
+            {
+              "content": "Debts or obligations that a person or company owes to someone else. They can be in the form of money, goods, or services.",
+              "key": "C"
+            },
+            {
+              "content": "Goods or services that a person or company owes to someone else",
+              "key": "D"
+            }
+          ],
+          "content": "What are liabilities?",
+          "type": "SingleChoice",
+          "uuid": "f6b83b12-4d55-4710-a295-fa7cadac9cdd"
+        }
+      ],
       "uuid": "43a815f6-a021-455c-90ff-24ae6fde5c21"
     },
     {
@@ -53,7 +134,34 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Opening a savings account",
+              "key": "A"
+            },
+            {
+              "content": "Investing in fixed deposits",
+              "key": "B"
+            },
+            {
+              "content": "Saving money regularly",
+              "key": "C"
+            },
+            {
+              "content": "Seeking professional advice",
+              "key": "D"
+            }
+          ],
+          "content": "What is an important aspect of increasing assets?",
+          "type": "SingleChoice",
+          "uuid": "8acc952c-bc9c-4f39-b677-b6ae546d1236"
+        }
+      ],
       "uuid": "1fce064e-54a2-439e-90d1-cfc7f9c9dabe"
     },
     {
@@ -65,7 +173,34 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To minimize borrowing",
+              "key": "A"
+            },
+            {
+              "content": "To pay off debts",
+              "key": "B"
+            },
+            {
+              "content": "To track income and expenses",
+              "key": "C"
+            },
+            {
+              "content": "To build an emergency fund",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of creating a budget ?",
+          "type": "SingleChoice",
+          "uuid": "31ad96d9-7308-417e-995c-3d921c007ea3"
+        }
+      ],
       "uuid": "5a3dbccf-4357-454c-a714-ee849b99ea86"
     }
   ],
