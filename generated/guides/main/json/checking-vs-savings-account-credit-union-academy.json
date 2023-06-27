@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-26T19:19:24.415Z",
+  "created": "2023-06-27T17:26:11.964Z",
   "guideType": "onboarding",
   "key": "checking-vs-savings-account-credit-union-academy",
   "name": "Checking Vs Savings Account",
@@ -9,16 +9,9 @@
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "\nIntroduction Comments \n        ",
+      "content": "Checking accounts are a type of bank account that allows you to easily access and manage your money. They are designed for everyday transactions, such as paying bills, making purchases, and withdrawing cash. Unlike savings accounts, checking accounts do not typically earn interest on the money you deposit. However, they offer several advantages that make them a popular choice for many people.\n\nOne of the main benefits of a checking account is its convenience. With a checking account, you can easily access your money through various channels, such as debit cards, checks, and online banking. This makes it convenient to make payments and manage your finances on a day-to-day basis. You can use your debit card to make purchases at stores or online, write checks to pay bills, and transfer money to other accounts.\n\nAnother advantage of checking accounts is that they often come with features like overdraft protection and direct deposit. Overdraft protection allows you to make transactions even if you don't have enough money in your account, but it may come with fees. Direct deposit allows you to have your paycheck or other income automatically deposited into your account, saving you time and effort.\n\nChecking accounts also provide a level of security for your money. Most banks offer fraud protection and monitoring services to help detect and prevent unauthorized transactions. Additionally, many checking accounts are insured by the Federal Deposit Insurance Corporation (FDIC), which means that even if the bank fails, your deposits are protected up to a certain amount.\n\nHowever, there are also some drawbacks to consider when it comes to checking accounts. One disadvantage is that they typically do not earn interest on the money you deposit. This means that your money may not grow as much as it would in a savings account or other investment options. Additionally, some checking accounts may have fees, such as monthly maintenance fees or transaction fees, which can eat into your balance.\n\n",
       "name": "What are checking accounts ",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "30c20e7a-a4ca-4097-98c7-5005849aa7a8"
-        }
-      ],
+      "stepItems": [],
       "uuid": "04d09f70-d6df-4e55-a22b-fefd1a848cca"
     },
     {
@@ -63,7 +56,7 @@
       "uuid": "2db6085f-8395-4b38-a60f-a52038a26fdc"
     },
     {
-      "content": "",
+      "content": "A savings account is a type of bank account that is designed for holding money that you don't need to use immediately. It is a safe place to keep your funds for future use, whether you're saving for a down payment on a home, a vacation, or a wedding. One of the main advantages of a savings account is that it allows your money to grow over time. Unlike keeping your money at home, a savings account pays interest, which means you earn some income on your balance. While the interest rates offered by banks on savings accounts are generally low, it's still an opportunity to make your money work for you.\n\nAnother benefit of a savings account is that it is low risk. Your money in a savings account is insured by the Canada Deposit Insurance Corporation (CDIC) up to $100,000 per depositor and insured category. This means that even if the bank fails, your deposits are protected. Additionally, savings accounts usually have no monthly fees, unlike checking accounts that can be costly. They are also easy to access, with the ability to open an account online and transfer money to external banks that you have linked to your account.\n\nOne of the advantages of a savings account is that there are no lock-in periods. Unlike other investment options like GICs (term deposits) that may have a specific period of time before you can withdraw your funds, savings accounts allow you to deposit or withdraw money at any time. Most savings accounts also do not have a minimum balance requirement, so you can start saving with as little as $1. However, it's important to note that the interest rates offered by banks on savings accounts can fluctuate, which can make it harder to budget as you can't be certain how much income to expect.\n\nWhile savings accounts have many advantages, there are also some drawbacks to consider. One disadvantage is that the interest rates offered by banks on savings accounts are generally low. This means that your money may not grow as much as it would in other investment options. Additionally, some big banks may have a minimum balance requirement to earn interest in your savings account. Another drawback is that savings accounts have limited transactions. Some banks may impose fees or limits on the number of withdrawals or transfers you can make from your savings account. Finally, savings accounts may not offer in-person support, as many of the best savings account rates are offered by digital banks that don't have physical branches. However, you can conduct all transactions using online banking, which may be sufficient for many people.",
       "name": "What are savings accounts",
       "stepItems": [],
       "uuid": "2935ce53-5251-45ae-806e-76c759e451da"
@@ -75,7 +68,7 @@
       "uuid": "6ff7584a-cddf-43b2-8b2a-56f30e755e79"
     },
     {
-      "content": "",
+      "content": "Checking accounts are designed for everyday transactions and provide easy access to your money. They offer convenience through various channels such as debit cards, checks, and online banking. Checking accounts often come with features like overdraft protection and direct deposit, which can save you time and effort. They also provide security with fraud protection and FDIC insurance. However, one drawback is that they typically do not earn interest on your deposits and may have fees such as monthly maintenance fees or transaction fees.\n\nOn the other hand, savings accounts are designed for holding money that you don't need to use immediately. They allow your money to grow over time through interest payments. Savings accounts are low risk and offer protection through CDIC insurance. They usually have no monthly fees and are easy to access through online banking. Savings accounts also offer flexibility with no lock-in periods and no minimum balance requirements. However, the interest rates on savings accounts are generally low, and some banks may have minimum balance requirements to earn interest. There may also be limits on the number of withdrawals or transfers you can make.\n\nChecking accounts provide convenience, security, and features like overdraft protection and direct deposit. However, they typically do not earn interest and may have fees. Savings accounts offer the opportunity for your money to grow over time, low risk, and no monthly fees. They are flexible and easy to access, but the interest rates may be low, and there may be limits on transactions. It's important to consider your financial goals and needs when choosing between a checking and savings account.",
       "name": "What are fees for each account",
       "stepItems": [],
       "uuid": "9a5c7874-c492-4207-9705-f22672ee35d2"
@@ -87,8 +80,8 @@
       "uuid": "bdb9a01a-9959-4fbe-814d-5cc65a64218f"
     },
     {
-      "content": "",
-      "name": "Which account is preferred for u",
+      "content": "When it comes to choosing between a checking account and a savings account, it ultimately depends on your financial goals and needs. Checking accounts are designed for everyday transactions and provide easy access to your money. They offer convenience through various channels such as debit cards, checks, and online banking. Checking accounts often come with features like overdraft protection and direct deposit, which can save you time and effort. They also provide security with fraud protection and FDIC insurance. However, one drawback is that they typically do not earn interest on your deposits and may have fees such as monthly maintenance fees or transaction fees.\n\nOn the other hand, savings accounts are designed for holding money that you don't need to use immediately. They allow your money to grow over time through interest payments. Savings accounts are low risk and offer protection through CDIC insurance. They usually have no monthly fees and are easy to access through online banking. Savings accounts also offer flexibility with no lock-in periods and no minimum balance requirements. However, the interest rates on savings accounts are generally low, and some banks may have minimum balance requirements to earn interest. There may also be limits on the number of withdrawals or transfers you can make.\n\nChecking accounts provide convenience, security, and features like overdraft protection and direct deposit. However, they typically do not earn interest and may have fees. Savings accounts offer the opportunity for your money to grow over time, low risk, and no monthly fees. They are flexible and easy to access, but the interest rates may be low, and there may be limits on transactions. It's important to consider your financial goals and needs when choosing between a checking and savings account. If you need easy access to your money for everyday expenses, a checking account may be preferred. If you're looking to save and grow your money over time, a savings account may be the better option. Ultimately, it's important to choose the account that aligns with your financial goals and provides the features and benefits that are most important to you.",
+      "name": "Which account is preferred ",
       "stepItems": [],
       "uuid": "f9b0f786-59db-4865-9532-b2b2794b42a8"
     },
@@ -100,6 +93,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "0a81723b-1771-4750-970d-437f6b94b61c",
+  "uuid": "checking-vs-savings-account-credit-union-academy",
   "version": 1
 }
