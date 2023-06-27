@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T19:45:45.158Z'
+created: '2023-06-27T19:41:49.521Z'
 guideType: onboarding
 key: neo-banks-credit-union-academy
 name: NEO banks
@@ -8,156 +8,97 @@ publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
   - content: >-
-      Neobanks, also known as digital banks or online banks, are financial
-      institutions that operate solely online. They offer a range of banking
-      services through user-friendly mobile apps and online platforms, allowing
-      customers to access their accounts, perform transactions, and manage their
-      finances anytime and anywhere. One of the advantages of neobanks is the
-      convenience they provide, eliminating the need to visit physical branches.
-      They also often offer lower fees compared to traditional banks, thanks to
-      their lower operating costs. Neobanks can provide competitive or even
-      fee-free banking services, including lower account maintenance fees,
-      reduced transaction fees, and fewer penalties or charges. 
+      Neobanks, or digital banks, operate entirely online and offer a range of
+      banking services through mobile apps and online platforms. They provide
+      convenient access to accounts, transactions, and financial management from
+      anywhere at any time. Neobanks often have lower fees compared to
+      traditional banks due to their reduced operating costs, offering
+      competitive or even fee-free banking services with lower maintenance fees,
+      transaction fees, and penalties.
 
 
-      In addition to convenience and lower fees, neobanks offer enhanced digital
-      features and innovative tools. These features can include real-time
-      transaction notifications, spending categorization, personalized
-      budgeting, savings goals, and insights into spending patterns. These tools
-      empower customers to better manage their finances and make informed
-      financial decisions. Neobanks also prioritize speed and efficiency,
-      streamlining their digital banking processes for faster and more efficient
-      transactions. Opening an account, applying for loans, and conducting
-      transfers or payments can be completed swiftly, reducing paperwork and
-      processing times. 
+      Moreover, neobanks excel in digital features and innovative tools that
+      enhance the banking experience. These can include real-time transaction
+      notifications, personalized budgeting, spending categorization, savings
+      goals, and valuable insights into spending habits. Neobanks prioritize
+      speed and efficiency, streamlining processes such as account opening, loan
+      applications, and payments, resulting in faster and more efficient
+      transactions with reduced paperwork.
 
 
-      Furthermore, neobanks have the potential to extend banking services to
-      unbanked or underbanked populations. By leveraging technology and
-      eliminating certain barriers, neobanks can provide financial inclusion and
-      enable individuals to participate in the formal banking system. This can
-      have a positive impact on underserved populations and contribute to
-      economic growth and development. However, there are also some pain points
-      associated with neobanks. These include the limited physical presence of
-      neobanks, which can be a disadvantage for customers who prefer in-person
-      services or need access to physical banking facilities. Customer support
-      challenges and deposit insurance variations are also pain points to
-      consider. Additionally, neobanks may have limited product offerings
-      compared to traditional banks, and there are technology and security risks
-      associated with their reliance on digital platforms.
+      Another significant advantage of neobanks is their potential to promote
+      financial inclusion. By leveraging technology and eliminating barriers,
+      neobanks can extend banking services to unbanked or underbanked
+      individuals, helping them participate in the formal banking system and
+      contribute to economic growth and development.
     name: What are neo banks
     stepItems: []
     uuid: 3a1348cd-b632-4a22-9b40-1d7059bad757
   - content: ''
-    name: Introduction Evaluation
+    name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 129e6f61-8a10-4ab1-862b-d26d581e0bc9
       - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
+          - B
         choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 24402efa-fddb-4408-b4b1-f9ddb5d3468b
+          - content: A. Traditional banks with physical branches
+            key: A
+          - content: B. Financial institutions that operate solely online
+            key: B
+          - content: C. Banks that offer only savings accounts
+            key: C
+          - content: D. Banks that provide in-person services only
+            key: D
+        content: What is a neobank?
+        type: SingleChoice
+        uuid: 64544179-d833-43ff-b697-4ca2313ce043
     uuid: 4487b356-b040-480d-a024-95d214098f59
   - content: >-
-      Neobanks, also known as digital banks or online banks, offer several
-      advantages and benefits to customers. One of the pros of neobanks is the
-      convenience they provide. With user-friendly mobile apps and online
-      platforms, customers can access their accounts, perform transactions, and
-      manage their finances anytime and anywhere, eliminating the need to visit
-      physical branches. Another advantage of neobanks is the lower fees they
-      often offer. Due to their lower operating costs compared to traditional
-      banks, neobanks can provide competitive or even fee-free banking services.
-      This can include lower or no monthly account maintenance fees, reduced
-      transaction fees, and fewer penalties or charges for various banking
-      activities.
+      Neobanks, also known as digital banks or online banks, offer convenience
+      and lower fees compared to traditional banks. They provide user-friendly
+      mobile apps and online platforms, allowing customers to access their
+      accounts and manage their finances anywhere. Neobanks often have lower or
+      no monthly account maintenance fees, reduced transaction fees, and fewer
+      penalties or charges. They also offer innovative features like real-time
+      transaction notifications, personalized budgeting, and savings goals,
+      empowering customers to make informed financial decisions. 
 
 
-      Neobanks also offer enhanced digital features and innovative tools. This
-      can include real-time transaction notifications, spending categorization,
-      personalized budgeting, savings goals, and insights into spending
-      patterns. These features empower customers to better manage their finances
-      and make informed financial decisions. Speed and efficiency are also pros
-      of neobanks. Digital banking processes in neobanks are typically
-      streamlined, resulting in faster and more efficient transactions. Opening
-      an account, applying for loans, and conducting transfers or payments can
-      be completed swiftly, reducing paperwork and processing times. Lastly,
-      neobanks have the potential to extend banking services to unbanked or
-      underbanked populations. By leveraging technology and eliminating certain
-      barriers, neobanks can provide financial inclusion and enable individuals
-      to participate in the formal banking system. This can have a positive
-      impact on underserved populations and contribute to economic growth and
-      development.
-
-
-      However, there are also some pain points associated with neobanks. One
-      pain point is the limited physical presence of neobanks. Since they
-      operate solely online, they do not have physical branch locations. This
-      can be a disadvantage for customers who prefer in-person services or need
-      access to physical banking facilities. Another pain point is customer
-      support challenges. Some customers have reported difficulties in reaching
-      customer support or experiencing delays in issue resolution with certain
-      neobanks. As these banks heavily rely on digital communication channels,
-      it's crucial to assess the responsiveness and efficiency of their customer
-      service before committing to a particular institution. Deposit insurance
-      variations are also a pain point of neobanks. While they may offer deposit
-      insurance, it's important to verify the coverage limits and regulations.
-      Depending on the jurisdiction and specific neobank, the deposit insurance
-      scheme may differ from traditional banks, potentially resulting in
-      different levels of protection for customer deposits. Limited product
-      offerings are another pain point of neobanks. While they often provide
-      basic banking services like savings and checking accounts, they might have
-      limited product offerings compared to traditional banks. Additional
-      services such as mortgage loans, investment options, or specialized
-      financial products may be unavailable or limited in scope. Lastly,
-      technology and security risks are a concern with neobanks. While they
-      boast advanced security measures, they heavily rely on technology and
-      digital platforms for their operations, which can expose them to certain
-      cybersecurity risks. It's important to evaluate the bank's security
-      measures, encryption protocols, and data protection policies to ensure the
-      safety of personal and financial information.
-
-
-      In comparison, traditional banks have physical branches coupled with
-      online banking services. They offer a wider range of services including
-      lines of credit, financial advisors, credit cards, investing services, and
-      more. Traditional banks often have complicated fee structures and may
-      charge higher fees for their services. They have been around for many
-      years and have established deep relationships with customers. When
-      considering whether to sign up with a neobank or a traditional bank, there
-      are a few things to consider. If you prefer face-to-face contact and
-      personalized service, a traditional bank might be a better fit for you.
-      Neobanks do not have physical branches, so if you need help with something
-      complicated or have to execute a complex transaction, you may not be able
-      to talk to someone in person. Additionally, if you are not very
-      tech-savvy, a neobank may not be the best option for you as they rely
-      heavily on digital platforms. It's also important to consider the security
-      and stability of the bank. Neobanks may not always have banking licenses
-      and may partner with traditional banks to insure their products. This
-      means that your deposits may not always be insured, so it's important to
-      check if your neobank of choice has deposit insurance. If you require more
-      than basic banking services, such as loans, credit cards, or wealth
-      management, a traditional bank may be a better choice as neobanks
-      typically focus on offering basic services.
+      Neobanks prioritize speed and efficiency, streamlining processes and
+      reducing paperwork. They have the potential to extend banking services to
+      unbanked or underbanked populations, contributing to financial inclusion.
+      However, challenges include limited physical presence, customer support
+      issues, deposit insurance variations, limited product offerings, and
+      technology and security risks. Traditional banks offer a wider range of
+      services but may have complicated fee structures and lack the convenience
+      of online banking. Consider personal preferences, technological comfort,
+      and specific banking needs when choosing between neobanks and traditional
+      banks.
     name: How do they work
     stepItems: []
     uuid: 1022b7d4-ce1d-42d2-8922-7874d7dec7ce
   - content: ''
-    name: Step 4
-    stepItems: []
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - D
+        choices:
+          - content: Convenience and lower fees
+            key: A
+          - content: Wider range of services
+            key: B
+          - content: >-
+              Lower or no monthly account maintenance fees, reduced transaction
+              fees, and fewer penalties or charges
+            key: C
+          - content: >-
+              Personal preferences, technological comfort, and specific banking
+              needs
+            key: D
+        content: >-
+          What should be considered when choosing between neobanks and
+          traditional banks?
+        type: SingleChoice
+        uuid: 5c9d46e9-d9a8-41d5-9d33-9d9bf7f02aed
     uuid: 1e025e01-d859-4a94-b37f-47d88e6a66aa
   - content: >-
       Neobanks, also known as digital banks or online banks, offer several
@@ -199,8 +140,22 @@ steps:
     stepItems: []
     uuid: fb2170f6-ae5d-4713-b1be-f3e630588505
   - content: ''
-    name: Step 6
-    stepItems: []
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: Convenience
+            key: A
+          - content: Enhanced digital features
+            key: B
+          - content: Lower fees
+            key: C
+          - content: Speed and efficiency
+            key: D
+        content: What is one potential benefit of neobanks?
+        type: SingleChoice
+        uuid: dcdbd91e-ef6b-4ae4-85e9-815ec925796d
     uuid: 0fa99a60-292a-4b92-bac3-aeb6a08093a2
   - content: >-
       Neobanks, also known as digital banks or online banks, offer convenience
@@ -244,8 +199,22 @@ steps:
     stepItems: []
     uuid: 9278ea10-a561-4f91-91e5-06f9e01c0a11
   - content: ''
-    name: Step 8
-    stepItems: []
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Limited product offerings
+            key: A
+          - content: Customer support challenges
+            key: B
+          - content: Limited physical presence
+            key: C
+          - content: Technology and security risks
+            key: D
+        content: What is a pain point associated with neobanks?
+        type: SingleChoice
+        uuid: 14432728-8776-48fc-ae1b-d4538b6d56e1
     uuid: 4616f0db-da26-4e7f-9a89-613991f9c711
   - content: >+
       Neobanks and traditional banks are two different types of financial
@@ -300,10 +269,28 @@ steps:
     stepItems: []
     uuid: 6eef1240-ec1b-4e13-a3ae-0449aa53d5d2
   - content: ''
-    name: Step 10
-    stepItems: []
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - D
+        choices:
+          - content: Face-to-face contact and personalized service.
+            key: A
+          - content: Tech-savviness and reliance on digital platforms.
+            key: B
+          - content: Security and stability of the bank.
+            key: C
+          - content: >-
+              More than basic banking services such as loans, credit cards, or
+              wealth management.
+            key: D
+        content: >-
+          What should be considered when deciding between a neobank and a
+          traditional bank?
+        type: SingleChoice
+        uuid: 728776d1-9760-4f71-b187-f4aaf5be2247
     uuid: c9fe90dd-919e-4942-8be9-df55baa68e89
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 8f491a0b-9d6a-4cc5-95cb-eeab4f91df0e
+uuid: neo-banks-credit-union-academy
 version: 1
