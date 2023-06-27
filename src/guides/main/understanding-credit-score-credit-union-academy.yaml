@@ -1,6 +1,6 @@
 categories: []
 content: Understanding different aspects of Credit Score
-created: '2023-06-27T09:43:59.849Z'
+created: '2023-06-27T09:55:21.842Z'
 guideType: onboarding
 key: understanding-credit-score-credit-union-academy
 name: Understanding Credit Score
@@ -47,7 +47,7 @@ steps:
         uuid: 013fc64b-415f-474e-80c5-6f313467c75c
     uuid: 777d49ab-d5fc-474a-8af5-85127a052c5e
   - content: ''
-    name: Introduction Evaluation
+    name: What is Credit Score
     stepItems:
       - label: Full Name
         required: false
@@ -69,8 +69,136 @@ steps:
         content: Contents of the question
         type: MultipleChoice
         uuid: 1fcf8b26-33d0-4f19-adc3-20d7165ca009
+      - answerKeys:
+          - B
+        choices:
+          - content: A number that represents the amount of debt you have
+            key: A
+          - content: A three-digit number designed to represent your credit risk
+            key: B
+          - content: The total amount of money you owe to creditors
+            key: C
+          - content: The number of credit accounts you have open
+            key: D
+        content: What is a credit score?
+        type: SingleChoice
+        uuid: 1058aa09-ba19-48ea-af34-f2f409f1b090
+      - answerKeys:
+          - C
+        choices:
+          - content: Your income and employment history
+            key: A
+          - content: The number of credit cards you have
+            key: B
+          - content: >-
+              Your payment history, credit utilization, length of credit
+              history, and new credit applications
+            key: C
+          - content: The types of credit accounts you have
+            key: D
+        content: What factors can affect your credit score?
+        type: SingleChoice
+        uuid: bc45d6c1-2063-4c8f-81dd-d1501d0b637a
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              It can make it easier to qualify for loans and credit cards, and
+              may result in better interest rates and loan terms
+            key: A
+          - content: It allows you to borrow more money from lenders
+            key: B
+          - content: It guarantees approval for any credit application
+            key: C
+          - content: It increases your chances of winning the lottery
+            key: D
+        content: Why is having a good credit score important?
+        type: SingleChoice
+        uuid: 6029c5d2-0815-4bb9-af1f-aff1b7ce8901
     uuid: b5c186e9-7a29-4b68-a075-2a1a34120d8d
+  - content: >-
+      There are different types of credit scores that lenders use to assess your
+      creditworthiness. The two most common scoring models are FICO Score and
+      VantageScore. FICO Score was developed by Fair Isaac Corporation and has
+      been widely used by lenders since 1989. VantageScore was created in 2006
+      by the three major credit bureaus as an alternative to FICO Score. Both
+      scoring models use a range of 300 to 850, with a higher score indicating
+      better credit behavior.
+
+
+      The calculation of credit scores is based on several factors. Payment
+      history is the most important factor, followed by the amount owed, length
+      of credit history, new credit, and credit mix. FICO Score and VantageScore
+      use these factors to determine your creditworthiness, but they may weigh
+      them differently. For example, FICO Score places more emphasis on payment
+      history, while VantageScore focuses more on credit utilization.
+
+
+      It's important to note that credit scores can vary depending on the credit
+      bureau and scoring model used. Each credit bureau may have different
+      information on your credit report, which can result in different scores.
+      Additionally, lenders may use their own custom scoring models or consider
+      other factors, such as income, when evaluating your creditworthiness.
+
+
+      To access your credit score, you can check with your bank or credit card
+      issuer, as many provide free access to credit scores. You can also request
+      a free credit report from each of the three major credit bureaus once a
+      year through AnnualCreditReport.com. It's a good idea to regularly review
+      your credit report for errors and dispute any inaccuracies.
+
+
+      Understanding your credit score and how it is calculated can help you make
+      informed financial decisions and improve your creditworthiness. By
+      maintaining a positive payment history, keeping your credit utilization
+      low, and managing a mix of different types of credit, you can increase
+      your chances of qualifying for the best terms on loans and credit cards.
+    name: Different types of Credit Score
+    stepItems: []
+    uuid: 45d97052-261b-4f01-a0a8-bd09c14622fc
+  - content: >-
+      A good credit score is a three-digit number that indicates your
+      creditworthiness and the likelihood that you will pay your bills on time.
+      Credit scores range from 300 to 850, and a higher score generally
+      indicates responsible credit behavior in the past. However, there is no
+      specific number that guarantees approval or a certain interest rate.
+      Different lenders may use different scoring models and may weigh factors
+      differently when assessing your risk as a borrower.
+
+
+      Credit scores are calculated based on information in your credit reports,
+      including your payment history, amounts owed, length of credit history,
+      new credit applications, and credit mix. It's important to note that
+      credit scores are just one factor that lenders consider when evaluating
+      your creditworthiness. They may also take into account your income and
+      other criteria.
+
+
+      To maintain a good credit score, it's important to make payments on time,
+      keep your credit utilization rate low, maintain a mix of different types
+      of credit, and avoid applying for too much new credit at once. Checking
+      your own credit score does not impact your credit history. By
+      understanding how credit scoring works and taking steps to improve your
+      score, you can increase your chances of qualifying for the best terms on
+      financial products like credit cards, mortgages, and auto loans.
+
+
+      In conclusion, a good credit score is a three-digit number that represents
+      your creditworthiness and the likelihood that you will pay your bills on
+      time. It is calculated based on factors such as your payment history,
+      amounts owed, length of credit history, new credit applications, and
+      credit mix. Maintaining a good credit score is important for qualifying
+      for the best terms on loans and credit cards. By practicing responsible
+      credit behavior, you can improve your creditworthiness and increase your
+      chances of getting approved for credit.
+    name: What is a good credit score
+    stepItems: []
+    uuid: 0c59d90f-6597-4d18-bbb1-86247b36272b
+  - content: ''
+    name: Improving Credit Score
+    stepItems: []
+    uuid: 6956dfc1-90f9-49c8-bf78-69845eb417f0
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: def2e109-fdd9-4fa7-b22e-7e0447214e41
+uuid: understanding-credit-score-credit-union-academy
 version: 1
