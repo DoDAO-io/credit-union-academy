@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-27T12:57:46.185Z'
+created: '2023-06-27T12:59:13.060Z'
 guideType: onboarding
 key: guide-name-credit-union-academy
 name: Inflation and its impact
@@ -127,7 +127,35 @@ steps:
     uuid: 9f639df9-9f97-4899-a1d7-f702e7c6489e
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: An increase in aggregate demand.
+            key: A
+          - content: A decrease in aggregate demand.
+            key: B
+          - content: An increase in aggregate supply.
+            key: C
+          - content: A decrease in aggregate supply.
+            key: D
+        content: What is one of the main causes of inflation?
+        type: SingleChoice
+        uuid: 1b9e1c20-b8ed-42c5-ba5b-7e165831687b
+      - answerKeys:
+          - D
+        choices:
+          - content: By increasing the cost of production.
+            key: A
+          - content: By decreasing consumer spending.
+            key: B
+          - content: By decreasing the money supply.
+            key: C
+          - content: By engaging in expansionary monetary policies.
+            key: D
+        content: How can central banks impact inflation?
+        type: SingleChoice
+        uuid: c8cbd534-a66a-4df8-a1db-bcae98c71a72
     uuid: 260fdd46-83a6-44fa-b382-16e6a305d89f
   - content: ''
     name: How does inflation affect invest
