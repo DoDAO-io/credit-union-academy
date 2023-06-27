@@ -1,0 +1,120 @@
+categories: []
+content: Best ways to manage Student Loans
+created: '2023-06-27T10:09:35.378Z'
+guideType: onboarding
+key: managing-student-loans-credit-union-academy
+name: Managing Student Loans
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      There are two main types of student loans: federal student loans and
+      private student loans. Federal student loans are loans that are issued by
+      the government and have lower interest rates compared to private loans.
+      They also come with borrower protections and flexible repayment options.
+      There are different types of federal student loans, such as Direct
+      Subsidized Loans, which are need-based loans for undergraduate students,
+      and Direct Unsubsidized Loans, which are available to undergraduate,
+      graduate, and professional students regardless of financial need. Another
+      type of federal student loan is the Direct PLUS Loan, which is available
+      to graduate or professional students and parents of dependent
+      undergraduate students.
+
+
+      On the other hand, private student loans are loans that are issued by
+      banks, credit unions, and other financial institutions. These loans have
+      higher interest rates compared to federal loans and require a credit
+      check. Private student loans also have less flexible repayment options
+      compared to federal loans. However, private loans can be a good option for
+      borrowers who don't qualify for federal loans or need to borrow more than
+      what federal loans provide. Private loans may also offer lower interest
+      rates for borrowers with excellent credit.
+
+
+      When deciding on a student loan, it's important to consider your
+      individual circumstances and financial needs. Federal student loans are
+      generally recommended as the first option to explore due to their lower
+      interest rates and borrower protections. However, if you need to borrow
+      more or don't qualify for federal loans, private student loans can be a
+      viable alternative. It's important to carefully compare the terms and
+      conditions of different loan options and choose the one that best suits
+      your needs.
+    name: Types of student loans
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: e96a09fb-f6b2-47a4-95d5-ac02662a1818
+    uuid: 59eee2e5-879c-4975-a28e-245ed1cda45f
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: 09d4ee8a-7a15-456b-b188-5b0b7a352d7c
+      - answerKeys:
+          - choice_1
+          - choice_2
+          - choice_3
+        choices:
+          - content: Choice 1
+            key: choice_1
+          - content: Choice 2
+            key: choice_2
+          - content: Choice 3
+            key: choice_3
+          - content: Choice 4
+            key: choice_4
+        content: Contents of the question
+        type: MultipleChoice
+        uuid: 961b4673-000b-4cd9-9826-6bfc7baa6823
+    uuid: c4846433-bd11-4c33-971d-6926c4a269b5
+  - content: >-
+      Budgeting is a crucial tool for effectively managing money with student
+      loans. It allows you to plan and allocate your income towards your loan
+      payments, while still maintaining a comfortable lifestyle. By creating a
+      budget, you can track your expenses and ensure that you have enough money
+      to cover your loan payments each month.
+
+
+      One way to budget effectively is to use the 20-30-50 plan. This plan
+      involves allocating 20% of your income towards your student loan payments,
+      30% towards your wants or discretionary spending, and 50% towards your
+      needs or essential expenses. By following this plan, you can prioritize
+      your loan payments while still having some money for leisure activities.
+
+
+      Another important aspect of budgeting is tracking your finances closely.
+      This means keeping a record of your income and expenses, and regularly
+      reviewing your budget to see if any adjustments need to be made. There are
+      many tools and apps available that can help you with this, such as Mint,
+      which syncs with your financial accounts and tracks your spending by
+      category.
+
+
+      In addition to budgeting, it's also important to consider other strategies
+      for managing your student loans. This could include exploring loan
+      forgiveness programs, deferment options, or alternative repayment plans.
+      It's important to understand the terms and conditions of your loans and to
+      take advantage of any opportunities that can help you manage your debt
+      more effectively.
+
+
+      Overall, budgeting is a key component of managing student loans. It allows
+      you to plan and allocate your income towards your loan payments, while
+      still maintaining a comfortable lifestyle. By creating a budget, tracking
+      your finances closely, and exploring other strategies for managing your
+      loans, you can effectively manage your student loans and work towards
+      becoming debt-free.
+    name: Budgeting for Student Loans
+    stepItems: []
+    uuid: 1628bf28-cd65-4d2d-95cf-dd1b6a0c82c2
+  - content: ''
+    name: Minimizing Student Debt
+    stepItems: []
+    uuid: deca2669-408c-4b42-8363-ab3b77f9235e
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 24bddc3f-be74-4b7b-88f1-d796d1657c85
+version: 1
