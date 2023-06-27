@@ -1,6 +1,6 @@
 categories: []
 content: Best ways to manage Student Loans
-created: '2023-06-27T10:53:59.545Z'
+created: '2023-06-27T10:54:22.700Z'
 guideType: onboarding
 key: managing-student-loans-credit-union-academy
 name: Managing Student Loans
@@ -73,24 +73,6 @@ steps:
         content: What is a characteristic of federal student loans?
         type: SingleChoice
         uuid: 9633b7e8-1735-41ba-93a5-8036eeedba02
-      - answerKeys:
-          - D
-        choices:
-          - content: Private student loans should always be the first option
-            key: A
-          - content: Private student loans should never be considered
-            key: B
-          - content: >-
-              Private student loans should only be considered by undergraduate
-              students
-            key: C
-          - content: >-
-              Private student loans should be considered when the borrower needs
-              to borrow more or doesn't qualify for federal loans
-            key: D
-        content: When should private student loans be considered?
-        type: SingleChoice
-        uuid: 43d526e1-1efd-4c0d-9008-c72ac89cc22f
     uuid: fa0c84d7-f213-49a5-a5ac-89467fd6cc84
   - content: >-
       Budgeting is a crucial tool for effectively managing money with student
