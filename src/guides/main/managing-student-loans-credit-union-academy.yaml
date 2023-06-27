@@ -1,6 +1,6 @@
 categories: []
 content: Best ways to manage Student Loans
-created: '2023-06-27T10:43:00.357Z'
+created: '2023-06-27T10:53:59.545Z'
 guideType: onboarding
 key: managing-student-loans-credit-union-academy
 name: Managing Student Loans
@@ -42,6 +42,56 @@ steps:
     name: Types of student loans
     stepItems: []
     uuid: 59eee2e5-879c-4975-a28e-245ed1cda45f
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: Federal student loans and personal student loans
+            key: A
+          - content: Scholarships and grants
+            key: B
+          - content: Parent PLUS loans and Grad PLUS loans
+            key: C
+          - content: Direct Subsidized Loans and Direct Unsubsidized Loans
+            key: D
+        content: What are the two main types of student loans?
+        type: SingleChoice
+        uuid: 6abb573b-80a5-4516-8586-b5fe30035e04
+      - answerKeys:
+          - C
+        choices:
+          - content: They require a credit check
+            key: A
+          - content: They have higher interest rates
+            key: B
+          - content: They have borrower protections and flexible repayment options
+            key: C
+          - content: They are available only to graduate or professional students
+            key: D
+        content: What is a characteristic of federal student loans?
+        type: SingleChoice
+        uuid: 9633b7e8-1735-41ba-93a5-8036eeedba02
+      - answerKeys:
+          - D
+        choices:
+          - content: Private student loans should always be the first option
+            key: A
+          - content: Private student loans should never be considered
+            key: B
+          - content: >-
+              Private student loans should only be considered by undergraduate
+              students
+            key: C
+          - content: >-
+              Private student loans should be considered when the borrower needs
+              to borrow more or doesn't qualify for federal loans
+            key: D
+        content: When should private student loans be considered?
+        type: SingleChoice
+        uuid: 43d526e1-1efd-4c0d-9008-c72ac89cc22f
+    uuid: fa0c84d7-f213-49a5-a5ac-89467fd6cc84
   - content: >-
       Budgeting is a crucial tool for effectively managing money with student
       loans. It allows you to plan and allocate your income towards your loan
@@ -133,7 +183,53 @@ steps:
     uuid: deca2669-408c-4b42-8363-ab3b77f9235e
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: Federal student loans
+            key: A
+          - content: Private student loans
+            key: B
+          - content: Both federal and private student loans
+            key: C
+          - content: None of the above
+            key: D
+        content: >-
+          What type of student loan is generally recommended due to lower
+          interest rates and borrower protections?
+        type: SingleChoice
+        uuid: 50d1016a-39f4-4aaa-8c43-e33c3255a28e
+      - answerKeys:
+          - C
+        choices:
+          - content: The 50-30-20 plan
+            key: A
+          - content: The 30-20-50 plan
+            key: B
+          - content: The 20-30-50 plan
+            key: C
+          - content: The 30-50-20 plan
+            key: D
+        content: >-
+          Which budgeting strategy involves allocating 20% of your income
+          towards loan payments?
+        type: SingleChoice
+        uuid: 051b1a7c-ad97-42c8-afd7-49aab6a5723b
+      - answerKeys:
+          - D
+        choices:
+          - content: Creating a budget
+            key: A
+          - content: Using budgeting apps
+            key: B
+          - content: Comparing loan options
+            key: C
+          - content: All of the above
+            key: D
+        content: What are some strategies for managing student loans?
+        type: SingleChoice
+        uuid: d9e7fb95-1359-49ba-9b70-264e6d3bbecd
     uuid: 0fe33773-ecc8-4ad4-b74f-42dd60f5a013
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
