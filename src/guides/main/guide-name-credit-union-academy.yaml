@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-26T20:43:43.182Z'
+created: '2023-06-27T12:57:46.185Z'
 guideType: onboarding
 key: guide-name-credit-union-academy
 name: Inflation and its impact
@@ -79,13 +79,50 @@ steps:
         type: MultipleChoice
         uuid: ea4fbfcb-ac17-433c-9fbe-21d93b67ac7e
     uuid: 7debd680-e366-4719-a29f-8a478465be73
-  - content: >
-      https://www.forbes.com/advisor/in/personal-finance/how-governments-reduce-inflation/
+  - content: >-
+      Inflation refers to the continuous increase in the overall price level of
+      goods and services in an economy over time. It occurs when there is an
+      imbalance between the demand for goods and services and the supply
+      available in the economy. There are several causes of inflation.
 
-      https://byjus.com/question-answer/how-does-a-country-control-inflation/
 
-      https://www.imf.org/en/Blogs/Articles/2022/11/21/how-fiscal-restraint-can-help-fight-inflation
-    name: How does inflation occur
+      One of the main causes of inflation is an increase in aggregate demand.
+      When there is excess demand for goods and services compared to their
+      supply, prices tend to rise as consumers compete for limited resources.
+      This can happen when there is an increase in consumer spending, government
+      spending, or investment. When people have more money to spend, they are
+      willing to pay higher prices, which leads to inflation.
+
+
+      Another factor that can trigger inflation is cost-push factors. This
+      occurs when there is an increase in production costs, such as wages, raw
+      material prices, or energy costs. When businesses face higher input costs,
+      they often pass on these costs to consumers in the form of higher prices.
+      For example, if the cost of oil increases, it can lead to higher
+      transportation costs, which can then result in higher prices for goods and
+      services.
+
+
+      Monetary factors also play a role in inflation. The actions of central
+      banks and monetary authorities can impact inflation. If the money supply
+      in an economy increases faster than the growth of goods and services, it
+      can lead to inflationary pressures. This can happen when central banks
+      engage in expansionary monetary policies, such as lowering interest rates
+      or engaging in quantitative easing. When there is more money in
+      circulation, it can lead to increased spending and higher prices.
+
+
+      Inflation can have both positive and negative impacts on an economy. On
+      the positive side, moderate inflation can encourage spending and
+      investment as people expect prices to rise in the future. It can also help
+      reduce the real burden of debt as the value of money decreases over time.
+      However, high inflation can erode the purchasing power of consumers,
+      reduce the value of savings, and create uncertainty in the economy. It can
+      also lead to wage-price spirals, where workers demand higher wages to keep
+      up with rising prices, which in turn leads to even higher prices.
+      Therefore, it is important for policymakers to carefully manage inflation
+      to ensure it remains at a stable and moderate level.
+    name: Causes of Inflation
     stepItems: []
     uuid: 9f639df9-9f97-4899-a1d7-f702e7c6489e
   - content: ''
