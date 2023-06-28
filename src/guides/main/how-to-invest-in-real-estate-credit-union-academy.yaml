@@ -1,9 +1,9 @@
 categories: []
-content: New Guide
-created: '2023-06-28T09:16:55.207Z'
+content: How should GenZ's start investing in Real Estate
+created: '2023-06-28T21:31:19.887Z'
 guideType: onboarding
 key: how-to-invest-in-real-estate-credit-union-academy
-name: How to invest in Real estate
+name: Investing in Real Estate
 publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
@@ -59,6 +59,40 @@ steps:
         content: What is one of the main advantages of investing in real estate?
         type: SingleChoice
         uuid: 64d5e458-8d59-453a-9995-7525d9673383
+      - answerKeys:
+          - C
+        choices:
+          - content: Real estate offers minimum risk and maximum return.
+            key: A
+          - content: Real estate has a low correlation with other major asset classes.
+            key: B
+          - content: >-
+              Real estate is a tangible asset that provides a sense of security
+              and stability.
+            key: C
+          - content: >-
+              Real estate offers tax advantages that other investments may not
+              have.
+            key: D
+        content: Why is investing in real estate popular among investors?
+        type: SingleChoice
+        uuid: 63bc6f6b-8060-45e4-b77e-bb858f3c515f
+      - answerKeys:
+          - D
+        choices:
+          - content: Real estate offers minimum risk and maximum return.
+            key: A
+          - content: Real estate has a low correlation with other major asset classes.
+            key: B
+          - content: Real estate has the potential to appreciate in value over time.
+            key: C
+          - content: >-
+              Investing in real estate allows you to claim tax deductions and
+              reduce your overall tax liability.
+            key: D
+        content: What benefit does investing in real estate provide in terms of taxes?
+        type: SingleChoice
+        uuid: 1d38c8a4-6bb1-474c-9760-9a73e2111f88
     uuid: 9b442223-32b8-4f0e-8e7e-8c782dc33f2e
   - content: >+
       Investing in real estate can be a great way to build wealth and generate
@@ -105,23 +139,44 @@ steps:
     name: ' Evaluation'
     stepItems:
       - answerKeys:
-          - B
+          - D
         choices:
           - content: >-
-              Real estate is a risky investment with no potential for
-              appreciation
+              Real estate is a tangible asset that provides security and
+              stability.
             key: A
           - content: >-
-              Real estate is a tangible asset that provides security and
-              stability
+              Real estate can generate rental income and help build wealth over
+              time.
             key: B
-          - content: Real estate has no tax advantages
+          - content: >-
+              Real estate investment trusts (REITs) allow individual investors
+              to earn dividends without buying, managing, or financing
+              properties themselves.
             key: C
-          - content: Real estate does not generate rental income
+          - content: >-
+              Real estate offers tax advantages that can help reduce overall tax
+              liability and increase profits.
             key: D
         content: What is one advantage of investing in real estate?
         type: SingleChoice
-        uuid: 6b248e1e-b4eb-408f-915d-41dbaaa7180f
+        uuid: 04a5d830-289c-4d8f-9436-ad68d778bda2
+      - answerKeys:
+          - B
+        choices:
+          - content: Investing in real estate investment trusts (REITs)
+            key: A
+          - content: Renting out a portion of your home
+            key: B
+          - content: >-
+              Living in one part of a multi-unit property and renting out the
+              other units
+            key: C
+          - content: Renting out a spare bedroom on Airbnb
+            key: D
+        content: What is house hacking?
+        type: SingleChoice
+        uuid: 5e5d57dd-5713-47a2-aeea-9f0b743c1b9e
     uuid: 12f5d421-619f-4ef2-aad8-013f0cab84d1
   - content: >-
       A real estate investment trust (REIT) is a company that owns, operates, or
@@ -177,6 +232,24 @@ steps:
         content: What are the advantages of investing in REITs?
         type: SingleChoice
         uuid: 13802e48-dc8c-44f4-9424-c8506bcd025d
+      - answerKeys:
+          - C
+        choices:
+          - content: Companies that buy and sell stocks on major securities exchanges
+            key: A
+          - content: >-
+              Companies that lend money to property owners for real estate
+              investments
+            key: B
+          - content: >-
+              Companies that own, operate, or finance income-generating real
+              estate properties
+            key: C
+          - content: Companies that manage and sell retail products
+            key: D
+        content: What are REITs?
+        type: SingleChoice
+        uuid: f22a17ee-55ac-4855-b10d-ddaf5e8df180
     uuid: ebd25169-cc12-4355-b697-454de16e2eda
   - content: >+
       Gen Z individuals who are interested in investing in real estate have two
@@ -220,19 +293,35 @@ steps:
     name: ' Evaluation'
     stepItems:
       - answerKeys:
-          - D
+          - A
         choices:
-          - content: Potential for regular income
+          - content: Potential for regular dividend income
             key: A
-          - content: Volatility
+          - content: Direct ownership of shares in a company
             key: B
-          - content: Risk tolerance
+          - content: Exposure to the real estate market
             key: C
-          - content: Performance, property types, and track record
+          - content: Higher potential for capital appreciation
             key: D
-        content: What should investors consider when deciding between REITs and stocks?
+        content: What is the main advantage of investing in REITs?
         type: SingleChoice
-        uuid: a39ca9a4-a6f9-453a-85fa-6c8ead568886
+        uuid: 6290ab8c-bad5-4710-9b61-1d0be6cfb9da
+      - answerKeys:
+          - C
+        choices:
+          - content: REITs are traded on major stock exchanges
+            key: A
+          - content: REITs provide exposure to the real estate market
+            key: B
+          - content: >-
+              REITs are related to real estate, while stocks are ownership in a
+              company
+            key: C
+          - content: REITs have higher potential for capital appreciation
+            key: D
+        content: What is the difference between REITs and stocks?
+        type: SingleChoice
+        uuid: 3afb8708-aee6-4245-8df6-628426eb84fd
     uuid: 52603748-9f84-4b69-8063-ad4fb51bfe02
   - content: >-
       House hacking is a popular strategy for Gen Z individuals who want to
@@ -285,6 +374,24 @@ steps:
         content: What is the benefit of house hacking?
         type: SingleChoice
         uuid: 8d5e18e7-293a-4d60-8bef-265a8dd3f0c3
+      - answerKeys:
+          - D
+        choices:
+          - content: Living cost-free or at a reduced cost
+            key: A
+          - content: Pooling resources and investing in a property together
+            key: B
+          - content: >-
+              Finding distressed properties and contracting with the seller to
+              sell at a higher price
+            key: C
+          - content: >-
+              Living in one unit and renting out the other units to cover
+              mortgage and expenses
+            key: D
+        content: What is the benefit of becoming a college landlord?
+        type: SingleChoice
+        uuid: a863f134-caed-451b-997b-bbd46f1f15b7
     uuid: 38a11588-f30f-4f77-8e0b-72f869c65526
   - content: >
       Investing in real estate can be a great option for Gen Z individuals
@@ -329,19 +436,37 @@ steps:
     name: ' Evaluation'
     stepItems:
       - answerKeys:
-          - C
+          - B
         choices:
-          - content: The type of property
+          - content: The color of the property and its interior design
             key: A
-          - content: The budget and hidden costs
+          - content: >-
+              The type of property, budget and hidden costs, location, financing
+              options, and alternative investment options
             key: B
-          - content: The location of the property
+          - content: The number of bedrooms and bathrooms in the property
             key: C
-          - content: The financing options
+          - content: The popularity of the property on social media
             key: D
-        content: What is an important factor to consider when investing in real estate?
+        content: What factors should you consider when investing in real estate?
         type: SingleChoice
-        uuid: b13e8116-04ef-4d0c-a109-68fc03b3bf6a
+        uuid: 0dbc5a81-3453-4d5c-ab9d-6e9c99a2e675
+      - answerKeys:
+          - B
+        choices:
+          - content: Only the purchase price of the property
+            key: A
+          - content: Hidden costs associated with the property
+            key: B
+          - content: The potential rental income of the property
+            key: C
+          - content: The current market value of the property
+            key: D
+        content: >-
+          What should you consider when establishing a budget for real estate
+          investment?
+        type: SingleChoice
+        uuid: 12b3425c-09d4-4014-8826-cc28a461428e
     uuid: b960d5d6-75e4-4496-b1c4-25860ee21be9
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/how_to_invest_in_real_estate_credit_union_academy/1687941995079_invest_in_real_estte.png
