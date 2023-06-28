@@ -1,6 +1,6 @@
 categories: []
 content: 'Navigating the Uncertainties of the 2020s '
-created: '2023-06-28T08:09:02.384Z'
+created: '2023-06-28T08:50:09.573Z'
 guideType: onboarding
 key: navigating-uncertain-times-credit-union-academy
 name: Navigating Uncertain Times
@@ -60,26 +60,6 @@ steps:
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 8a035851-f551-4be8-b5dd-9cd7cc097908
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: adf7ece3-ac67-40f4-b91f-95507f7d73c6
       - answerKeys:
           - C
         choices:
@@ -269,6 +249,6 @@ steps:
         uuid: c72f5b00-7edb-413f-b491-051d0f0e4ede
     uuid: 68879624-7d3e-4303-9316-882efa8bcbd6
 thumbnail: >-
-  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+  https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/navigating_uncertain_times_credit_union_academy/1687942205725_navigating_uncertain_times.png
 uuid: navigating-uncertain-times-credit-union-academy
 version: 1
