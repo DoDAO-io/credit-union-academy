@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-28T08:47:08.847Z'
+created: '2023-06-28T09:29:10.514Z'
 guideType: onboarding
 key: guide-name-credit-union-academy
 name: Inflation and its impact
@@ -9,19 +9,13 @@ showIncorrectOnCompletion: true
 steps:
   - content: >-
       Inflation refers to the continuous increase in the overall price level of
-      goods and services in an economy over time. It is measured by calculating
-      the percentage change in a price index, such as the Consumer Price Index
-      (CPI), which tracks the prices of commonly purchased goods and services.
-      Inflation occurs when there is an imbalance between the demand for goods
-      and services and the supply available in the economy.
-
-
-      One of the main causes of inflation is an increase in aggregate demand.
-      When there is excess demand for goods and services compared to their
-      supply, prices tend to rise as consumers compete for limited resources.
-      This can happen when there is an increase in consumer spending, government
-      spending, or investment. When people have more money to spend, they are
-      willing to pay higher prices, which leads to inflation.
+      goods and services in an economy over time. It occurs when there is an
+      imbalance between the demand for goods and services and the supply
+      available in the economy. One of the main causes of inflation is an
+      increase in aggregate demand. This happens when there is excess demand for
+      goods and services compared to their supply, leading to higher prices as
+      consumers compete for limited resources. This can occur due to an increase
+      in consumer spending, government spending, or investment.
 
 
       Another factor that can trigger inflation is cost-push factors. This
@@ -57,7 +51,21 @@ steps:
     uuid: 742b9707-cd58-49da-aa87-4740bf5f1383
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: An increase in aggregate demand and cost-push factors
+            key: A
+          - content: A decrease in aggregate demand and cost-pull factors
+            key: B
+          - content: An increase in aggregate supply and demand-pull factors
+            key: C
+          - content: A decrease in aggregate supply and demand-push factors
+            key: D
+        content: What are the main causes of inflation?
+        type: SingleChoice
+        uuid: d7f641a7-04ac-496a-8043-35bb8f64a48e
     uuid: 7debd680-e366-4719-a29f-8a478465be73
   - content: >-
       Inflation refers to the continuous increase in the overall price level of
@@ -214,7 +222,21 @@ steps:
     uuid: 3e4cadec-251b-44b5-b06e-3118e56bb499
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Seek out scholarships and grants
+            key: A
+          - content: Take advantage of student discounts
+            key: B
+          - content: Establish a comprehensive budget
+            key: C
+          - content: Consider part-time employment
+            key: D
+        content: What is the first step in coping with inflation as a student?
+        type: SingleChoice
+        uuid: f167170f-b30d-4684-b033-0c5d2b6149ea
     uuid: 8f5fda4e-c8e9-4cbb-9daf-8939ba1d2e9e
   - content: >-
       As prices rise, the value of money decreases, and consumers are able to
