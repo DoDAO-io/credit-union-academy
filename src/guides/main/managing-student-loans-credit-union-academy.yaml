@@ -1,6 +1,6 @@
 categories: []
 content: Best ways to manage Student Loans
-created: '2023-06-27T10:54:22.700Z'
+created: '2023-06-28T08:36:43.320Z'
 guideType: onboarding
 key: managing-student-loans-credit-union-academy
 name: Managing Student Loans
@@ -114,6 +114,49 @@ steps:
     name: Budgeting for Student Loans
     stepItems: []
     uuid: 1628bf28-cd65-4d2d-95cf-dd1b6a0c82c2
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              Allocating 20% of your income towards essential expenses, 30%
+              towards student loan payments, and 50% towards discretionary
+              spending
+            key: A
+          - content: >-
+              Allocating 20% of your income towards discretionary spending, 30%
+              towards essential expenses, and 50% towards student loan payments
+            key: B
+          - content: >-
+              Allocating 20% of your income towards student loan payments, 30%
+              towards discretionary spending, and 50% towards essential expenses
+            key: C
+          - content: >-
+              Allocating 20% of your income towards student loan payments, 30%
+              towards essential expenses, and 50% towards discretionary spending
+            key: D
+        content: What is the 20-30-50 plan for budgeting with student loans?
+        type: SingleChoice
+        uuid: c7beaa8f-ccf6-4c73-a98c-520374d3cb95
+      - answerKeys:
+          - D
+        choices:
+          - content: Paying off the entire loan amount at once
+            key: A
+          - content: Ignoring the student loan and not making any payments
+            key: B
+          - content: Defaulting on the student loan
+            key: C
+          - content: >-
+              Exploring loan forgiveness programs, deferment options, or
+              alternative repayment plans
+            key: D
+        content: What are other strategies for managing student loans?
+        type: SingleChoice
+        uuid: 8c038968-5aff-4cf6-92be-fa483f6116e1
+    uuid: 03e35b87-3b7d-478c-8b91-cfb8c3b6b737
   - content: >-
       Managing student loans and minimizing student debt is crucial for students
       who want to avoid financial burdens in the future. There are several
