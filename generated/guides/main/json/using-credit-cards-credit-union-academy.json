@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "How to wisely use Credit Cards",
-  "created": "2023-06-28T08:48:58.504Z",
+  "created": "2023-06-28T09:26:48.355Z",
   "guideType": "onboarding",
   "key": "using-credit-cards-credit-union-academy",
   "name": "Using Credit Cards ",
@@ -11,12 +11,65 @@
     {
       "content": "When it comes to credit cards, there are several different types to choose from. Understanding the different types can help you find the one that best suits your needs. One type of credit card is the cash back card, which allows you to earn a percentage of your spending back as cash rewards. There are two main types of cash back cards: flat-rate cards, which offer the same reward rate for all purchases, and category-earn cards, which offer higher rewards for specific categories like dining or groceries.\n\nAnother type of credit card is the travel card, which allows you to earn rewards that can be redeemed for travel-related expenses. There are general travel rewards cards, which are not associated with any specific airline or hotel, and co-branded travel rewards cards, which are branded jointly by the credit card issuer and a specific airline or hotel. Co-branded cards often offer exclusive rewards and benefits with that specific airline or hotel.\n\nStore credit cards are another type of credit card that are affiliated with a specific store. These cards typically offer additional discounts and rewards when used exclusively at the store or with affiliate retailers. There are two main types of store credit cards: private label cards, which can only be used at the store or specified store affiliates, and co-branded general purpose cards, which can be used anywhere, even outside of the store and its affiliates.\n\nSecured credit cards are a type of credit card that requires a security deposit. This deposit acts as collateral and determines your credit limit. Secured cards are a good option for those looking to build or rebuild their credit. Finally, there are student credit cards, which are specifically designed for students with limited credit history. These cards often have lower credit limits and may offer rewards or perks tailored to students.\n\nIn conclusion, there are several different types of credit cards to choose from, each with its own benefits and features. Cash back cards allow you to earn rewards on your everyday spending, travel cards offer rewards that can be redeemed for travel-related expenses, store cards provide discounts and rewards at specific stores, secured cards require a security deposit and are good for building credit, and student cards are designed for students with limited credit history. Understanding the different types of credit cards can help you find the one that best fits your needs and financial goals.",
       "name": "Types of credit cards",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A credit card that requires a security deposit",
+              "key": "A"
+            },
+            {
+              "content": "A credit card that allows you to earn a percentage of your spending back as cash rewards",
+              "key": "B"
+            },
+            {
+              "content": "A credit card that is affiliated with a specific store",
+              "key": "C"
+            },
+            {
+              "content": "A credit card that is designed for students with limited credit history",
+              "key": "D"
+            }
+          ],
+          "content": "What is a cash back card?",
+          "type": "SingleChoice",
+          "uuid": "8c2613ad-42c4-44be-aa4d-97155a77891f"
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "A credit card that allows you to earn rewards that can be redeemed for travel-related expenses",
+              "key": "A"
+            },
+            {
+              "content": "A credit card that requires a security deposit",
+              "key": "B"
+            },
+            {
+              "content": "A credit card that is affiliated with a specific store",
+              "key": "C"
+            },
+            {
+              "content": "A credit card that is designed for students with limited credit history",
+              "key": "D"
+            }
+          ],
+          "content": "What is a travel card?",
+          "type": "SingleChoice",
+          "uuid": "9b00baad-1f2c-469d-bcdc-7cc93d599485"
+        }
+      ],
       "uuid": "3e7ded0a-4e69-40a4-8bab-47dcf46d1807"
     },
     {
       "content": "",
-      "name": "Introduction Evaluation",
+      "name": "Evaluation",
       "stepItems": [
         {
           "label": "Full Name",
@@ -54,6 +107,201 @@
         }
       ],
       "uuid": "c239cab4-ede8-4e37-aa33-dc44dd89c704"
+    },
+    {
+      "content": "Credit cards and debit cards may seem similar, but they have some key differences. A credit card allows you to borrow money from the card issuer, while a debit card deducts money directly from your bank account. With a debit card, you can only spend what you have in your account, while with a credit card, you are borrowing money that you have to repay later, usually with interest. \n\nCredit cards often come with fees such as annual fees, late payment fees, and foreign transaction fees. Debit cards, on the other hand, usually don't have annual fees, but you may be charged fees for using an out-of-network ATM or overdrawing your account. Another difference is that credit cards can help you build credit, while debit cards do not. Your credit card activity is reported to credit bureaus, which can impact your credit score, while debit card activity is not reported to credit bureaus, so it doesn't affect your credit history.\n\nWhen it comes to fraud protection, credit cards generally offer more robust protections than debit cards. If your credit card is used fraudulently, you are typically only liable for a maximum of $50, and many card issuers offer zero liability for unauthorized charges. With a debit card, your liability for fraudulent charges can be higher, depending on when you report the fraud. If you report the fraud before any unauthorized charges are made, you are not liable. However, if you wait more than 60 days to report the fraud, you could be liable for all the money taken from your account.\n\nIn conclusion, credit cards and debit cards have significant differences. Credit cards allow you to borrow money, while debit cards deduct money directly from your bank account. Credit cards often come with fees and can help you build credit, while debit cards usually don't have fees and don't impact your credit history. Credit cards also offer more robust fraud protection compared to debit cards. It's important to understand these differences and choose the card that best suits your needs and financial goals.",
+      "name": "Credit Cards vs Debit Cards",
+      "stepItems": [],
+      "uuid": "c1f153f6-43b8-4d16-bf9f-410b001194a0"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A credit card deducts money directly from your bank account.",
+              "key": "A"
+            },
+            {
+              "content": "A credit card allows you to borrow money from the card issuer.",
+              "key": "B"
+            },
+            {
+              "content": "A credit card and a debit card are the same.",
+              "key": "C"
+            },
+            {
+              "content": "A credit card and a debit card have no differences.",
+              "key": "D"
+            }
+          ],
+          "content": "What is the main difference between a credit card and a debit card?",
+          "type": "SingleChoice",
+          "uuid": "b5022efc-edaa-4d21-9705-591e7d889c6c"
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Debit card",
+              "key": "A"
+            },
+            {
+              "content": "Credit card",
+              "key": "B"
+            },
+            {
+              "content": "Both debit card and credit card",
+              "key": "C"
+            },
+            {
+              "content": "Neither debit card nor credit card",
+              "key": "D"
+            }
+          ],
+          "content": "Which card allows you to spend only the money you have?",
+          "type": "SingleChoice",
+          "uuid": "c2a7adfb-4da8-4e64-b9ab-512e0e75410f"
+        }
+      ],
+      "uuid": "1137197c-9eba-45af-9f59-dda4b1a76cac"
+    },
+    {
+      "content": "Choosing the best credit card for your needs can be a daunting task, but it doesn't have to be. By following a few simple steps, you can find the credit card that is right for you.\n\nThe first step is to determine what type of credit card you need. There are different types of credit cards available, such as cash back cards, travel cards, store cards, secured cards, and student cards. Each type of card offers different benefits and features, so it's important to choose one that aligns with your financial goals and spending habits.\n\nOnce you've determined the type of card you need, the next step is to consider the most important features. For example, if you're interested in earning rewards, you'll want to compare the rewards rates, sign-up bonuses, and annual fees of different cards. If you're looking to save on interest, you'll want to compare the 0% intro APR periods and ongoing APRs of different cards. By comparing these features, you can narrow down your options and find the card that offers the most value for your needs.\n\nAfter comparing your options, it's time to apply for the credit card that offers you the highest overall value. You can apply for the card directly through the credit card issuer's website or by calling their customer service line. Be prepared to provide personal information, such as your name, address, and social security number, as well as financial information, such as your income and employment status.\n\nFinally, once you've applied for the credit card, you'll need to wait for a response. If you're approved, you can expect to receive your card in the mail within a few weeks. If you're denied, you can call the credit card issuer's reconsideration line to see if they will change their decision. Remember, it's important to use your credit card responsibly by paying your bill on time and in full each month to avoid interest charges and maintain a good credit score.",
+      "name": "Choosing the best Credit Card",
+      "stepItems": [],
+      "uuid": "76232dbd-9773-40b5-8326-7df030338bae"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Comparing rewards rates and sign-up bonuses",
+              "key": "A"
+            },
+            {
+              "content": "Applying for the credit card that offers the highest overall value",
+              "key": "B"
+            },
+            {
+              "content": "Determining the type of credit card you need",
+              "key": "C"
+            },
+            {
+              "content": "Waiting for a response after applying for a credit card",
+              "key": "D"
+            }
+          ],
+          "content": "What is the first step in choosing the best credit card?",
+          "type": "SingleChoice",
+          "uuid": "a9c0033c-d7d9-4fda-9c80-4aca80137a56"
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Compare your options and find the card that offers the most value",
+              "key": "A"
+            },
+            {
+              "content": "Apply for the credit card directly through the issuer's website",
+              "key": "B"
+            },
+            {
+              "content": "Wait for a response after applying for the credit card",
+              "key": "C"
+            },
+            {
+              "content": "Call the credit card issuer's reconsideration line",
+              "key": "D"
+            }
+          ],
+          "content": "What should you do if you're denied for a credit card?",
+          "type": "SingleChoice",
+          "uuid": "9e59bc40-215a-4da2-91f4-49f0b42e4e0a"
+        }
+      ],
+      "uuid": "5d8091db-e89d-4d9a-beb6-e094c02ffa90"
+    },
+    {
+      "content": "Credit card best practices are important to understand, especially for Gen Z individuals who may be new to using credit cards. One of the first things to consider is the type of credit card that best suits your needs. There are different types of credit cards available, such as cash back cards, travel cards, store cards, secured cards, and student cards. Each type of card offers different benefits and features, so it's important to choose one that aligns with your financial goals and spending habits.\n\nOnce you have chosen the type of credit card you need, it's important to consider the most important features. For example, if you're interested in earning rewards, you'll want to compare the rewards rates, sign-up bonuses, and annual fees of different cards. If you're looking to save on interest, you'll want to compare the 0% intro APR periods and ongoing APRs of different cards. By comparing these features, you can narrow down your options and find the card that offers the most value for your needs.\n\nAfter comparing your options, it's time to apply for the credit card that offers you the highest overall value. You can apply for the card directly through the credit card issuer's website or by calling their customer service line. Be prepared to provide personal information, such as your name, address, and social security number, as well as financial information, such as your income and employment status.\n\nOnce you've applied for the credit card, you'll need to wait for a response. If you're approved, you can expect to receive your card in the mail within a few weeks. If you're denied, you can call the credit card issuer's reconsideration line to see if they will change their decision. Remember, it's important to use your credit card responsibly by paying your bill on time and in full each month to avoid interest charges and maintain a good credit score.\n",
+      "name": "Credit Card usage best practices",
+      "stepItems": [],
+      "uuid": "29aae5fa-a02a-4c34-b5d4-4c97771437cf"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Apply for another credit card immediately",
+              "key": "A"
+            },
+            {
+              "content": "Forget about applying for a credit card",
+              "key": "B"
+            },
+            {
+              "content": "Call the credit card issuer's reconsideration line",
+              "key": "C"
+            },
+            {
+              "content": "Give up on having a credit card",
+              "key": "D"
+            }
+          ],
+          "content": "What should you do if you're denied for a credit card?",
+          "type": "SingleChoice",
+          "uuid": "2f63f69e-c90f-4c5f-b660-f6eeb3106de6"
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Apply for the credit card directly through the issuer's website",
+              "key": "A"
+            },
+            {
+              "content": "Compare the rewards rates of different cards",
+              "key": "B"
+            },
+            {
+              "content": "Consider the most important features of the card",
+              "key": "C"
+            },
+            {
+              "content": "Call the credit card issuer's reconsideration line",
+              "key": "D"
+            }
+          ],
+          "content": "What is the next step after choosing the type of credit card you need?",
+          "type": "SingleChoice",
+          "uuid": "196e1f51-d38a-4867-a48d-63217f619401"
+        }
+      ],
+      "uuid": "afdd8ebf-9a98-4fa8-8445-5095ac44c39e"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/using_credit_cards_credit_union_academy/1687942135621_use_credit_card_wisely.png",
