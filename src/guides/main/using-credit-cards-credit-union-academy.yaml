@@ -1,6 +1,6 @@
 categories: []
 content: How to wisely use Credit Cards
-created: '2023-06-28T09:26:48.355Z'
+created: '2023-06-28T21:18:51.195Z'
 guideType: onboarding
 key: using-credit-cards-credit-union-academy
 name: 'Using Credit Cards '
@@ -54,7 +54,11 @@ steps:
       students with limited credit history. Understanding the different types of
       credit cards can help you find the one that best fits your needs and
       financial goals.
-    name: Types of credit cards
+    name: Types of Credit Cards
+    stepItems: []
+    uuid: 1f55c9d9-f068-45e8-a4a4-ef545b22090b
+  - content: ''
+    name: Evaluation
     stepItems:
       - answerKeys:
           - B
@@ -93,30 +97,6 @@ steps:
         type: SingleChoice
         uuid: 9b00baad-1f2c-469d-bcdc-7cc93d599485
     uuid: 3e7ded0a-4e69-40a4-8bab-47dcf46d1807
-  - content: ''
-    name: Evaluation
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 4b43848d-30c4-430f-86a3-0da8f81ca9a4
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 200c0e76-9e5a-4985-b406-f548a2706fde
-    uuid: c239cab4-ede8-4e37-aa33-dc44dd89c704
   - content: >-
       Credit cards and debit cards may seem similar, but they have some key
       differences. A credit card allows you to borrow money from the card
