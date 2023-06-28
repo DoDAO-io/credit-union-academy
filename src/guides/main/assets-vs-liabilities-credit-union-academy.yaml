@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-28T08:45:03.447Z'
+created: '2023-06-28T10:38:32.720Z'
 guideType: onboarding
 key: assets-vs-liabilities-credit-union-academy
 name: Assets Vs Liabilities
@@ -37,7 +37,7 @@ steps:
       securities of other institutions, such as stocks and bonds. Intangible
       assets are economic resources that have no physical presence, such as
       patents or trademarks. 
-    name: What are asserts
+    name: What are assets
     stepItems: []
     uuid: 03de28f6-5a38-4e63-a1ad-b023b78d0427
   - content: ''
@@ -63,6 +63,20 @@ steps:
         content: What are assets?
         type: SingleChoice
         uuid: 7afd78fe-b962-48a8-9820-49e0a9eb18eb
+      - answerKeys:
+          - C
+        choices:
+          - content: Current assets
+            key: A
+          - content: Intangible assets
+            key: B
+          - content: Financial assets
+            key: C
+          - content: Fixed assets
+            key: D
+        content: Which category of assets includes stocks and bonds?
+        type: SingleChoice
+        uuid: b057e688-b7d8-48c0-8b9e-fcc0eadbd5cc
     uuid: 0975dcc1-df2d-4f27-82c9-9d45a66cba24
   - content: >-
       Assets are resources that have economic value and are owned or controlled
@@ -131,6 +145,28 @@ steps:
         content: Which of the following is an example of a tangible asset?
         type: SingleChoice
         uuid: 956e9876-61b9-405c-b3ce-08d547fe4f9d
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              Assets that cannot be easily and readily converted into cash and
+              cash equivalents
+            key: A
+          - content: >-
+              Short-term resources that are expected to be converted into cash
+              or consumed within one year
+            key: B
+          - content: >-
+              Assets with a physical presence that can be touched, felt, and
+              seen
+            key: C
+          - content: >-
+              Assets that are not required for daily business operations but can
+              still generate revenue
+            key: D
+        content: What are current assets?
+        type: SingleChoice
+        uuid: 10b1df7b-5e5d-4afb-9e81-b21699aacced
     uuid: bc65b549-4ac1-4221-ac96-bd38bf6648b7
   - content: >-
       Liabilities are debts or obligations that a person or company owes to
@@ -184,6 +220,36 @@ steps:
         content: What are liabilities?
         type: SingleChoice
         uuid: f6b83b12-4d55-4710-a295-fa7cadac9cdd
+      - answerKeys:
+          - D
+        choices:
+          - content: >-
+              Current liabilities are debts and obligations that are due in the
+              future but not within the next year, while non-current liabilities
+              are short-term debts and obligations that are due within one year
+            key: A
+          - content: >-
+              Current liabilities are debts and obligations that are due within
+              one year, while non-current liabilities are short-term debts and
+              obligations that are due in the future but not within the next
+              year
+            key: B
+          - content: >-
+              Current liabilities are debts and obligations that are due within
+              one month, while non-current liabilities are debts and obligations
+              that are due within one year
+            key: C
+          - content: >-
+              Current liabilities are short-term debts and obligations that are
+              due within one year, while non-current liabilities are debts and
+              obligations that are due in the future but not within the next
+              year
+            key: D
+        content: >-
+          What is the difference between current liabilities and non-current
+          liabilities?
+        type: SingleChoice
+        uuid: a2a25f56-6004-4d96-ac44-b14a3eda5e04
     uuid: 43a815f6-a021-455c-90ff-24ae6fde5c21
   - content: >-
       To focus on increasing assets, it is important to prioritize saving money.
@@ -229,17 +295,31 @@ steps:
       - answerKeys:
           - C
         choices:
-          - content: Opening a savings account
+          - content: Opening a savings account or investing in fixed deposits
             key: A
-          - content: Investing in fixed deposits
+          - content: Spending money on unnecessary expenses
             key: B
-          - content: Saving money regularly
+          - content: Setting aside a portion of your income regularly
             key: C
-          - content: Seeking professional advice
+          - content: Borrowing money for luxury purchases
             key: D
-        content: What is an important aspect of increasing assets?
+        content: Which of the following can help build a strong financial foundation?
         type: SingleChoice
-        uuid: 8acc952c-bc9c-4f39-b677-b6ae546d1236
+        uuid: 5df08036-e3fd-44fb-87ea-2d6db9b15bb1
+      - answerKeys:
+          - B
+        choices:
+          - content: Investing in high-risk stocks
+            key: A
+          - content: Creating a budget and practicing financial discipline
+            key: B
+          - content: Taking on excessive debt
+            key: C
+          - content: Not saving any money
+            key: D
+        content: What is an important aspect for focusing on increasing assets?
+        type: SingleChoice
+        uuid: be16b1f7-8b8a-4126-9222-e69e9758b900
     uuid: 1fce064e-54a2-439e-90d1-cfc7f9c9dabe
   - content: >-
       To keep your liabilities low, it is important to understand what
@@ -302,6 +382,36 @@ steps:
         content: What is the purpose of creating a budget ?
         type: SingleChoice
         uuid: 31ad96d9-7308-417e-995c-3d921c007ea3
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Minimize borrowing, only take on debt when necessary and avoid
+              unnecessary expenses
+            key: A
+          - content: Pay off all debts at once
+            key: D
+          - content: Maximize borrowing to increase credit score
+            key: B
+          - content: Ignore debts and focus on spending
+            key: C
+        content: What is one of the most effective ways to keep your liabilities low?
+        type: SingleChoice
+        uuid: e5fac768-d812-4a6b-b858-f9110efe4927
+      - answerKeys:
+          - B
+        choices:
+          - content: Prioritize low-interest debts first
+            key: D
+          - content: Prioritize high-interest debts first
+            key: B
+          - content: Pay equal amounts for all debts
+            key: C
+          - content: Ignore debts and focus on spending
+            key: A
+        content: What should you prioritize to save money in the long run?
+        type: SingleChoice
+        uuid: 2019f155-88b3-4a3d-92b9-10af5cf103fb
     uuid: 5a3dbccf-4357-454c-a714-ee849b99ea86
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/assets_vs_liabilities_credit_union_academy/1687941900114_assets_vs_liabilities.png
