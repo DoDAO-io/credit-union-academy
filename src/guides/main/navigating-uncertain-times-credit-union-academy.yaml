@@ -1,0 +1,274 @@
+categories: []
+content: How to navigate the uncertainties of the post Covid-19 world
+created: '2023-06-28T06:35:07.053Z'
+guideType: onboarding
+key: navigating-uncertain-times-credit-union-academy
+name: Navigating Uncertain Times
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      The predicted recession in America for 2023 has been a topic of debate
+      among economists. While Goldman Sachs Research estimates a 65% probability
+      of a downturn, other economists, like David Mericle, have a more
+      optimistic view with a 35% probability. Mericle believes that a recession
+      is not necessary to tame inflation and that below-potential growth can
+      gradually rebalance supply and demand in the labor market. Additionally,
+      the impact of last year's financial conditions tightening by the Federal
+      Reserve is expected to diminish this year. Mericle also predicts a steady
+      narrowing of the jobs-workers gap, which will contribute to a more
+      sustainable rate of wage growth.
+
+
+      Another factor to consider is the supply chain recovery and the
+      deflationary impulse in the goods sector, which has taken longer than
+      expected but has finally arrived. This is expected to push core goods
+      inflation negative next year and drive the decline in overall core
+      inflation. The Federal Open Market Committee (FOMC) is expected to deliver
+      three rate hikes in the first half of 2023 and then hold the funds rate
+      for the rest of the year. However, there is skepticism about whether the
+      FOMC will cut rates just because inflation comes down. The more likely
+      rationale for cutting rates would be if the economy enters a recession or
+      threatens to do so without an easing in monetary policy.
+
+
+      There are also factors outside of monetary policy that could impact the
+      economy. Congress could pass fiscal policy changes in response to a
+      recession, but the divided control of Congress makes it harder to respond
+      to a downturn. The debt limit deadline is another political risk that
+      could disrupt financial markets and the economy. While spending cuts could
+      occur, the odds lean against substantial changes.
+
+
+      Despite the predictions of a recession, there are reasons to be optimistic
+      about the economy. The U.S. economy has been remarkably resilient and has
+      defied forecasts of a downturn. Factors such as excess savings, a strong
+      labor market, low levels of debt, and falling oil prices contribute to the
+      optimism. However, economists still expect a recession in the second half
+      of 2023, as the impact of high interest rates and reduced lending by banks
+      may be felt more profoundly by consumers and businesses. The inverted
+      yield curve, where the yield on the 2-year Treasury bond is higher than
+      the 10-year Treasury, is also seen as a reliable indicator of a coming
+      recession.
+    name: The Predicted Recession of 2023
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: 4eca903b-af94-450f-a94e-fa02ea445d09
+    uuid: 58df80fa-54eb-43a2-a045-9211e5187f93
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: 8a035851-f551-4be8-b5dd-9cd7cc097908
+      - answerKeys:
+          - choice_1
+          - choice_2
+          - choice_3
+        choices:
+          - content: Choice 1
+            key: choice_1
+          - content: Choice 2
+            key: choice_2
+          - content: Choice 3
+            key: choice_3
+          - content: Choice 4
+            key: choice_4
+        content: Contents of the question
+        type: MultipleChoice
+        uuid: adf7ece3-ac67-40f4-b91f-95507f7d73c6
+      - answerKeys:
+          - C
+        choices:
+          - content: It will lead to a recession in 2023
+            key: A
+          - content: It will lead to a more sustainable rate of wage growth
+            key: B
+          - content: It is expected to diminish this year
+            key: C
+          - content: It will result in increased inflation
+            key: D
+        content: >-
+          What is the impact of last year's financial conditions tightening by
+          the Federal Reserve?
+        type: SingleChoice
+        uuid: a40923e6-e2e6-4d93-8a11-9606a13911a2
+      - answerKeys:
+          - B
+        choices:
+          - content: A recession is not related to inflation
+            key: A
+          - content: >-
+              Below-potential growth can rebalance supply and demand in the
+              labor market
+            key: B
+          - content: Taming inflation is not necessary
+            key: C
+          - content: Inflation can be tamed through fiscal policy changes
+            key: D
+        content: >-
+          According to David Mericle, why is a recession not necessary to tame
+          inflation?
+        type: SingleChoice
+        uuid: 7d514b43-e5b5-4923-9d56-7b86cb53b27a
+    uuid: 347b2db7-25ca-461c-9dbc-fc49c3990a11
+  - content: >-
+      Buy now, pay later (BNPL) is a growing trend among retailers, offering
+      consumers the option to make purchases and pay for them in installments.
+      These offers are often extended by third-party companies, allowing
+      consumers to finance their purchases without accruing revolving interest
+      charges. BNPL can be advantageous for both sellers and buyers, as it makes
+      purchases more appealing and can result in increased sales. It is also
+      easier to qualify for BNPL compared to traditional credit cards, making it
+      a popular choice for those with limited credit history. Online shoppers,
+      in particular, find the immediate gratification of BNPL offers to be a
+      convenient and preferable way to shop.
+
+
+      While BNPL offers can be beneficial, it's important to understand the
+      terms and potential risks involved. Some offers may have a 0% interest
+      rate for a limited time, but if payments are not made on time or in full,
+      high penalties and deferred interest charges may apply. It's crucial to
+      carefully review the terms of the deal before committing to a BNPL loan.
+      Additionally, using BNPL can lead to overspending, as the ability to pay
+      off purchases over time may encourage shoppers to make impulsive decisions
+      and spend more than they can afford. Late payments can also result in late
+      fees and potentially damage your credit score.
+
+
+      Despite the potential risks, BNPL can be a useful tool for spreading out
+      payments on necessary purchases. It provides flexibility in qualifying
+      criteria and offers instant approvals, making it accessible to a wide
+      range of consumers. However, it's important to use BNPL responsibly and
+      avoid overextending yourself with multiple plans. It's also worth
+      considering other borrowing options, such as credit cards, which may offer
+      rewards and perks if used responsibly. Ultimately, the decision to use
+      BNPL should be based on your individual financial situation and needs.
+    name: What is BNPL?
+    stepItems: []
+    uuid: 2642971c-4ebd-44e5-be46-4962e56158a8
+  - content: ''
+    name: Evalution
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              BNPL allows you to make purchases without accruing interest
+              charges.
+            key: A
+          - content: >-
+              BNPL makes purchases more appealing and can result in increased
+              sales.
+            key: B
+          - content: BNPL offers instant approvals and flexible qualifying criteria.
+            key: C
+          - content: BNPL offers rewards and perks if used responsibly.
+            key: D
+        content: What is the advantage of buy now, pay later (BNPL)?
+        type: SingleChoice
+        uuid: e6f64bd6-bc99-46d7-8350-37c76055b4b4
+      - answerKeys:
+          - D
+        choices:
+          - content: BNPL offers have a 0% interest rate for a limited time.
+            key: A
+          - content: >-
+              BNPL offers make purchases more appealing and can result in
+              increased sales.
+            key: B
+          - content: >-
+              Using BNPL can lead to overspending, as the ability to pay off
+              purchases over time may encourage shoppers to make impulsive
+              decisions and spend more than they can afford.
+            key: C
+          - content: >-
+              The decision to use BNPL should be based on your individual
+              financial situation and needs.
+            key: D
+        content: >-
+          What should be considered before using buy now, pay later (BNPL)
+          offers?
+        type: SingleChoice
+        uuid: 155074de-9006-4032-917c-c9cde7f6bd31
+    uuid: a72152ec-9535-4b79-84be-9bc41dd55203
+  - content: >-
+      In the gig economy, managing personal finances can be challenging but
+      crucial for financial stability. As a guide for Gen Z, here are some tips
+      on how to navigate personal finances in gig economy setups.
+
+
+      Firstly, it is important to track your income and expenses diligently.
+      Since gig workers often have irregular income, it is essential to create a
+      budget and stick to it. This will help you understand your financial
+      situation and make informed decisions about your spending and saving
+      habits.
+
+
+      Secondly, it is crucial to plan for taxes as a gig worker. Unlike
+      traditional employees, gig workers are responsible for their own taxes.
+      Set aside a portion of your income for taxes and consider consulting with
+      a tax professional to ensure you are meeting your obligations.
+
+
+      Additionally, it is important to prioritize saving for emergencies and
+      retirement. As a gig worker, you may not have access to employee benefits
+      like retirement plans or health insurance. Therefore, it is essential to
+      establish your own safety net by saving for emergencies and considering
+      options like individual retirement accounts (IRAs) for long-term savings.
+
+
+      Lastly, consider diversifying your income streams. Gig work can be
+      unpredictable, so having multiple sources of income can provide stability
+      and reduce financial stress. Explore different gig opportunities or
+      consider developing additional skills that can open up new income streams.
+
+
+      By following these tips, Gen Z gig workers can better manage their
+      personal finances and navigate the uncertainties of the gig economy.
+      Remember to stay informed, plan ahead, and make wise financial decisions
+      to achieve financial stability and success.
+    name: Gig economy and Personal Finance
+    stepItems: []
+    uuid: 4f1927ac-babe-4004-809a-8a1bb6a22e77
+  - content: ''
+    name: Evalution
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: The government
+            key: A
+          - content: Gig workers
+            key: B
+          - content: Employers
+            key: C
+          - content: Retirement plans
+            key: D
+        content: Who is responsible for paying taxes in the gig economy?
+        type: SingleChoice
+        uuid: 5299071f-18b9-458d-a394-b56fdfef25d1
+      - answerKeys:
+          - C
+        choices:
+          - content: To increase their income
+            key: A
+          - content: To qualify for employee benefits
+            key: B
+          - content: To establish a safety net and plan for the future
+            key: C
+          - content: To avoid paying taxes
+            key: D
+        content: >-
+          Why is it important for gig workers to save for emergencies and
+          retirement?
+        type: SingleChoice
+        uuid: c72f5b00-7edb-413f-b491-051d0f0e4ede
+    uuid: 68879624-7d3e-4303-9316-882efa8bcbd6
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: ab98e439-ab84-47b9-94c0-3705ea75fddf
+version: 1
