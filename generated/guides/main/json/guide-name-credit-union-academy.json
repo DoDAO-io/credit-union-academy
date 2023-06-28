@@ -1,7 +1,7 @@
 {
   "categories": [],
-  "content": "New Guide",
-  "created": "2023-06-28T14:19:24.679Z",
+  "content": "How to minimize the impact of Inflation ",
+  "created": "2023-06-28T21:43:02.389Z",
   "guideType": "onboarding",
   "key": "guide-name-credit-union-academy",
   "name": "Inflation and its impact",
@@ -15,7 +15,7 @@
       "uuid": "742b9707-cd58-49da-aa87-4740bf5f1383"
     },
     {
-      "content": "",
+      "content": "Inflation refers to the continuous increase in the overall price level of goods and services in an economy over time. It occurs when there is an imbalance between the demand for goods and services and the supply available in the economy. One of the main causes of inflation is an increase in aggregate demand. This happens when there is excess demand for goods and services compared to their supply, leading to higher prices as consumers compete for limited resources. This can occur due to an increase in consumer spending, government spending, or investment.\n\nAnother factor that can trigger inflation is cost-push factors. This occurs when there is an increase in production costs, such as wages, raw material prices, or energy costs. When businesses face higher input costs, they often pass on these costs to consumers in the form of higher prices. For example, if the cost of oil increases, it can lead to higher transportation costs, which can then result in higher prices for goods and services.\n\nMonetary factors also play a role in inflation. The actions of central banks and monetary authorities can impact inflation. If the money supply in an economy increases faster than the growth of goods and services, it can lead to inflationary pressures. This can happen when central banks engage in expansionary monetary policies, such as lowering interest rates or engaging in quantitative easing. When there is more money in circulation, it can lead to increased spending and higher prices.\n\nInflation can have both positive and negative impacts on an economy. On the positive side, moderate inflation can encourage spending and investment as people expect prices to rise in the future. It can also help reduce the real burden of debt as the value of money decreases over time. However, high inflation can erode the purchasing power of consumers, reduce the value of savings, and create uncertainty in the economy. It can also lead to wage-price spirals, where workers demand higher wages to keep up with rising prices, which in turn leads to even higher prices. Therefore, it is important for policymakers to carefully manage inflation to ensure it remains at a stable and moderate level.",
       "name": "Evaluation",
       "stepItems": [
         {
@@ -43,6 +43,32 @@
           "content": "What are the main causes of inflation?",
           "type": "SingleChoice",
           "uuid": "d7f641a7-04ac-496a-8043-35bb8f64a48e"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "An imbalance between the demand for goods and services and the supply available in the economy",
+              "key": "A"
+            },
+            {
+              "content": "The continuous increase in the overall price level of goods and services in an economy over time",
+              "key": "B"
+            },
+            {
+              "content": "An increase in consumer spending, government spending, or investment",
+              "key": "C"
+            },
+            {
+              "content": "An increase in production costs, such as wages, raw material prices, or energy costs",
+              "key": "D"
+            }
+          ],
+          "content": "What is inflation?",
+          "type": "SingleChoice",
+          "uuid": "6ed2d757-b539-4220-ab8e-49c7665e5d56"
         }
       ],
       "uuid": "7debd680-e366-4719-a29f-8a478465be73"
@@ -54,7 +80,7 @@
       "uuid": "9f639df9-9f97-4899-a1d7-f702e7c6489e"
     },
     {
-      "content": "",
+      "content": "Inflation refers to the continuous increase in the overall price level of goods and services in an economy over time. It occurs when there is an imbalance between the demand for goods and services and the supply available in the economy. There are several causes of inflation.\n\nOne of the main causes of inflation is an increase in aggregate demand. When there is excess demand for goods and services compared to their supply, prices tend to rise as consumers compete for limited resources. This can happen when there is an increase in consumer spending, government spending, or investment. When people have more money to spend, they are willing to pay higher prices, which leads to inflation.\n\nAnother factor that can trigger inflation is cost-push factors. This occurs when there is an increase in production costs, such as wages, raw material prices, or energy costs. When businesses face higher input costs, they often pass on these costs to consumers in the form of higher prices. For example, if the cost of oil increases, it can lead to higher transportation costs, which can then result in higher prices for goods and services.\n\nMonetary factors also play a role in inflation. The actions of central banks and monetary authorities can impact inflation. If the money supply in an economy increases faster than the growth of goods and services, it can lead to inflationary pressures. This can happen when central banks engage in expansionary monetary policies, such as lowering interest rates or engaging in quantitative easing. When there is more money in circulation, it can lead to increased spending and higher prices.\n\nInflation can have both positive and negative impacts on an economy. On the positive side, moderate inflation can encourage spending and investment as people expect prices to rise in the future. It can also help reduce the real burden of debt as the value of money decreases over time. However, high inflation can erode the purchasing power of consumers, reduce the value of savings, and create uncertainty in the economy. It can also lead to wage-price spirals, where workers demand higher wages to keep up with rising prices, which in turn leads to even higher prices. Therefore, it is important for policymakers to carefully manage inflation to ensure it remains at a stable and moderate level.",
       "name": "Evaluation",
       "stepItems": [
         {
@@ -63,25 +89,51 @@
           ],
           "choices": [
             {
-              "content": "An increase in aggregate demand.",
+              "content": "Erosion of purchasing power, reduced value of savings, uncertainty, wage-price spirals",
               "key": "A"
             },
             {
-              "content": "A decrease in aggregate demand.",
+              "content": "Increased spending and investment",
               "key": "B"
             },
             {
-              "content": "An increase in aggregate supply.",
+              "content": "Decreased production costs",
               "key": "C"
             },
             {
-              "content": "A decrease in aggregate supply.",
+              "content": "Increased money supply",
               "key": "D"
             }
           ],
-          "content": "What is one of the main causes of inflation?",
+          "content": "What can high inflation lead to?",
           "type": "SingleChoice",
-          "uuid": "1b9e1c20-b8ed-42c5-ba5b-7e165831687b"
+          "uuid": "3a223b62-ab6a-410c-b900-950f892114c2"
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "An increase in consumer spending",
+              "key": "A"
+            },
+            {
+              "content": "A decrease in government spending",
+              "key": "B"
+            },
+            {
+              "content": "An increase in production costs",
+              "key": "C"
+            },
+            {
+              "content": "A decrease in investment",
+              "key": "D"
+            }
+          ],
+          "content": "What is a factor that can trigger inflation by increasing production costs?",
+          "type": "SingleChoice",
+          "uuid": "42dc3f6e-f70f-49c6-b5d4-a7adbc45f14c"
         }
       ],
       "uuid": "260fdd46-83a6-44fa-b382-16e6a305d89f"
@@ -121,6 +173,58 @@
           "content": "How does inflation impact investments?",
           "type": "SingleChoice",
           "uuid": "7729157d-d07a-4f6f-8f1e-3a0055f32a45"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Diversified index funds",
+              "key": "A"
+            },
+            {
+              "content": "Gold",
+              "key": "B"
+            },
+            {
+              "content": "Real estate",
+              "key": "C"
+            },
+            {
+              "content": "Treasury Inflation-Protected Securities (TIPS)",
+              "key": "D"
+            }
+          ],
+          "content": "Which asset class tends to perform better during inflationary periods?",
+          "type": "SingleChoice",
+          "uuid": "da3075af-6759-4988-8e99-49172e77b68a"
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Diversify their portfolio and invest in assets that have historically outpaced the rate of inflation",
+              "key": "A"
+            },
+            {
+              "content": "Hold onto cash",
+              "key": "B"
+            },
+            {
+              "content": "Invest solely in real estate",
+              "key": "C"
+            },
+            {
+              "content": "Avoid investments altogether",
+              "key": "D"
+            }
+          ],
+          "content": "What can investors do to mitigate the negative impact of inflation on their finances?",
+          "type": "SingleChoice",
+          "uuid": "978d8a8a-4b9a-4d0c-9136-422114b66b34"
         }
       ],
       "uuid": "c7b9f519-7401-4fa9-b2b5-371f74d2b94b"
@@ -160,6 +264,32 @@
           "content": "What is the first step in coping with inflation as a student?",
           "type": "SingleChoice",
           "uuid": "f167170f-b30d-4684-b033-0c5d2b6149ea"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To buy things from a shop",
+              "key": "A"
+            },
+            {
+              "content": "To track income and expenses, reduce costs, and allocate funds more efficiently",
+              "key": "B"
+            },
+            {
+              "content": "To decrease the value of assets over time",
+              "key": "C"
+            },
+            {
+              "content": "To have fun and spend money on non-essential expenses",
+              "key": "D"
+            }
+          ],
+          "content": "What is the importance of establishing a comprehensive budget as a student?",
+          "type": "SingleChoice",
+          "uuid": "d4c01175-5804-4dad-8f23-929fe63b3160"
         }
       ],
       "uuid": "8f5fda4e-c8e9-4cbb-9daf-8939ba1d2e9e"
@@ -199,6 +329,32 @@
           "content": "Which of the following investments is NOT recommended during inflationary periods?",
           "type": "SingleChoice",
           "uuid": "a9537031-72ed-463f-8a81-eea5d0c47260"
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Diversify their portfolio and invest in assets that have historically outpaced the rate of inflation",
+              "key": "A"
+            },
+            {
+              "content": "Hold cash",
+              "key": "B"
+            },
+            {
+              "content": "Invest in high-risk stocks",
+              "key": "C"
+            },
+            {
+              "content": "Buy luxury goods",
+              "key": "D"
+            }
+          ],
+          "content": "What can investors do to mitigate the negative impact of inflation on their finances?",
+          "type": "SingleChoice",
+          "uuid": "ecbd85df-acb0-4512-8afe-1371ed723179"
         }
       ],
       "uuid": "5e7817c1-beb5-43c8-b6ca-25fe8c8554e9"
@@ -238,6 +394,32 @@
           "content": "What can the government do to control the money supply in the economy and manage inflation?",
           "type": "SingleChoice",
           "uuid": "201c49d6-e344-480f-a1e8-3ac431289c2a"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Increase interest rates",
+              "key": "A"
+            },
+            {
+              "content": "Lower interest rates or issue government securities to block commercial banks' money",
+              "key": "B"
+            },
+            {
+              "content": "Increase government expenditure",
+              "key": "C"
+            },
+            {
+              "content": "Decrease government expenditure",
+              "key": "D"
+            }
+          ],
+          "content": "What can the government do to control the money supply in the economy and tackle inflation?",
+          "type": "SingleChoice",
+          "uuid": "11ab7270-e7e0-4639-b9da-e1a37e1c0877"
         }
       ],
       "uuid": "669ba4f2-a68a-4e1f-a841-96f93f3693de"
