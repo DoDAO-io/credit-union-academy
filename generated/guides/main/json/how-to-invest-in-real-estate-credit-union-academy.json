@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-28T08:46:38.019Z",
+  "created": "2023-06-28T09:16:55.207Z",
   "guideType": "onboarding",
   "key": "how-to-invest-in-real-estate-credit-union-academy",
   "name": "How to invest in Real estate",
@@ -56,7 +56,34 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Real estate is a risky investment with no potential for appreciation",
+              "key": "A"
+            },
+            {
+              "content": "Real estate is a tangible asset that provides security and stability",
+              "key": "B"
+            },
+            {
+              "content": "Real estate has no tax advantages",
+              "key": "C"
+            },
+            {
+              "content": "Real estate does not generate rental income",
+              "key": "D"
+            }
+          ],
+          "content": "What is one advantage of investing in real estate?",
+          "type": "SingleChoice",
+          "uuid": "6b248e1e-b4eb-408f-915d-41dbaaa7180f"
+        }
+      ],
       "uuid": "12f5d421-619f-4ef2-aad8-013f0cab84d1"
     },
     {
@@ -177,7 +204,7 @@
       "uuid": "38a11588-f30f-4f77-8e0b-72f869c65526"
     },
     {
-      "content": "Investing in real estate can be a great option for Gen Z individuals looking to build wealth and generate passive income. Before making any investment, it's important to consider a few key factors.\n\nFirstly, you need to determine the type of property that suits your investment goals and budget. Whether it's a turnkey rental apartment, a commercial property, or a residential property, understanding your investment purpose will help you make the right decision.\n\nNext, you need to establish a budget and consider any hidden costs associated with the property. This includes not only the purchase price but also expenses like renovations, furnishings, and property management fees. Knowing your budget will help you narrow down your options and be more realistic about what you can afford.\n\nLocation is another crucial factor to consider. The location of the property can greatly impact its value and potential for appreciation. Consider factors like proximity to amenities, transportation, and the neighborhood's future development plans. Research the area and understand its potential for growth and demand.\n\nIf you're considering financing your investment through a mortgage, it's important to understand the different types of mortgages available and their associated risks. Consider your current and future earnings, and choose a mortgage that suits your financial situation.\n\nLastly, consider alternative investment options like real estate investment trusts (REITs). REITs allow you to invest in real estate without directly owning and managing properties. They offer diversification and the potential for attractive risk-adjusted returns. \n\nOverall, investing in real estate can be a lucrative opportunity for Gen Z individuals. By considering these factors before investing, you can make informed decisions and increase your chances of success in the real estate market.",
+      "content": "Investing in real estate can be a great option for Gen Z individuals looking to build wealth and generate passive income. Before making any investment, it's important to consider a few key factors.\n\nFirstly, you need to determine the type of property that suits your investment goals and budget. Whether it's a turnkey rental apartment, a commercial property, or a residential property, understanding your investment purpose will help you make the right decision.\n\nNext, you need to establish a budget and consider any hidden costs associated with the property. This includes not only the purchase price but also expenses like renovations, furnishings, and property management fees. Knowing your budget will help you narrow down your options and be more realistic about what you can afford.\n\nLocation is another crucial factor to consider. The location of the property can greatly impact its value and potential for appreciation. Consider factors like proximity to amenities, transportation, and the neighborhood's future development plans. Research the area and understand its potential for growth and demand.\n\nIf you're considering financing your investment through a mortgage, it's important to understand the different types of mortgages available and their associated risks. Consider your current and future earnings, and choose a mortgage that suits your financial situation.\n\nLastly, consider alternative investment options like real estate investment trusts (REITs). REITs allow you to invest in real estate without directly owning and managing properties. They offer diversification and the potential for attractive risk-adjusted returns. \n",
       "name": "Things to consider before invest",
       "stepItems": [],
       "uuid": "06f3bfef-31d4-476d-8255-43d612d5e6bc"

@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-28T08:46:38.019Z'
+created: '2023-06-28T09:16:55.207Z'
 guideType: onboarding
 key: how-to-invest-in-real-estate-credit-union-academy
 name: How to invest in Real estate
@@ -103,7 +103,25 @@ steps:
     uuid: c2ae274d-df2f-4702-98f0-3a427576b4a0
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              Real estate is a risky investment with no potential for
+              appreciation
+            key: A
+          - content: >-
+              Real estate is a tangible asset that provides security and
+              stability
+            key: B
+          - content: Real estate has no tax advantages
+            key: C
+          - content: Real estate does not generate rental income
+            key: D
+        content: What is one advantage of investing in real estate?
+        type: SingleChoice
+        uuid: 6b248e1e-b4eb-408f-915d-41dbaaa7180f
     uuid: 12f5d421-619f-4ef2-aad8-013f0cab84d1
   - content: >-
       A real estate investment trust (REIT) is a company that owns, operates, or
@@ -268,7 +286,7 @@ steps:
         type: SingleChoice
         uuid: 8d5e18e7-293a-4d60-8bef-265a8dd3f0c3
     uuid: 38a11588-f30f-4f77-8e0b-72f869c65526
-  - content: >-
+  - content: >
       Investing in real estate can be a great option for Gen Z individuals
       looking to build wealth and generate passive income. Before making any
       investment, it's important to consider a few key factors.
@@ -304,12 +322,6 @@ steps:
       investment trusts (REITs). REITs allow you to invest in real estate
       without directly owning and managing properties. They offer
       diversification and the potential for attractive risk-adjusted returns. 
-
-
-      Overall, investing in real estate can be a lucrative opportunity for Gen Z
-      individuals. By considering these factors before investing, you can make
-      informed decisions and increase your chances of success in the real estate
-      market.
     name: Things to consider before invest
     stepItems: []
     uuid: 06f3bfef-31d4-476d-8255-43d612d5e6bc
