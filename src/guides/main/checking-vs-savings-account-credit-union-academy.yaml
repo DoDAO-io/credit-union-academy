@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-06-28T08:47:28.829Z'
+created: '2023-06-28T09:35:23.771Z'
 guideType: onboarding
 key: checking-vs-savings-account-credit-union-academy
 name: Checking Vs Savings Account
@@ -53,26 +53,20 @@ steps:
   - content: ''
     name: ' Evaluation'
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 6df242c8-0266-4565-ac7d-0d2878bee682
       - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
+          - A
         choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 3005281a-d48e-4b6a-9846-f55b234bad80
+          - content: Earning interest on the money deposited
+            key: A
+          - content: Buying items from a shop
+            key: B
+          - content: Depreciating in value over time
+            key: C
+          - content: Purchasing items for fun
+            key: D
+        content: What is the main benefit of a checking account?
+        type: SingleChoice
+        uuid: 40a00f07-535d-46ae-92af-645906b9b82c
     uuid: 2db6085f-8395-4b38-a60f-a52038a26fdc
   - content: >-
       A savings account is a type of bank account that is designed for holding
@@ -124,7 +118,21 @@ steps:
     uuid: 2935ce53-5251-45ae-806e-76c759e451da
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: It offers high interest rates
+            key: A
+          - content: It provides unlimited transactions
+            key: B
+          - content: It allows your money to grow over time by earning interest
+            key: C
+          - content: It offers in-person support at physical branches
+            key: D
+        content: What is one of the main advantages of a savings account?
+        type: SingleChoice
+        uuid: ad6e52f8-b025-4685-a69b-900f42187f93
     uuid: 6ff7584a-cddf-43b2-8b2a-56f30e755e79
   - content: >-
       Checking accounts are designed for everyday transactions and provide easy
@@ -160,7 +168,21 @@ steps:
     uuid: 9a5c7874-c492-4207-9705-f22672ee35d2
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Fees for exceeding the maximum number of withdrawals or transfers
+            key: A
+          - content: Fees for earning interest on deposits
+            key: B
+          - content: Monthly maintenance fees or transaction fees
+            key: C
+          - content: Fees for accessing the account through online banking
+            key: D
+        content: What fees are typically associated with checking accounts?
+        type: SingleChoice
+        uuid: 7b82eed7-86e8-447a-bacd-962f14ab024f
     uuid: bdb9a01a-9959-4fbe-814d-5cc65a64218f
   - content: >-
       When it comes to choosing between a checking account and a savings
@@ -203,7 +225,35 @@ steps:
     uuid: f9b0f786-59db-4865-9532-b2b2794b42a8
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              A checking account is designed for everyday transactions and
+              provides easy access to your money, while a savings account is
+              designed for holding money that you don't need to use immediately
+              and allows your money to grow over time through interest payments
+            key: A
+          - content: >-
+              A checking account is designed for holding money that you don't
+              need to use immediately and allows your money to grow over time
+              through interest payments, while a savings account is designed for
+              everyday transactions and provides easy access to your money
+            key: B
+          - content: >-
+              A checking account earns higher interest rates compared to a
+              savings account
+            key: C
+          - content: >-
+              A savings account offers more convenience and security features
+              compared to a checking account
+            key: D
+        content: >-
+          What is the main difference between a checking account and a savings
+          account?
+        type: SingleChoice
+        uuid: 0fc1cd2d-32dc-437f-99c1-07b98769fa92
     uuid: ab326952-060e-4f22-8352-ae7e609309e6
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/checking_vs_savings_account_credit_union_academy/1687942046196_checking_vs_saving.png
