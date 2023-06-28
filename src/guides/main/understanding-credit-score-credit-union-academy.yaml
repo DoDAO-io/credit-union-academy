@@ -1,6 +1,6 @@
 categories: []
 content: Understanding different aspects of Credit Score
-created: '2023-06-27T09:55:21.842Z'
+created: '2023-06-28T08:26:51.296Z'
 guideType: onboarding
 key: understanding-credit-score-credit-union-academy
 name: Understanding Credit Score
@@ -47,7 +47,7 @@ steps:
         uuid: 013fc64b-415f-474e-80c5-6f313467c75c
     uuid: 777d49ab-d5fc-474a-8af5-85127a052c5e
   - content: ''
-    name: What is Credit Score
+    name: Evaluation
     stepItems:
       - label: Full Name
         required: false
@@ -156,6 +156,40 @@ steps:
     name: Different types of Credit Score
     stepItems: []
     uuid: 45d97052-261b-4f01-a0a8-bd09c14622fc
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Experian Score and Equifax Score
+            key: A
+          - content: FICO Score and VantageScore
+            key: B
+          - content: TransUnion Score and Experian Score
+            key: C
+          - content: Equifax Score and TransUnion Score
+            key: D
+        content: >-
+          What are the two most common scoring models used by lenders to assess
+          creditworthiness?
+        type: SingleChoice
+        uuid: 3cd994eb-4116-4c78-bcbc-ec95d0c58277
+      - answerKeys:
+          - C
+        choices:
+          - content: Amount owed
+            key: A
+          - content: Length of credit history
+            key: B
+          - content: Payment history
+            key: C
+          - content: New credit
+            key: D
+        content: Which factor is the most important in determining creditworthiness?
+        type: SingleChoice
+        uuid: a0b7b82f-32d2-4b1b-ace4-62963a5980a3
+    uuid: 1f24a999-7187-4b06-9d61-a99df62684a3
   - content: >-
       A good credit score is a three-digit number that indicates your
       creditworthiness and the likelihood that you will pay your bills on time.
@@ -195,9 +229,115 @@ steps:
     stepItems: []
     uuid: 0c59d90f-6597-4d18-bbb1-86247b36272b
   - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Income and other criteria
+            key: A
+          - content: >-
+              Payment history, amounts owed, length of credit history, new
+              credit applications, and credit mix
+            key: B
+          - content: Number of credit cards owned
+            key: C
+          - content: Number of credit inquiries made
+            key: D
+        content: What factors are considered when calculating credit scores?
+        type: SingleChoice
+        uuid: 3b5dbcdc-755b-4518-9d10-14c0f4889437
+      - answerKeys:
+          - B
+        choices:
+          - content: '500'
+            key: A
+          - content: '700'
+            key: B
+          - content: '900'
+            key: C
+          - content: '200'
+            key: D
+        content: What is a good credit score?
+        type: SingleChoice
+        uuid: 41e57807-167d-48c7-870e-abc71bc373fc
+    uuid: ee16a3e1-0ae2-4c58-acab-ac59933d12e9
+  - content: >-
+      If you're a part of Generation Z and looking to improve your credit score,
+      there are several steps you can take. First, it's important to understand
+      how credit scores are calculated. Factors such as payment history, credit
+      utilization, length of credit history, new credit applications, and credit
+      mix all play a role in determining your score. By focusing on these areas,
+      you can work towards improving your creditworthiness.
+
+
+      One of the most important things you can do to improve your credit score
+      is to make payments on time. Late or missed payments can have a
+      significant negative impact on your score. Setting up automatic payments
+      or reminders can help ensure that you never miss a payment. Additionally,
+      keeping your credit utilization rate low is crucial. This means using less
+      than 30% of your available credit. You can achieve this by paying off
+      balances in full each month and avoiding maxing out your credit cards.
+
+
+      Maintaining a mix of different types of credit can also improve your
+      credit score. This includes having a combination of credit cards, student
+      loans, and mortgages. Lenders like to see that you can handle different
+      types of credit responsibly. However, it's important to avoid applying for
+      too much new credit at once. Each time you apply for credit, it results in
+      a hard inquiry on your credit report, which can temporarily lower your
+      score.
+
+
+      Checking your credit reports regularly for errors and disputing any
+      inaccuracies is another way to improve your credit score. Mistakes on your
+      credit report can negatively impact your score, so it's important to
+      address them as soon as possible. You can request free credit reports from
+      each of the three major credit bureaus once a year through
+      AnnualCreditReport.com.
+
+
+      Improving your credit score takes time and effort, but by following these
+      steps, you can increase your chances of qualifying for the best terms on
+      loans and credit cards. Remember to be patient and consistent in your
+      efforts, as building good credit is a long-term process.
     name: Improving Credit Score
     stepItems: []
     uuid: 6956dfc1-90f9-49c8-bf78-69845eb417f0
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Maxing out your credit cards
+            key: A
+          - content: Making payments on time
+            key: B
+          - content: Applying for multiple new credit cards at once
+            key: C
+          - content: Checking your credit reports for errors
+            key: D
+        content: >-
+          What is one of the most important things you can do to improve your
+          credit score?
+        type: SingleChoice
+        uuid: 7f68f6b9-8559-4666-94d0-e972fe66c757
+      - answerKeys:
+          - D
+        choices:
+          - content: Ignore the errors
+            key: A
+          - content: Close all of your credit accounts
+            key: B
+          - content: Apply for more credit
+            key: C
+          - content: Dispute the errors
+            key: D
+        content: What should you do if you find errors on your credit report?
+        type: SingleChoice
+        uuid: c559dbc8-84d5-4b4f-a03a-6516b2ffeff9
+    uuid: ae4122ff-a9e7-4074-9606-981cdfaa0495
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
 uuid: understanding-credit-score-credit-union-academy
