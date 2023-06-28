@@ -1,6 +1,6 @@
 categories: []
 content: How to wisely use Credit Cards
-created: '2023-06-27T10:13:11.403Z'
+created: '2023-06-28T08:48:58.504Z'
 guideType: onboarding
 key: using-credit-cards-credit-union-academy
 name: 'Using Credit Cards '
@@ -55,11 +55,7 @@ steps:
       credit cards can help you find the one that best fits your needs and
       financial goals.
     name: Types of credit cards
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 661b27a0-d0cd-4b28-a4e8-28c31cdb8860
+    stepItems: []
     uuid: 3e7ded0a-4e69-40a4-8bab-47dcf46d1807
   - content: ''
     name: Introduction Evaluation
@@ -86,6 +82,6 @@ steps:
         uuid: 200c0e76-9e5a-4985-b406-f548a2706fde
     uuid: c239cab4-ede8-4e37-aa33-dc44dd89c704
 thumbnail: >-
-  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 65560bd5-f89b-4aa0-8f5f-03bdf406fab9
+  https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/using_credit_cards_credit_union_academy/1687942135621_use_credit_card_wisely.png
+uuid: using-credit-cards-credit-union-academy
 version: 1

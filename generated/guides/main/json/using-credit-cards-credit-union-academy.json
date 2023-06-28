@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "How to wisely use Credit Cards",
-  "created": "2023-06-27T10:13:11.403Z",
+  "created": "2023-06-28T08:48:58.504Z",
   "guideType": "onboarding",
   "key": "using-credit-cards-credit-union-academy",
   "name": "Using Credit Cards ",
@@ -11,14 +11,7 @@
     {
       "content": "When it comes to credit cards, there are several different types to choose from. Understanding the different types can help you find the one that best suits your needs. One type of credit card is the cash back card, which allows you to earn a percentage of your spending back as cash rewards. There are two main types of cash back cards: flat-rate cards, which offer the same reward rate for all purchases, and category-earn cards, which offer higher rewards for specific categories like dining or groceries.\n\nAnother type of credit card is the travel card, which allows you to earn rewards that can be redeemed for travel-related expenses. There are general travel rewards cards, which are not associated with any specific airline or hotel, and co-branded travel rewards cards, which are branded jointly by the credit card issuer and a specific airline or hotel. Co-branded cards often offer exclusive rewards and benefits with that specific airline or hotel.\n\nStore credit cards are another type of credit card that are affiliated with a specific store. These cards typically offer additional discounts and rewards when used exclusively at the store or with affiliate retailers. There are two main types of store credit cards: private label cards, which can only be used at the store or specified store affiliates, and co-branded general purpose cards, which can be used anywhere, even outside of the store and its affiliates.\n\nSecured credit cards are a type of credit card that requires a security deposit. This deposit acts as collateral and determines your credit limit. Secured cards are a good option for those looking to build or rebuild their credit. Finally, there are student credit cards, which are specifically designed for students with limited credit history. These cards often have lower credit limits and may offer rewards or perks tailored to students.\n\nIn conclusion, there are several different types of credit cards to choose from, each with its own benefits and features. Cash back cards allow you to earn rewards on your everyday spending, travel cards offer rewards that can be redeemed for travel-related expenses, store cards provide discounts and rewards at specific stores, secured cards require a security deposit and are good for building credit, and student cards are designed for students with limited credit history. Understanding the different types of credit cards can help you find the one that best fits your needs and financial goals.",
       "name": "Types of credit cards",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "661b27a0-d0cd-4b28-a4e8-28c31cdb8860"
-        }
-      ],
+      "stepItems": [],
       "uuid": "3e7ded0a-4e69-40a4-8bab-47dcf46d1807"
     },
     {
@@ -63,7 +56,7 @@
       "uuid": "c239cab4-ede8-4e37-aa33-dc44dd89c704"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "65560bd5-f89b-4aa0-8f5f-03bdf406fab9",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/using_credit_cards_credit_union_academy/1687942135621_use_credit_card_wisely.png",
+  "uuid": "using-credit-cards-credit-union-academy",
   "version": 1
 }
