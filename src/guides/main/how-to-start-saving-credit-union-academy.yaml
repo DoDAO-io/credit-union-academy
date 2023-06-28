@@ -1,6 +1,6 @@
 categories: []
 content: Best ways to start saving
-created: '2023-06-28T05:55:02.101Z'
+created: '2023-06-28T08:49:28.846Z'
 guideType: onboarding
 key: how-to-start-saving-credit-union-academy
 name: How to Start Saving
@@ -46,35 +46,11 @@ steps:
       and being consistent with your savings, you can set yourself up for a
       secure and comfortable future.
     name: The best time to Start Saving
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 0188a631-88b9-4264-9cf1-b2fdd97f19c3
+    stepItems: []
     uuid: c8e23cd9-8eb6-4307-ade1-4c1029a6ee83
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 3f67ff15-f5dd-461a-a85f-f952d8ec961f
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: de82c08f-060f-4141-a1e7-d168c3396083
       - answerKeys:
           - C
         choices:
@@ -354,6 +330,6 @@ steps:
         uuid: 0012c4df-46de-4024-9788-b983d7665abd
     uuid: 5fbcf3da-7072-4c86-b43f-838d7f6b1fe8
 thumbnail: >-
-  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 9d11d9e5-71a7-46e1-a6a3-81aef5f91dbc
+  https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/how_to_start_saving_credit_union_academy/1687942159419_how_to_start_saving.png
+uuid: how-to-start-saving-credit-union-academy
 version: 1
