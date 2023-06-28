@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Understanding different aspects of Credit Score",
-  "created": "2023-06-28T08:26:51.296Z",
+  "created": "2023-06-28T08:45:42.290Z",
   "guideType": "onboarding",
   "key": "understanding-credit-score-credit-union-academy",
   "name": "Understanding Credit Score",
@@ -11,54 +11,13 @@
     {
       "content": "A credit score is a three-digit number that represents your credit risk, or the likelihood that you will pay your bills on time. It is used by creditors and lenders to determine whether to approve you for a new account and to set the terms and interest rate for that account. Credit scores can range from 300 to 850, and a higher score generally indicates that you have demonstrated responsible credit behavior in the past. However, there is no specific number that guarantees approval or a certain interest rate. \n\nCredit scores can vary depending on the scoring model used and the information on your credit report. Different lenders may use different scoring models and may report information differently to the credit bureaus. For example, an auto lender may use a credit score that places more emphasis on your history of paying auto loans, while a mortgage lender may use a different formula to assess your risk as a mortgage borrower. Your credit scores are calculated based on the information in your credit reports, including your payment history, amounts owed, length of credit history, new credit applications, and credit mix. \n\nIt's important to note that credit scores are just one factor that lenders consider when evaluating your creditworthiness. They may also take into account your income and other criteria. To maintain a good credit score, it's important to make payments on time, keep your credit utilization rate low, maintain a mix of different types of credit, and avoid applying for too much new credit at once. Checking your own credit score does not impact your credit history. By understanding how credit scoring works and taking steps to improve your score, you can increase your chances of qualifying for the best terms on financial products like credit cards, mortgages, and auto loans.",
       "name": "What is Credit Score",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "013fc64b-415f-474e-80c5-6f313467c75c"
-        }
-      ],
+      "stepItems": [],
       "uuid": "777d49ab-d5fc-474a-8af5-85127a052c5e"
     },
     {
       "content": "",
       "name": "Evaluation",
       "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "0a9b54c0-3ed1-4ea0-a3bd-d91d3a74c3e3"
-        },
-        {
-          "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
-          ],
-          "choices": [
-            {
-              "content": "Choice 1",
-              "key": "choice_1"
-            },
-            {
-              "content": "Choice 2",
-              "key": "choice_2"
-            },
-            {
-              "content": "Choice 3",
-              "key": "choice_3"
-            },
-            {
-              "content": "Choice 4",
-              "key": "choice_4"
-            }
-          ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "1fcf8b26-33d0-4f19-adc3-20d7165ca009"
-        },
         {
           "answerKeys": [
             "B"
@@ -336,7 +295,7 @@
       "uuid": "ae4122ff-a9e7-4074-9606-981cdfaa0495"
     }
   ],
-  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/understanding_credit_score_credit_union_academy/1687941927792_understand_credit_score.png",
   "uuid": "understanding-credit-score-credit-union-academy",
   "version": 1
 }

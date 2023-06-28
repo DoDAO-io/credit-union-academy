@@ -1,6 +1,6 @@
 categories: []
 content: Understanding different aspects of Credit Score
-created: '2023-06-28T08:26:51.296Z'
+created: '2023-06-28T08:45:42.290Z'
 guideType: onboarding
 key: understanding-credit-score-credit-union-academy
 name: Understanding Credit Score
@@ -40,35 +40,11 @@ steps:
       qualifying for the best terms on financial products like credit cards,
       mortgages, and auto loans.
     name: What is Credit Score
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 013fc64b-415f-474e-80c5-6f313467c75c
+    stepItems: []
     uuid: 777d49ab-d5fc-474a-8af5-85127a052c5e
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 0a9b54c0-3ed1-4ea0-a3bd-d91d3a74c3e3
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 1fcf8b26-33d0-4f19-adc3-20d7165ca009
       - answerKeys:
           - B
         choices:
@@ -339,6 +315,6 @@ steps:
         uuid: c559dbc8-84d5-4b4f-a03a-6516b2ffeff9
     uuid: ae4122ff-a9e7-4074-9606-981cdfaa0495
 thumbnail: >-
-  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+  https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/understanding_credit_score_credit_union_academy/1687941927792_understand_credit_score.png
 uuid: understanding-credit-score-credit-union-academy
 version: 1
