@@ -1,6 +1,6 @@
 categories: []
 content: 'Navigating the Uncertainties of the 2020s '
-created: '2023-06-28T08:50:09.573Z'
+created: '2023-06-28T08:50:30.426Z'
 guideType: onboarding
 key: navigating-uncertain-times-credit-union-academy
 name: Navigating Uncertain Times
@@ -51,11 +51,7 @@ steps:
       the 10-year Treasury, is also seen as a reliable indicator of a coming
       recession.
     name: The Predicted Recession of 2023
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 4eca903b-af94-450f-a94e-fa02ea445d09
+    stepItems: []
     uuid: 58df80fa-54eb-43a2-a045-9211e5187f93
   - content: ''
     name: Evaluation

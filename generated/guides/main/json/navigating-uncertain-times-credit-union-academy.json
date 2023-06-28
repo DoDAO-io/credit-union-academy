@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Navigating the Uncertainties of the 2020s ",
-  "created": "2023-06-28T08:50:09.573Z",
+  "created": "2023-06-28T08:50:30.426Z",
   "guideType": "onboarding",
   "key": "navigating-uncertain-times-credit-union-academy",
   "name": "Navigating Uncertain Times",
@@ -11,14 +11,7 @@
     {
       "content": "The predicted recession in America for 2023 has been a topic of debate among economists. While Goldman Sachs Research estimates a 65% probability of a downturn, other economists, like David Mericle, have a more optimistic view with a 35% probability. Mericle believes that a recession is not necessary to tame inflation and that below-potential growth can gradually rebalance supply and demand in the labor market. Additionally, the impact of last year's financial conditions tightening by the Federal Reserve is expected to diminish this year. Mericle also predicts a steady narrowing of the jobs-workers gap, which will contribute to a more sustainable rate of wage growth.\n\nAnother factor to consider is the supply chain recovery and the deflationary impulse in the goods sector, which has taken longer than expected but has finally arrived. This is expected to push core goods inflation negative next year and drive the decline in overall core inflation. The Federal Open Market Committee (FOMC) is expected to deliver three rate hikes in the first half of 2023 and then hold the funds rate for the rest of the year. However, there is skepticism about whether the FOMC will cut rates just because inflation comes down. The more likely rationale for cutting rates would be if the economy enters a recession or threatens to do so without an easing in monetary policy.\n\nThere are also factors outside of monetary policy that could impact the economy. Congress could pass fiscal policy changes in response to a recession, but the divided control of Congress makes it harder to respond to a downturn. The debt limit deadline is another political risk that could disrupt financial markets and the economy. While spending cuts could occur, the odds lean against substantial changes.\n\nDespite the predictions of a recession, there are reasons to be optimistic about the economy. The U.S. economy has been remarkably resilient and has defied forecasts of a downturn. Factors such as excess savings, a strong labor market, low levels of debt, and falling oil prices contribute to the optimism. However, economists still expect a recession in the second half of 2023, as the impact of high interest rates and reduced lending by banks may be felt more profoundly by consumers and businesses. The inverted yield curve, where the yield on the 2-year Treasury bond is higher than the 10-year Treasury, is also seen as a reliable indicator of a coming recession.",
       "name": "The Predicted Recession of 2023",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "4eca903b-af94-450f-a94e-fa02ea445d09"
-        }
-      ],
+      "stepItems": [],
       "uuid": "58df80fa-54eb-43a2-a045-9211e5187f93"
     },
     {
