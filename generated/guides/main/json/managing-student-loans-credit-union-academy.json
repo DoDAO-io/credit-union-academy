@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Best ways to manage Student Loans",
-  "created": "2023-06-28T08:48:35.090Z",
+  "created": "2023-06-28T09:34:33.149Z",
   "guideType": "onboarding",
   "key": "managing-student-loans-credit-union-academy",
   "name": "Managing Student Loans",
@@ -228,6 +228,71 @@
         }
       ],
       "uuid": "0fe33773-ecc8-4ad4-b74f-42dd60f5a013"
+    },
+    {
+      "content": "Repaying student loans in the US can be done through careful planning and budgeting. It's important to have a repayment plan in place before the payments begin. One way to effectively manage your loan payments is by creating a budget. The 20-30-50 plan is a popular budgeting strategy that involves allocating 20% of your income towards loan payments, 30% towards discretionary spending, and 50% towards essential expenses. By following this plan, you can prioritize your loan payments while still having some money for leisure activities. It's also important to track your finances closely by keeping a record of your income and expenses. This will help you stay on top of your budget and make any necessary adjustments.\n\nIn addition to budgeting, there are other strategies for managing student loans in the US. For example, you can explore loan forgiveness programs, deferment options, or alternative repayment plans. The Public Service Loan Forgiveness program is available for those who work for a U.S. federal, state, local, or tribal government or not-for-profit organization. There are also specific forgiveness programs for teachers, medical researchers, and clinicians working at Indian Health Service facilities. It's important to understand the terms and conditions of your loans and take advantage of any opportunities that can help you manage your debt more effectively.\n\nRepaying student loans in Canada also requires careful planning and budgeting. It's important to consider the type of student loan you choose. In Canada, there are both federal and provincial student loans available. Federal student loans generally have lower interest rates and more flexible repayment options compared to private loans. However, private loans can be a good option for borrowers who don't qualify for federal loans or need to borrow more than what federal loans provide. It's important to compare the terms and conditions of different loan options and choose the one that best suits your needs.\n\nBudgeting is a crucial tool for managing student loans in Canada. By creating a budget, you can track your expenses and ensure that you have enough money to cover your loan payments each month. It's also important to explore other strategies for managing your loans, such as loan forgiveness programs or alternative repayment plans. These options can help you manage your debt more effectively and potentially reduce the amount you owe. It's important to be proactive and make informed decisions when it comes to borrowing and repaying student loans in Canada. With careful planning and budgeting, you can work towards minimizing your debt and achieving financial security.",
+      "name": "Repaying Student Loans",
+      "stepItems": [],
+      "uuid": "e7c5c918-ed46-427e-b040-7a94e6098baf"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "A loan forgiveness program available for those who work for a U.S. federal, state, local, or tribal government or not-for-profit organization",
+              "key": "A"
+            },
+            {
+              "content": "A loan forgiveness program available for those who work for a U.S. private company",
+              "key": "B"
+            },
+            {
+              "content": "A loan forgiveness program available for those who work in the healthcare industry",
+              "key": "C"
+            },
+            {
+              "content": "A loan forgiveness program available for those who work in the education sector",
+              "key": "D"
+            }
+          ],
+          "content": "What is the Public Service Loan Forgiveness program?",
+          "type": "SingleChoice",
+          "uuid": "e9a7adf9-e0f4-4e2e-8175-637cb0b49f0d"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "The interest rates of different loan options",
+              "key": "A"
+            },
+            {
+              "content": "The type of student loan, comparing the terms and conditions of different options, and choosing the one that best suits your needs",
+              "key": "B"
+            },
+            {
+              "content": "The repayment options of different loan options",
+              "key": "C"
+            },
+            {
+              "content": "The amount you can borrow from different loan options",
+              "key": "D"
+            }
+          ],
+          "content": "What should be considered when choosing a student loan in Canada?",
+          "type": "SingleChoice",
+          "uuid": "f1879cce-07a5-4390-849f-7cac0da3ad6a"
+        }
+      ],
+      "uuid": "bab78dc3-1521-4b56-bba2-6c9fe7155af2"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/managing_student_loans_credit_union_academy/1687942111643_repay_student_debt.png",
