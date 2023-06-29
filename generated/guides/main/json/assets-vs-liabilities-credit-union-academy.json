@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Difference between Asset and Liability",
-  "created": "2023-06-28T10:39:29.761Z",
+  "created": "2023-06-29T23:56:47.291Z",
   "guideType": "onboarding",
   "key": "assets-vs-liabilities-credit-union-academy",
   "name": "Assets Vs Liabilities",
@@ -173,32 +173,6 @@
           "content": "What are liabilities?",
           "type": "SingleChoice",
           "uuid": "f6b83b12-4d55-4710-a295-fa7cadac9cdd"
-        },
-        {
-          "answerKeys": [
-            "D"
-          ],
-          "choices": [
-            {
-              "content": "Current liabilities are debts and obligations that are due in the future but not within the next year, while non-current liabilities are short-term debts and obligations that are due within one year",
-              "key": "A"
-            },
-            {
-              "content": "Current liabilities are debts and obligations that are due within one year, while non-current liabilities are short-term debts and obligations that are due in the future but not within the next year",
-              "key": "B"
-            },
-            {
-              "content": "Current liabilities are debts and obligations that are due within one month, while non-current liabilities are debts and obligations that are due within one year",
-              "key": "C"
-            },
-            {
-              "content": "Current liabilities are short-term debts and obligations that are due within one year, while non-current liabilities are debts and obligations that are due in the future but not within the next year",
-              "key": "D"
-            }
-          ],
-          "content": "What is the difference between current liabilities and non-current liabilities?",
-          "type": "SingleChoice",
-          "uuid": "a2a25f56-6004-4d96-ac44-b14a3eda5e04"
         }
       ],
       "uuid": "43a815f6-a021-455c-90ff-24ae6fde5c21"
