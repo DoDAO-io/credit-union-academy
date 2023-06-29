@@ -1,6 +1,6 @@
 categories: []
 content: 'How to minimize the impact of Inflation '
-created: '2023-06-29T10:30:30.771Z'
+created: '2023-06-29T10:31:14.711Z'
 guideType: onboarding
 key: guide-name-credit-union-academy
 name: Inflation and its impact
@@ -445,7 +445,7 @@ steps:
     stepItems: []
     uuid: 0d0d2ec4-2c1d-4a4e-aaa8-3fe4bf80dfac
   - content: ''
-    name: Step 12
+    name: Evaluation
     stepItems:
       - answerKeys:
           - B
