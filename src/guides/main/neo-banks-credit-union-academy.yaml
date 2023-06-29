@@ -1,6 +1,6 @@
 categories: []
-content: New Guide
-created: '2023-06-28T14:19:49.395Z'
+content: NEO Banks changing the traditional banking landscape
+created: '2023-06-29T10:18:43.416Z'
 guideType: onboarding
 key: neo-banks-credit-union-academy
 name: NEO banks
@@ -38,19 +38,37 @@ steps:
     name: Evaluation
     stepItems:
       - answerKeys:
-          - B
+          - C
         choices:
-          - content: A. Traditional banks with physical branches
+          - content: Physical banks with traditional brick-and-mortar branches
             key: A
-          - content: B. Financial institutions that operate solely online
+          - content: Banks that operate solely through telephone customer service
             key: B
-          - content: C. Banks that offer only savings accounts
+          - content: >-
+              Banks that operate entirely online through mobile apps and online
+              platforms
             key: C
-          - content: D. Banks that provide in-person services only
+          - content: Banks that focus on providing loans to individuals
             key: D
-        content: What is a neobank?
+        content: What are neobanks?
         type: SingleChoice
-        uuid: 64544179-d833-43ff-b697-4ca2313ce043
+        uuid: 52f63aae-594e-493d-8882-8cd90383b84b
+      - answerKeys:
+          - D
+        choices:
+          - content: By offering higher interest rates on savings accounts
+            key: A
+          - content: By requiring strict eligibility criteria for opening an account
+            key: B
+          - content: By providing physical branch locations
+            key: C
+          - content: >-
+              By leveraging technology and eliminating barriers to extend
+              banking services
+            key: D
+        content: How do neobanks promote financial inclusion?
+        type: SingleChoice
+        uuid: 230953e5-9129-4e4c-8aea-89efb304eea6
     uuid: 4487b356-b040-480d-a024-95d214098f59
   - content: >-
       Neobanks, also known as digital banks or online banks, offer convenience
@@ -99,6 +117,22 @@ steps:
           traditional banks?
         type: SingleChoice
         uuid: 5c9d46e9-d9a8-41d5-9d33-9d9bf7f02aed
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Real-time transaction notifications, personalized budgeting, and
+              savings goals
+            key: A
+          - content: Physical branches and in-person customer service
+            key: B
+          - content: High fees and penalties
+            key: C
+          - content: Limited access to accounts and finances
+            key: D
+        content: What are some features offered by neobanks?
+        type: SingleChoice
+        uuid: f3709133-9694-4b33-8f09-d2917a15f0b1
     uuid: 1e025e01-d859-4a94-b37f-47d88e6a66aa
   - content: >-
       Neobanks, also known as digital banks or online banks, offer several
@@ -143,19 +177,35 @@ steps:
     name: Evaluation
     stepItems:
       - answerKeys:
-          - A
+          - B
         choices:
-          - content: Convenience
+          - content: Neobanks offer enhanced digital features and innovative tools
             key: A
-          - content: Enhanced digital features
+          - content: >-
+              Neobanks provide convenience through user-friendly mobile apps and
+              online platforms
             key: B
-          - content: Lower fees
+          - content: Neobanks often offer lower fees compared to traditional banks
             key: C
-          - content: Speed and efficiency
+          - content: Neobanks have faster and more efficient transactions
             key: D
-        content: What is one potential benefit of neobanks?
+        content: What is one of the benefits of neobanks in terms of convenience?
         type: SingleChoice
-        uuid: dcdbd91e-ef6b-4ae4-85e9-815ec925796d
+        uuid: 73913923-830d-4057-80e7-de7dcac4dbbc
+      - answerKeys:
+          - B
+        choices:
+          - content: Neobanks offer enhanced digital features and innovative tools
+            key: A
+          - content: Neobanks provide financial inclusion to unbanked populations
+            key: B
+          - content: Neobanks often offer lower fees compared to traditional banks
+            key: C
+          - content: Neobanks have faster and more efficient transactions
+            key: D
+        content: What is one of the potential impacts of neobanks?
+        type: SingleChoice
+        uuid: 5dd52b69-017a-4dee-959b-0057ee30e5d0
     uuid: 0fa99a60-292a-4b92-bac3-aeb6a08093a2
   - content: >-
       Neobanks, also known as digital banks or online banks, offer convenience
@@ -204,17 +254,39 @@ steps:
       - answerKeys:
           - C
         choices:
-          - content: Limited product offerings
+          - content: Limited product offerings compared to traditional banks
             key: A
-          - content: Customer support challenges
+          - content: >-
+              Difficulties in reaching customer support or experiencing delays
+              in issue resolution
             key: B
-          - content: Limited physical presence
+          - content: Limited physical presence and lack of physical branch locations
             key: C
-          - content: Technology and security risks
+          - content: >-
+              Exposure to cybersecurity risks due to heavy reliance on
+              technology and digital platforms
             key: D
-        content: What is a pain point associated with neobanks?
+        content: What is a pain point of neobanks?
         type: SingleChoice
-        uuid: 14432728-8776-48fc-ae1b-d4538b6d56e1
+        uuid: a01370f4-f198-441f-9fed-b67c3921d6fa
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Exposure to cybersecurity risks due to heavy reliance on
+              technology and digital platforms
+            key: A
+          - content: Limited physical presence and lack of physical branch locations
+            key: B
+          - content: Limited product offerings compared to traditional banks
+            key: C
+          - content: >-
+              Difficulties in reaching customer support or experiencing delays
+              in issue resolution
+            key: D
+        content: What is a technology and security risk associated with neobanks?
+        type: SingleChoice
+        uuid: e268ba6e-6180-409d-a6a7-eb81ddd23663
     uuid: 4616f0db-da26-4e7f-9a89-613991f9c711
   - content: >+
       Neobanks and traditional banks are two different types of financial
@@ -272,23 +344,39 @@ steps:
     name: Evaluation
     stepItems:
       - answerKeys:
-          - D
+          - B
         choices:
-          - content: Face-to-face contact and personalized service.
+          - content: Neobanks offer a wider range of services than traditional banks
             key: A
-          - content: Tech-savviness and reliance on digital platforms.
-            key: B
-          - content: Security and stability of the bank.
-            key: C
           - content: >-
-              More than basic banking services such as loans, credit cards, or
-              wealth management.
+              Neobanks have lower fees and offer higher interest rates on
+              checking and savings accounts
+            key: B
+          - content: Neobanks have physical branches while traditional banks do not
+            key: C
+          - content: Traditional banks rely heavily on digital platforms
             key: D
-        content: >-
-          What should be considered when deciding between a neobank and a
-          traditional bank?
+        content: What is the main difference between neobanks and traditional banks?
         type: SingleChoice
-        uuid: 728776d1-9760-4f71-b187-f4aaf5be2247
+        uuid: 40054cf2-83fd-4f95-9e7c-4b041a2a4185
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Basic banking services such as checking and savings accounts,
+              money transfer, and payment services
+            key: A
+          - content: >-
+              Lines of credit, financial advisors, credit cards, and investing
+              services
+            key: B
+          - content: Face-to-face contact and personalized service
+            key: C
+          - content: Loans, credit cards, and wealth management
+            key: D
+        content: What type of services do neobanks typically offer?
+        type: SingleChoice
+        uuid: 847252de-90ea-4377-b956-048b683d8ab8
     uuid: c9fe90dd-919e-4942-8be9-df55baa68e89
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/credit-union-academy/Guide/neo_banks_credit_union_academy/1687961986193_neo_banks.png
