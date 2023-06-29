@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-06-28T09:35:23.771Z",
+  "created": "2023-06-29T06:49:31.487Z",
   "guideType": "onboarding",
   "key": "checking-vs-savings-account-credit-union-academy",
   "name": "Checking Vs Savings Account",
@@ -43,6 +43,32 @@
           "content": "What is the main benefit of a checking account?",
           "type": "SingleChoice",
           "uuid": "40a00f07-535d-46ae-92af-645906b9b82c"
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Convenience in accessing and managing your money",
+              "key": "A"
+            },
+            {
+              "content": "Earning interest on the money you deposit",
+              "key": "B"
+            },
+            {
+              "content": "Protection against unauthorized transactions",
+              "key": "C"
+            },
+            {
+              "content": "Fees for maintaining the account",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the drawbacks of a checking account?",
+          "type": "SingleChoice",
+          "uuid": "d4b731ff-7045-4af8-9b6c-9ac86f10b4dd"
         }
       ],
       "uuid": "2db6085f-8395-4b38-a60f-a52038a26fdc"
@@ -82,6 +108,32 @@
           "content": "What is one of the main advantages of a savings account?",
           "type": "SingleChoice",
           "uuid": "ad6e52f8-b025-4685-a69b-900f42187f93"
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "It allows your money to grow over time",
+              "key": "A"
+            },
+            {
+              "content": "It may have a minimum balance requirement",
+              "key": "B"
+            },
+            {
+              "content": "It has no lock-in periods",
+              "key": "C"
+            },
+            {
+              "content": "It offers high interest rates",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the drawbacks of a savings account?",
+          "type": "SingleChoice",
+          "uuid": "d133d5be-5244-443e-ba7c-7ece5538cd8b"
         }
       ],
       "uuid": "6ff7584a-cddf-43b2-8b2a-56f30e755e79"
@@ -102,7 +154,7 @@
           ],
           "choices": [
             {
-              "content": "Fees for exceeding the maximum number of withdrawals or transfers",
+              "content": "Fees for making withdrawals or transfers",
               "key": "A"
             },
             {
@@ -114,13 +166,39 @@
               "key": "C"
             },
             {
-              "content": "Fees for accessing the account through online banking",
+              "content": "Fees for overdraft protection",
               "key": "D"
             }
           ],
-          "content": "What fees are typically associated with checking accounts?",
+          "content": "What fees are associated with checking accounts?",
           "type": "SingleChoice",
-          "uuid": "7b82eed7-86e8-447a-bacd-962f14ab024f"
+          "uuid": "7dbacb99-6306-43b1-be01-67946a5ab624"
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "They do not earn interest on deposits",
+              "key": "A"
+            },
+            {
+              "content": "They have higher interest rates",
+              "key": "B"
+            },
+            {
+              "content": "They have minimum balance requirements",
+              "key": "C"
+            },
+            {
+              "content": "They have limits on the number of withdrawals or transfers",
+              "key": "D"
+            }
+          ],
+          "content": "What is a drawback of checking accounts compared to savings accounts?",
+          "type": "SingleChoice",
+          "uuid": "9728abea-1388-4d1f-b2c2-3207f5680203"
         }
       ],
       "uuid": "bdb9a01a-9959-4fbe-814d-5cc65a64218f"
@@ -160,6 +238,32 @@
           "content": "What is the main difference between a checking account and a savings account?",
           "type": "SingleChoice",
           "uuid": "0fc1cd2d-32dc-437f-99c1-07b98769fa92"
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Something that is owned by a person or company and increases in value over time",
+              "key": "A"
+            },
+            {
+              "content": "Something that you buy from a shop",
+              "key": "B"
+            },
+            {
+              "content": "Something that decreases in value over time",
+              "key": "C"
+            },
+            {
+              "content": "Your financial goals and needs",
+              "key": "D"
+            }
+          ],
+          "content": "What should you consider when choosing between a checking and savings account?",
+          "type": "SingleChoice",
+          "uuid": "55abca22-f422-4306-83d2-595417e8880a"
         }
       ],
       "uuid": "ab326952-060e-4f22-8352-ae7e609309e6"
