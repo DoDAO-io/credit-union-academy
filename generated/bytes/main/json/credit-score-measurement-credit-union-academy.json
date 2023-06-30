@@ -1,0 +1,113 @@
+{
+  "uniqueId": "e9c0b03a-dcc7-41d2-a03f-e615794673d3",
+  "id": "credit-score-measurement-credit-union-academy",
+  "name": "Credit Score Measurement",
+  "content": "What is Credit Score and what does it measure",
+  "created": "2023-06-30T03:20:59.027Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "3a806083-b346-441b-9e87-e962224d81d1",
+      "content": "A credit score is a prediction of your credit behavior, such as how likely you are to pay a loan back on time, based on information from your credit reports. Companies use credit scores to make decisions on whether to offer you a mortgage, credit card, auto loan, and other credit products, as well as for tenant screening and insurance. They are also used to determine the interest rate and credit limit you receive.",
+      "stepItems": []
+    },
+    {
+      "name": "Factors Considered",
+      "uuid": "2d1e77d3-5e61-4114-acf9-c30887d4f8d3",
+      "content": "Credit scores are created using a mathematical formula called a scoring model, which takes into account factors such as your bill-paying history, current unpaid debt, the number and type of loan accounts you have, how long you have had your loan accounts open, how much of your available credit you're using, new applications for credit, and any past debt sent to collection, foreclosure, or bankruptcy.",
+      "stepItems": []
+    },
+    {
+      "name": "Variability of Credit Scores",
+      "uuid": "db5dfdd0-17f8-4c92-8016-74b2e4a17978",
+      "content": "Each credit score depends on the data used to calculate it, the scoring model, the source of the data, and the date it was calculated. Generally, a higher credit score makes it easier to qualify for a loan and may result in better interest rates or loan terms. Most credit scores range from 300-850.",
+      "stepItems": []
+    },
+    {
+      "name": "Use of Credit Scores",
+      "uuid": "78cba8c0-dfcc-4009-978d-3256ebda7a28",
+      "content": "Credit scoring is used by lenders and financial institutions to determine the creditworthiness of individuals and small businesses. The most widely used credit scoring system is the FICO score, created by Fair Isaac Corporation. Another popular scoring model is VantageScore, created by the top three credit-reporting agencies. Credit scores are an important factor in risk-based pricing, where the terms of a loan are based on the probability of repayment.",
+      "stepItems": []
+    },
+    {
+      "name": "Limitations and Improvement",
+      "uuid": "868ea647-d630-4d1b-b13e-5c66e5a0847c",
+      "content": "Credit scores have limitations, as they cannot explicitly factor in current economic conditions or determine the exact default probability of borrowers. However, advancements in technology and credit risk modeling continue to refine the accuracy of credit scores. It is important for individuals to understand how credit scoring works and to take steps to improve their credit scores, such as making payments on time, decreasing debt, and maintaining a healthy mix of credit.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "35846b53-f421-4d61-9997-65d3458fc0ee",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "864afd05-cd51-4b00-90db-f1b7284240e3",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Bill-paying history, current unpaid debt, loan accounts, credit utilization, new applications for credit, and past debt sent to collection, foreclosure, or bankruptcy"
+            },
+            {
+              "key": "B",
+              "content": "Number of credit cards owned, income level, and employment history"
+            },
+            {
+              "key": "C",
+              "content": "Age, gender, and marital status"
+            },
+            {
+              "key": "D",
+              "content": "Number of social media followers and online shopping habits"
+            }
+          ],
+          "content": "What factors are considered when calculating a credit score?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "Credit scores are created using a mathematical formula called a scoring model, which takes into account factors such as your bill-paying history, current unpaid debt, the number and type of loan accounts you have, how long you have had your loan accounts open, how much of your available credit you're using, new applications for credit, and any past debt sent to collection, foreclosure, or bankruptcy."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "8699c506-6e87-4052-91cf-0e6dae15d535",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "30b7ebd1-2691-4642-8d10-37e1b7e8d812",
+          "choices": [
+            {
+              "key": "A",
+              "content": "To determine the exact default probability of borrowers"
+            },
+            {
+              "key": "B",
+              "content": "To determine the creditworthiness of individuals and small businesses and to help in risk-based pricing"
+            },
+            {
+              "key": "C",
+              "content": "To track social media activity and online shopping habits"
+            },
+            {
+              "key": "D",
+              "content": "To evaluate the age, gender, and marital status of individuals"
+            }
+          ],
+          "content": "What is the purpose of credit scoring?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "Credit scoring is used by lenders and financial institutions to determine the creditworthiness of individuals and small businesses. It helps in risk-based pricing, where the terms of a loan are based on the probability of repayment."
+        }
+      ]
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
