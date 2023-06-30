@@ -1,0 +1,111 @@
+uniqueId: 968a7928-7041-4020-8ca8-3bfd8ae6d05e
+id: credit-cards-vs-debit-cards-credit-union-academy
+name: Credit Cards vs Debit Cards
+content: 'Credit Cards vs Debit Cards: Understanding the Differences'
+created: '2023-06-30T18:19:01.980Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Introduction
+    uuid: a4007eea-c152-415e-bf00-b9c19e4ca9d0
+    content: >-
+      Credit cards and debit cards may seem similar, but they have important
+      differences. Credit cards allow you to borrow money and pay it back later,
+      while debit cards deduct money directly from your bank account.
+    stepItems: []
+  - name: Funds and Repayment
+    uuid: e295574f-b747-412a-91ae-486270239bd9
+    content: >-
+      When using a debit card, the funds used for a purchase come directly from
+      your bank account. With a credit card, you borrow money from the card
+      issuer and repay it later, often with interest and fees.
+    stepItems: []
+  - name: Payment Options
+    uuid: c1b6c6f8-da37-42e9-9f05-37bf1f122e28
+    content: >-
+      Credit cards offer the option to pay off the balance in full or make
+      minimum payments. If you only make the minimum payment, interest charges
+      can quickly accumulate and make it harder to pay off the debt.
+    stepItems: []
+  - name: Building Credit
+    uuid: b680b682-e2ee-4e00-935d-324218aacfe1
+    content: >-
+      Debit cards do not build credit since they do not report card activity to
+      credit bureaus. Credit cards, on the other hand, can help you build credit
+      when used responsibly.
+    stepItems: []
+  - name: Fraud Protection
+    uuid: ce2092a9-ae69-42ed-9a9a-2f9a0fa39653
+    content: >-
+      Credit cards provide more robust fraud protection compared to debit cards.
+      With credit cards, your liability for unauthorized charges is often
+      limited to $50, while debit cards may hold you fully liable if not
+      reported promptly.
+    stepItems: []
+  - name: Spending Limits
+    uuid: beeb878f-aecd-4aaf-aa5f-55c8d3369c87
+    content: >-
+      Debit cards are linked to your checking account and allow you to spend
+      only what you have. Credit cards provide a line of credit, allowing you to
+      spend beyond your current funds, but this can lead to debt if not managed
+      responsibly.
+    stepItems: []
+  - name: Rewards Programs
+    uuid: e1495479-6eeb-49c4-82ed-43763eae7ea7
+    content: >-
+      Credit cards often come with rewards programs, offering cash back, travel
+      points, or other benefits. Debit cards generally do not offer the same
+      level of rewards.
+    stepItems: []
+  - name: Conclusion
+    uuid: c7ef8bc7-86e5-43c9-b4e9-268c683dbaed
+    content: >-
+      Both credit cards and debit cards have their advantages and disadvantages.
+      It's important to choose the right card for your financial situation and
+      spending habits.
+    stepItems: []
+  - name: Evaluation
+    uuid: fc0f8743-5f0d-45ac-aec9-fe41857720f4
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 7feefa77-1e23-4b96-b64f-91bf5b1a66a1
+        choices:
+          - key: A
+            content: Credit cards deduct money directly from your bank account.
+          - key: B
+            content: Credit cards allow you to borrow money and pay it back later.
+          - key: C
+            content: Debit cards allow you to borrow money and pay it back later.
+          - key: D
+            content: Debit cards deduct money directly from your bank account.
+        content: What is the main difference between credit cards and debit cards?
+        answerKeys:
+          - B
+        explanation: >-
+          The main difference between credit cards and debit cards is that
+          credit cards allow you to borrow money and pay it back later, while
+          debit cards deduct money directly from your bank account.
+  - name: Evaluation
+    uuid: bbfd3c6b-cd56-42ad-8628-5a590b6a32d1
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: fbe7e342-87d9-4d91-b5e3-62dc2179cf52
+        choices:
+          - key: A
+            content: Credit cards
+          - key: B
+            content: Debit cards
+          - key: C
+            content: Both credit cards and debit cards
+          - key: D
+            content: Neither credit cards nor debit cards
+        content: Which type of card can help you build credit?
+        answerKeys:
+          - C
+        explanation: Credit cards can help you build credit when used responsibly.
+spaceId: credit-union-academy
