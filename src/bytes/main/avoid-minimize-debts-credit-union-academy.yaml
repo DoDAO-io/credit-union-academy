@@ -1,0 +1,130 @@
+uniqueId: fa7116c9-0df6-457a-b673-9acdd6ae07fe
+id: avoid-minimize-debts-credit-union-academy
+name: Avoid & Minimize Debts
+content: Ways to Avoid and Minimize Student Debts
+created: '2023-06-30T15:27:52.305Z'
+visibility: Public
+publishStatus: Live
+admins: []
+tags: []
+priority: 0
+steps:
+  - name: Explore Other Funding Sources
+    uuid: 01ef2055-119b-4da9-b948-6456ac70580c
+    content: >-
+      Many students borrow money to pay for college, but it's important to
+      exhaust all other sources of funding and financial aid before turning to
+      loans.
+    stepItems: []
+  - name: Enroll at a Community College
+    uuid: 6f9bb73b-cd3f-40c8-abce-fa9aa08b27c7
+    content: >-
+      Consider enrolling at a community college to save money, earn credits, and
+      transfer to a four-year college later on.
+    stepItems: []
+  - name: Consider No-Loan Schools
+    uuid: b1d90c44-4e0d-4762-a90a-372a43726b07
+    content: >-
+      Research and consider attending a no-loan school that offers free tuition
+      or meets the full financial need of students without relying on student
+      loans.
+    stepItems: []
+  - name: Estimate College Costs
+    uuid: 80ecb938-09d3-48d8-9cc8-a5e616d11d69
+    content: >-
+      Estimate college costs beyond tuition, such as books, housing, meals, and
+      transportation, to get a better understanding of the overall expenses.
+    stepItems: []
+  - name: Maximize Funding Sources
+    uuid: 9de7ab01-861a-4fd0-a856-aa0411cac058
+    content: >-
+      Maximize other funding sources like grants, scholarships, and college
+      savings plans before resorting to student loans.
+    stepItems: []
+  - name: Start a Side Hustle
+    uuid: 74ce7256-32a3-4364-98ae-edcf04e2f8df
+    content: >-
+      Start a side hustle or get a part-time job to offset costs and minimize
+      borrowing. Some employers offer tuition assistance programs.
+    stepItems: []
+  - name: Limit Living Expenses
+    uuid: 3cc7045e-4b7b-4330-ba70-3d6ee43ce04f
+    content: >-
+      Limit living expenses and be frugal whenever possible to avoid unnecessary
+      spending and reduce the need for student loans.
+    stepItems: []
+  - name: Borrow Only What's Needed
+    uuid: 757abc67-ac9b-49c3-b31a-1eea3658cfa8
+    content: >-
+      Borrow only the amount needed and carefully consider the long-term impact
+      of student loan debt before signing on the dotted line.
+    stepItems: []
+  - name: Understand Repayment Terms
+    uuid: 1fbf0e47-9775-4f9e-a67b-c44cc4b40089
+    content: >-
+      Understand the repayment terms and the amount that needs to be paid back,
+      as well as explore repayment assistance options.
+    stepItems: []
+  - name: Know Salary Expectations
+    uuid: 0fa18444-c064-4a54-aa59-d14b6d07efca
+    content: >-
+      Know your salary expectations after graduation and aim to owe less than
+      your potential starting salary to reduce financial burden.
+    stepItems: []
+  - name: Evaluate Loan Options
+    uuid: c75cbbb0-9105-4878-a4b8-60caa3b7dc45
+    content: >-
+      Evaluate student loan options, starting with federal loans that offer
+      repayment assistance options before considering private loans.
+    stepItems: []
+  - name: Evaluation
+    uuid: 5b43be42-b6db-49d8-a371-e1d627168dbc
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: aac781ad-1f5a-4b66-af28-5c3dea5b121a
+        choices:
+          - key: A
+            content: Start a side hustle or get a part-time job
+          - key: B
+            content: Borrow only the amount needed
+          - key: C
+            content: Limit living expenses and be frugal whenever possible
+          - key: D
+            content: Evaluate student loan options
+        content: >-
+          What is the best way to avoid unnecessary spending and reduce the need
+          for student loans?
+        answerKeys:
+          - C
+        explanation: >-
+          Limiting living expenses and being frugal whenever possible can help
+          avoid unnecessary spending and reduce the need for student loans.
+  - name: Evaluation
+    uuid: 3818068f-e032-40bb-a2e2-0215b1994a5a
+    content: ''
+    stepItems:
+      - type: SingleChoice
+        uuid: 19486e1c-9abf-4d76-9901-0db1cd582f13
+        choices:
+          - key: A
+            content: Consider enrolling at a community college
+          - key: B
+            content: Research and consider attending a no-loan school
+          - key: C
+            content: Estimate college costs beyond tuition
+          - key: D
+            content: Carefully consider the long-term impact of student loan debt
+          - key: E
+            content: >-
+              Maximize other funding sources like grants, scholarships, and
+              college savings plans
+        content: >-
+          What should be done before signing on the dotted line for a student
+          loan?
+        answerKeys:
+          - E
+        explanation: >-
+          Before signing on the dotted line for a student loan, it is important
+          to carefully consider the long-term impact of student loan debt.
+spaceId: credit-union-academy
