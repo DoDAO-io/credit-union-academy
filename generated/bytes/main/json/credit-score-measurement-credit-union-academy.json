@@ -1,0 +1,39 @@
+{
+  "uniqueId": "e541d82e-bf27-4ba9-8432-3f52005124cd",
+  "id": "credit-score-measurement-credit-union-academy",
+  "name": "Credit Score Measurement",
+  "content": "What is a Credit Score and What Does it Measure?",
+  "created": "2023-06-30T00:35:50.647Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "9c60a0c8-03f0-4fe1-837d-464c3e7742c0",
+      "content": "A credit score is a prediction of your credit behavior, such as how likely you are to pay a loan back on time, based on information from your credit reports. Companies use credit scores to make decisions on whether to offer you a mortgage, credit card, auto loan, and other credit products, as well as for tenant screening and insurance. They are also used to determine the interest rate and credit limit you receive. Companies use a mathematical formula—called a scoring model—to create your credit score from the information in your credit report.",
+      "stepItems": []
+    },
+    {
+      "name": "Factors Considered in Credit Scoring",
+      "uuid": "c6726f20-09bf-47d1-9ae6-9421820e0c28",
+      "content": "Factors that are typically taken into account by credit scoring models include: Your bill-paying history, Your current unpaid debt, The number and type of loan accounts you have, How long you have had your loan accounts open, How much of your available credit you’re using, New applications for credit, Whether you have had a debt sent to collection, a foreclosure, or a bankruptcy, and how long ago. Each credit score depends on the data used to calculate it, and it may differ depending on the scoring model, the source of the data used, and even the day when it was calculated.",
+      "stepItems": []
+    },
+    {
+      "name": "Impact of Credit Scores",
+      "uuid": "d67fbf2d-d6aa-43cb-8d29-300065f225d5",
+      "content": "A higher credit score makes it easier to qualify for a loan and may result in a better interest rate or loan terms. Most credit scores range from 300-850. Credit scoring is used by lenders and financial institutions to determine the creditworthiness of individuals and small businesses. The most widely used credit scoring system is the FICO score, while another popular model is VantageScore. Credit scores are based on information in credit reports, which include factors such as payment history, amounts owed, length of credit history, new credit, and credit mix.",
+      "stepItems": []
+    },
+    {
+      "name": "Improving Credit Score",
+      "uuid": "7aaa954d-4f5c-410b-8787-8c3bc12fb9e0",
+      "content": "Credit scoring models have limitations, such as their inability to factor in current economic conditions or determine the exact default probability of borrowers. However, advances in technology continue to refine the accuracy of credit risk modeling. To improve your credit score, it is important to make payments on time, decrease your amount of debt, and maintain a healthy mix of credit. It is also advisable to avoid closing accounts and consider alternatives to bankruptcy if you are struggling to pay your bills. Understanding credit scoring is crucial for better financial health and qualifying for favorable terms on financial products.",
+      "stepItems": []
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
