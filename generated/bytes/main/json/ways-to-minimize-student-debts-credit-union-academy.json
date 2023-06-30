@@ -1,0 +1,119 @@
+{
+  "uniqueId": "bf5a15ff-9b42-4796-a917-a5954b9b65dd",
+  "id": "ways-to-minimize-student-debts-credit-union-academy",
+  "name": "Ways to Minimize Student Debts",
+  "content": "Ways to Minimize Student Debts",
+  "created": "2023-06-30T01:37:20.590Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "c0f16ec4-e394-4b12-a401-d9671a216a7a",
+      "content": "Getting through college debt-free is always a better choice. According to the Federal Reserve, the student loan debt average had risen to $1.7 trillion. Taking on student debt means spending your entire young adulthood, and much of your middle-age years, repaying those loans. Here are some tips to help you achieve a debt-free college education.",
+      "stepItems": []
+    },
+    {
+      "name": "Tip 1",
+      "uuid": "0479c32b-34dc-4076-a577-c55f8cc5d545",
+      "content": "Consider attending a community college or a no-loan school to reduce costs. Attending a community college can give students time to work, save money, and earn credits before transferring to a four-year college. Some colleges offer free tuition or have policies of meeting the full financial need of students without relying on student loans.",
+      "stepItems": []
+    },
+    {
+      "name": "Tip 2",
+      "uuid": "7d83f916-ea88-4482-837a-dfae135d7aab",
+      "content": "Estimate college costs and factor in expenses beyond tuition. Use net price calculators and financial aid information to determine the actual amount you will need to pay. Maximize other funding sources such as grants, scholarships, and college savings plans before resorting to student loans.",
+      "stepItems": []
+    },
+    {
+      "name": "Tip 3",
+      "uuid": "99d5c760-6917-427b-9964-fb30bec0b8e8",
+      "content": "Start a side hustle or get a part-time job to offset costs and minimize borrowing. Consider platforms like YouTube and TikTok for earning income or look for companies that offer tuition assistance. Limit living expenses and be frugal whenever possible to avoid unnecessary debt.",
+      "stepItems": []
+    },
+    {
+      "name": "Tip 4",
+      "uuid": "d8629d12-abde-496c-94c2-0cf934e8ab2e",
+      "content": "Borrow only the amount needed and carefully consider the long-term consequences of student loans. Understand the repayment terms and use resources like the National Student Loan Data System to stay on top of your loans. Know your salary expectations and aim to owe less than your potential starting salary.",
+      "stepItems": []
+    },
+    {
+      "name": "Tip 5",
+      "uuid": "88a8d7eb-538c-458b-ba46-8ac2aa2b412e",
+      "content": "Evaluate student loan options and prioritize federal loans before considering private loans. Private loans often have higher interest rates and less favorable repayment terms. Explore college financing options and research scholarships, grants, and work-study programs to reduce the need for loans.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "d43fc2ea-6776-4d78-92c2-0072646dda12",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "04df5e38-f4fe-40a1-8c2b-3cbec8a1d8e8",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Attending a community college or a no-loan school"
+            },
+            {
+              "key": "B",
+              "content": "Estimating college costs and factoring in expenses beyond tuition"
+            },
+            {
+              "key": "C",
+              "content": "Starting a side hustle or getting a part-time job"
+            },
+            {
+              "key": "D",
+              "content": "Borrowing only the amount needed and carefully considering the long-term consequences"
+            }
+          ],
+          "content": "What is one way to minimize student debts?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "Starting a side hustle or getting a part-time job can help offset costs and minimize borrowing, reducing the amount of student debt."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "2d3dc5ec-3ebc-46cd-aa60-486d87840df9",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "e732c189-9caf-4564-85a0-158a04bdcaef",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Federal loans"
+            },
+            {
+              "key": "B",
+              "content": "Private loans"
+            },
+            {
+              "key": "C",
+              "content": "Scholarships"
+            },
+            {
+              "key": "D",
+              "content": "Work-study programs"
+            }
+          ],
+          "content": "What should be prioritized before considering private loans?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "Federal loans should be prioritized over private loans as they often have lower interest rates and more favorable repayment terms."
+        }
+      ]
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
