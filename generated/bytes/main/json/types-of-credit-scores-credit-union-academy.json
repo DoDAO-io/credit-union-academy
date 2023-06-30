@@ -1,0 +1,51 @@
+{
+  "uniqueId": "6aa7126d-4f00-41b1-b67e-8f5e6e1e7eff",
+  "id": "types-of-credit-scores-credit-union-academy",
+  "name": "Types of Credit Scores",
+  "content": "Different Types of Credit Scores and How They Are Calculated",
+  "created": "2023-06-30T00:49:16.563Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "96f8c582-a5da-45f3-99f4-bae28f13327e",
+      "content": "A credit score is a three-digit number that represents your creditworthiness and is used by lenders to assess your ability to repay loans. The two main credit scoring models are FICO and VantageScore. FICO scores, developed by Fair Isaac Corporation, are widely used by lenders. VantageScore was created by the three major credit bureaus as an alternative to FICO scores.",
+      "stepItems": []
+    },
+    {
+      "name": "Credit Score Ranges and Factors",
+      "uuid": "b308e72f-5f73-4a3e-b457-b24e13d28943",
+      "content": "FICO scores range from 300 to 850, with higher scores indicating better creditworthiness. VantageScore also uses a 300-850 scale. Both scoring models consider factors such as payment history, credit utilization, length of credit history, types of credit, and credit inquiries. However, they may weigh these factors differently.",
+      "stepItems": []
+    },
+    {
+      "name": "Different Versions of Credit Scores",
+      "uuid": "54565034-a606-4c9a-9cf8-7561fab91c63",
+      "content": "FICO scores are widely used by lenders and have different versions tailored to specific industries, such as auto loans or credit cards. VantageScore also has different versions, with the latest being VantageScore 4.0. Each version may incorporate new factors or data to improve credit scoring accuracy.",
+      "stepItems": []
+    },
+    {
+      "name": "Credit Scores and Credit Bureaus",
+      "uuid": "7d91b0cf-e088-43a0-9e37-d7e8bd7c2e44",
+      "content": "Credit scores can vary between the three major credit bureaus (Equifax, Experian, and TransUnion) because they may collect and evaluate information differently. It's important to check your credit reports from all three bureaus for accuracy and dispute any errors. Monitoring your credit score regularly can help you track changes and identify potential issues.",
+      "stepItems": []
+    },
+    {
+      "name": "Accessing Your Credit Score",
+      "uuid": "e1864014-b048-42da-a550-d8eb88fbba72",
+      "content": "It's possible to access your credit score for free through certain banks, loan companies, and credit card issuers. You can also obtain a free credit report from each of the three major credit bureaus once a year. However, the credit score is not always included in the free report. There are also paid services and apps that provide credit scores and credit monitoring.",
+      "stepItems": []
+    },
+    {
+      "name": "Improving Your Credit Score",
+      "uuid": "e9549c44-a3df-40ec-a35b-2bf889e9df27",
+      "content": "Improving your credit score involves maintaining a good payment history, keeping credit utilization low, having a mix of credit types, and avoiding excessive credit inquiries. It's also important to correct any errors on your credit reports and regularly monitor your credit for any changes or fraudulent activity.",
+      "stepItems": []
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
