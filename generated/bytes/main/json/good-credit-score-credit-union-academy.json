@@ -1,0 +1,131 @@
+{
+  "uniqueId": "8cb0671a-48a1-43f7-896a-55771498a8a7",
+  "id": "good-credit-score-credit-union-academy",
+  "name": "Good credit score",
+  "content": "What is a good credit score",
+  "created": "2023-06-30T14:30:57.821Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "d0366fa9-5c59-4ce5-b01c-8f439e228255",
+      "content": "A credit score is a three-digit number ranging from 300 to 850 that is calculated using information in your credit report.",
+      "stepItems": []
+    },
+    {
+      "name": "Lender Criteria",
+      "uuid": "451dcbbb-2138-4490-91d5-5b36cd2dd988",
+      "content": "Different lenders have different criteria for what they consider a good credit score.",
+      "stepItems": []
+    },
+    {
+      "name": "Credit Score Ranges",
+      "uuid": "e310acca-32e1-422e-a469-1e5e8f186dd1",
+      "content": "Generally, credit scores from 580 to 669 are considered fair, 670 to 739 are considered good, 740 to 799 are considered very good, and 800 and above are considered excellent.",
+      "stepItems": []
+    },
+    {
+      "name": "Benefits of a Good Credit Score",
+      "uuid": "a4a54c17-91fe-4476-ad85-a57adb10ba5c",
+      "content": "Having a higher credit score demonstrates responsible credit behavior and can make lenders more confident in granting you credit.",
+      "stepItems": []
+    },
+    {
+      "name": "Lender Perception",
+      "uuid": "35114fe6-0bde-4284-a08c-2a2d64f91854",
+      "content": "Lenders generally see credit scores of 670 and above as acceptable or lower-risk borrowers, while scores below 580 are considered poor credit.",
+      "stepItems": []
+    },
+    {
+      "name": "Credit Bureau Variations",
+      "uuid": "e7d54b96-5b13-46dc-909a-d76f8bf97af2",
+      "content": "Credit scores can vary between the three major credit bureaus and different scoring models may be used by lenders.",
+      "stepItems": []
+    },
+    {
+      "name": "Improving Credit Score",
+      "uuid": "0f7d1aa2-f703-4050-b859-e2bacb66ebca",
+      "content": "Maintaining good credit habits, such as paying bills on time and keeping credit utilization below 30%, can help improve your credit score.",
+      "stepItems": []
+    },
+    {
+      "name": "Checking Credit Score",
+      "uuid": "7fb6cdcd-9c29-4161-b4a8-0a81cab1a2a3",
+      "content": "You can check your credit score for free using various online services.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "cc2d4eb3-ea62-4a47-aad9-4d4c0ee3d696",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "0b9429cd-66b8-44ac-9d18-2a090d81659f",
+          "choices": [
+            {
+              "key": "A",
+              "content": "300 to 580"
+            },
+            {
+              "key": "B",
+              "content": "580 to 669"
+            },
+            {
+              "key": "C",
+              "content": "670 to 739"
+            },
+            {
+              "key": "D",
+              "content": "740 to 850"
+            }
+          ],
+          "content": "What is a good credit score?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "A good credit score is generally considered to be in the range of 670 to 739."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "379f80b9-7d33-4e1d-b470-39bae56381ce",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "b08af9cf-8213-40a8-bf37-975fb0e95369",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Higher risk borrower"
+            },
+            {
+              "key": "B",
+              "content": "Responsible credit behavior"
+            },
+            {
+              "key": "C",
+              "content": "Poor credit"
+            },
+            {
+              "key": "D",
+              "content": "Lower credit utilization"
+            }
+          ],
+          "content": "What does a higher credit score indicate?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "A higher credit score indicates responsible credit behavior and increases the confidence of lenders in granting credit."
+        }
+      ]
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
