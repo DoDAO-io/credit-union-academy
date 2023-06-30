@@ -1,5 +1,5 @@
 {
-  "uniqueId": "bf5a15ff-9b42-4796-a917-a5954b9b65dd",
+  "uniqueId": "c4dd83fa-fbd7-4c55-aa8b-515f625babd4",
   "id": "ways-to-minimize-student-debts-credit-union-academy",
   "name": "Ways to Minimize Student Debts",
   "content": "Ways to Minimize Student Debts",
@@ -84,35 +84,7 @@
       "name": "Evaluation",
       "uuid": "2d3dc5ec-3ebc-46cd-aa60-486d87840df9",
       "content": "",
-      "stepItems": [
-        {
-          "type": "SingleChoice",
-          "uuid": "e732c189-9caf-4564-85a0-158a04bdcaef",
-          "choices": [
-            {
-              "key": "A",
-              "content": "Federal loans"
-            },
-            {
-              "key": "B",
-              "content": "Private loans"
-            },
-            {
-              "key": "C",
-              "content": "Scholarships"
-            },
-            {
-              "key": "D",
-              "content": "Work-study programs"
-            }
-          ],
-          "content": "What should be prioritized before considering private loans?",
-          "answerKeys": [
-            "A"
-          ],
-          "explanation": "Federal loans should be prioritized over private loans as they often have lower interest rates and more favorable repayment terms."
-        }
-      ]
+      "stepItems": []
     }
   ],
   "spaceId": "credit-union-academy"
