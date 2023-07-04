@@ -1,6 +1,6 @@
 categories: []
-content: New Guide
-created: '2023-07-04T05:55:48.341Z'
+content: Planning for Financial Freedom
+created: '2023-07-04T06:54:11.953Z'
 guideType: onboarding
 key: early-retirement-planning-credit-union-academy
 name: 'Early Retirement Planning '
@@ -52,35 +52,11 @@ steps:
       change is also crucial to ensure that you are on track to meet your
       retirement goals.
     name: What is retirement plan ?
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 3dfa8760-895a-4cbb-95d5-33255ded0502
+    stepItems: []
     uuid: e427df55-9d5b-4e76-9ffa-ac1f502cdf9a
   - content: ''
     name: ' Evaluation'
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: ad9b6254-73a5-48c5-822f-597d70b72198
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 3a293208-6c02-4109-85ac-533beaca289c
+    stepItems: []
     uuid: f092987f-38bc-44fb-a252-4075e6cd31d2
   - content: >-
       During retirement, money can come from various sources. One common source
@@ -173,5 +149,5 @@ steps:
     uuid: 73f1dbcd-6ca6-4bb1-86e2-604d9bf362b0
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 2847c2c2-946c-44b7-b1a5-ffb71bfb4236
+uuid: early-retirement-planning-credit-union-academy
 version: 1

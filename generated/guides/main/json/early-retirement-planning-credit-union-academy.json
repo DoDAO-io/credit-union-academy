@@ -1,7 +1,7 @@
 {
   "categories": [],
-  "content": "New Guide",
-  "created": "2023-07-04T05:55:48.341Z",
+  "content": "Planning for Financial Freedom",
+  "created": "2023-07-04T06:54:11.953Z",
   "guideType": "onboarding",
   "key": "early-retirement-planning-credit-union-academy",
   "name": "Early Retirement Planning ",
@@ -11,55 +11,13 @@
     {
       "content": "A retirement plan is a financial strategy that helps individuals prepare for life after they stop working. It involves setting goals for retirement income and determining how much money is needed to achieve those goals. Retirement planning includes identifying sources of income, estimating future expenses, implementing a savings program, and managing assets and risk.\n\nIt is important to start retirement planning as early as possible, although it can be done at any time. By factoring it into your financial planning early on, you can take advantage of the power of compounding and give your savings more time to grow. Retirement planning is not just about the financial aspect, but also about making decisions regarding lifestyle choices, such as how you want to spend your time in retirement, where you want to live, and when you want to stop working.\n\nThe amount of money needed for retirement varies from person to person and depends on factors such as income, expenses, liabilities, and life expectancy. While there are rules of thumb, such as the 80% rule, which states that you need enough savings to live on 80% of your pre-retirement income, it is important to personalize your retirement plan based on your individual circumstances.\n\nRetirement planning involves considering various investment vehicles, such as individual retirement accounts (IRAs) and 401(k)s, which offer tax advantages to help grow your savings. It also requires careful consideration of expenses, such as housing, health insurance, food, clothing, transportation, and entertainment. By estimating these costs and creating a reasonable budget, you can ensure that you have enough savings to support your desired lifestyle in retirement.\n\nIn addition to saving and investing, retirement planning also involves making decisions about when to start saving, when to retire, and how much to save. It is important to take advantage of employer-sponsored retirement plans, such as 401(k)s, and contribute enough to receive any employer match. Automatic deductions can help you stay on track with your savings goals and prevent you from forgetting to save. Regularly reviewing and adjusting your investments and retirement plan as your circumstances change is also crucial to ensure that you are on track to meet your retirement goals.",
       "name": "What is retirement plan ?",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "3dfa8760-895a-4cbb-95d5-33255ded0502"
-        }
-      ],
+      "stepItems": [],
       "uuid": "e427df55-9d5b-4e76-9ffa-ac1f502cdf9a"
     },
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "ad9b6254-73a5-48c5-822f-597d70b72198"
-        },
-        {
-          "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
-          ],
-          "choices": [
-            {
-              "content": "Choice 1",
-              "key": "choice_1"
-            },
-            {
-              "content": "Choice 2",
-              "key": "choice_2"
-            },
-            {
-              "content": "Choice 3",
-              "key": "choice_3"
-            },
-            {
-              "content": "Choice 4",
-              "key": "choice_4"
-            }
-          ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "3a293208-6c02-4109-85ac-533beaca289c"
-        }
-      ],
+      "stepItems": [],
       "uuid": "f092987f-38bc-44fb-a252-4075e6cd31d2"
     },
     {
@@ -88,6 +46,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "2847c2c2-946c-44b7-b1a5-ffb71bfb4236",
+  "uuid": "early-retirement-planning-credit-union-academy",
   "version": 1
 }
