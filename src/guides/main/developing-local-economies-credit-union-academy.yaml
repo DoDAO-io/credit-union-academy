@@ -1,0 +1,452 @@
+categories: []
+content: The importance of supporting and developing local economies
+created: '2023-07-04T17:32:34.985Z'
+guideType: onboarding
+key: developing-local-economies-credit-union-academy
+name: Developing Local Economies
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: >-
+      Local economic development is a crucial process that focuses on improving
+      the competitiveness of a local area and creating better conditions for
+      economic growth and employment generation. In today's globalized world, it
+      is even more important for local actors to take actions that directly
+      impact their lives and opportunities. By building up the economic capacity
+      of a local area, local economic development aims to improve the economic
+      future and quality of life for all.
+
+
+      One of the key reasons why local economic development is necessary is
+      because it addresses the uneven patterns of development that result from
+      global forces of change. Some localities experience growth while others
+      decline, and local economic development aims to bridge this gap. It draws
+      on various schools of economic and social development and focuses on local
+      employment issues. By engaging local actors and stakeholders, it ensures
+      that the needs and opportunities of local businesses, workers, products,
+      and services are taken into account.
+
+
+      Local economic development also plays a crucial role in achieving
+      inclusive growth. Inclusive growth is economic growth that creates
+      opportunities for all groups of the population and distributes the
+      benefits of increased prosperity fairly across society. By focusing on the
+      needs and opportunities of local economies, local economic development
+      contributes to inclusive growth by creating productive and decent
+      employment. It also fosters social inclusion and builds networks within
+      communities.
+
+
+      Furthermore, local economic development is key to sustainable development.
+      It expands the circle of recognized actors in economic life, including
+      local governments, municipalities, and community-based organizations. By
+      fostering partnerships and cooperation among these actors, local economic
+      development drives economic activity, production, and investment. This
+      leads to increased competitiveness, job creation, and improved living
+      conditions for the local population.
+
+
+      To ensure successful local economic development, tailored approaches to
+      local conditions are necessary. This includes an integrated approach that
+      considers social, environmental, and physical aspects, as well as economic
+      issues. It also requires the involvement of influential and effective
+      local leaders, capacity building for implementation, and political,
+      financial, and technical support from other levels of government. By
+      following these guiding principles, local economic development can
+      contribute to sustainable and inclusive growth in local economies.
+    name: Importance of Local Economy
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: e1ac4eba-7258-461a-ab6b-0834e2197dff
+    uuid: 4972370b-2605-46a4-a3b0-7cf547fb80fb
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: ee4c5a65-f80e-43d7-afc8-e060fdf802ed
+      - answerKeys:
+          - choice_1
+          - choice_2
+          - choice_3
+        choices:
+          - content: Choice 1
+            key: choice_1
+          - content: Choice 2
+            key: choice_2
+          - content: Choice 3
+            key: choice_3
+          - content: Choice 4
+            key: choice_4
+        content: Contents of the question
+        type: MultipleChoice
+        uuid: 5aa21720-55ff-44d6-b754-a8f06a694065
+        explanation: Explanation of the question
+      - answerKeys:
+          - C
+        choices:
+          - content: To create opportunities for all groups of the population
+            key: A
+          - content: To foster social inclusion and build networks within communities
+            key: B
+          - content: >-
+              To address the uneven patterns of development resulting from
+              global forces of change
+            key: C
+          - content: To improve the economic future and quality of life for all
+            key: D
+        content: >-
+          What is one of the key reasons why local economic development is
+          necessary?
+        type: SingleChoice
+        uuid: 3f6fc42d-8f65-44d2-a667-d6259674ffc6
+        explanation: >-
+          Local economic development is necessary because it addresses the
+          uneven patterns of development that result from global forces of
+          change.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Economic growth that creates opportunities for all groups of the
+              population and distributes the benefits of increased prosperity
+              fairly across society
+            key: A
+          - content: >-
+              Economic growth that focuses on improving global economic
+              conditions
+            key: B
+          - content: >-
+              Economic growth that focuses on improving social conditions in a
+              local area
+            key: C
+          - content: >-
+              Economic growth that focuses on improving environmental conditions
+              in a local area
+            key: D
+        content: What is inclusive growth?
+        type: SingleChoice
+        uuid: 32b736f3-5ae1-41c5-b4c6-3cc9eb37b9cd
+        explanation: >-
+          Inclusive growth is economic growth that creates opportunities for all
+          groups of the population and distributes the benefits of increased
+          prosperity fairly across society.
+    uuid: 3555a3d0-b85c-47dd-9c7c-d412710794bd
+  - content: >-
+      Empowering local economies can have a significant impact on social
+      development. By focusing on local economic development as a public
+      necessity, we can address the challenges of social inclusion and gender
+      equality. This approach recognizes the importance of a territorial focus,
+      utilizing endogenous resources and promoting environmental sustainability.
+
+
+      One way to achieve social upliftment through empowering local economies is
+      by sharing experiences, tools, and strategies for applying a territorial
+      focus in local development. This allows for the exchange of knowledge and
+      best practices, enabling communities to learn from each other's successes
+      and failures. By working together, we can develop strategies that promote
+      common action and serve as a reference point for local development.
+
+
+      Another important aspect is the recognition and sharing of weaknesses and
+      obstacles. By acknowledging the challenges that communities face, we can
+      develop strategies to overcome them. This includes addressing issues such
+      as poverty, unemployment, and inequality. Through collaborative efforts,
+      we can create better conditions for economic growth and employment
+      generation, ensuring that the benefits are distributed fairly across
+      society.
+
+
+      Local economic development also plays a crucial role in fostering
+      inclusive growth. By supporting local businesses, workers, products, and
+      services, we can create opportunities for all groups of the population.
+      This includes marginalized groups such as women, youth, people with
+      disabilities, and indigenous peoples. By focusing on the needs and
+      opportunities of local communities, we can build social capital, connect
+      local governments with their communities, and generate innovative
+      solutions to local needs.
+
+
+      Furthermore, local economic development promotes the development of
+      infrastructure, research and innovation, skill training, and attraction of
+      new investment. These initiatives not only create better quality jobs but
+      also contribute to reducing poverty and ensuring environmental
+      sustainability. By investing in people and places, supporting business
+      dynamism, and creating more inclusive labor markets, we can achieve
+      inclusive growth and strengthen social cohesion.
+
+
+      Empowering local economies is essential for social development. By
+      focusing on local economic development, we can address the challenges of
+      social inclusion and gender equality. Through sharing experiences,
+      recognizing weaknesses, and promoting inclusive growth, we can create
+      better conditions for economic growth and improve the quality of life for
+      all. By working together and utilizing local resources, we can foster
+      innovation, create opportunities, and build resilient and inclusive
+      communities.
+    name: Social impact of Local Economy
+    stepItems: []
+    uuid: c5918b8d-d7b9-401b-a04d-0192b3783dc8
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              It helps in reducing poverty and ensuring environmental
+              sustainability
+            key: A
+          - content: >-
+              It addresses the challenges of social inclusion and gender
+              equality
+            key: B
+          - content: >-
+              It enables communities to learn from each other's successes and
+              failures
+            key: C
+          - content: >-
+              It creates opportunities for marginalized groups such as women and
+              youth
+            key: D
+        content: >-
+          What is the role of sharing experiences and strategies in empowering
+          local economies?
+        type: SingleChoice
+        uuid: 0a198d16-90ae-4ffe-a296-b690b89dd354
+        explanation: >-
+          Sharing experiences and strategies allows for the exchange of
+          knowledge and best practices, enabling communities to learn from each
+          other's successes and failures.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              It helps in reducing poverty and ensuring environmental
+              sustainability
+            key: A
+          - content: >-
+              It addresses the challenges of social inclusion and gender
+              equality
+            key: B
+          - content: >-
+              It enables communities to learn from each other's successes and
+              failures
+            key: C
+          - content: >-
+              It creates opportunities for marginalized groups such as women and
+              youth
+            key: D
+        content: >-
+          What is the importance of recognizing weaknesses and obstacles in
+          empowering local economies?
+        type: SingleChoice
+        uuid: 626d92ab-3592-4f10-bd0e-7a5e87ff849f
+        explanation: >-
+          By acknowledging the challenges that communities face, strategies can
+          be developed to overcome them and create better conditions for
+          economic growth.
+    uuid: 3b2e8c21-d469-4cd4-a356-aa8fcbd06277
+  - content: >-
+      Supporting local economies is crucial for the growth and development of
+      communities. By taking action, we can address the root causes of poverty
+      and create opportunities for economic advancement. One way to support
+      local economies is by partnering with local microlenders to improve access
+      to financial services. This can help provide the necessary infrastructure
+      for businesses to thrive and individuals to have access to capital.
+
+
+      Another way to empower members of the community is through jobs and
+      entrepreneurship. By sending vocational training teams to teach business
+      leaders in developing communities how to create a business plan and
+      maintain accurate financial accounting, we can equip individuals with the
+      skills they need to succeed. This can lead to job creation and economic
+      growth within the community.
+
+
+      Attending conferences on economic and community development is another way
+      to support local economies. These conferences bring together academics,
+      political leaders, business staff, community leaders, and peace activists
+      to explore ways to build peace and create more stable and prosperous
+      communities. By participating in these discussions, we can gain valuable
+      insights and knowledge to implement in our own communities.
+
+
+      The Rotary guide Economic and Community Development Project Strategies is
+      a valuable resource that can help clubs and districts make a greater
+      impact with their available resources. By asking the right questions and
+      identifying the needs of the community, we can make informed decisions and
+      support initiatives that will have a positive impact on the local economy.
+
+
+      Supporting local economies is essential for poverty alleviation and
+      sustainable development. By partnering with microlenders, empowering
+      individuals through jobs and entrepreneurship, attending conferences, and
+      utilizing resources like the Rotary guide, we can make a difference in our
+      communities and help them thrive.
+    name: Supporting Local Economies
+    stepItems: []
+    uuid: 84844a7f-e09b-4ba5-b146-934a730abb59
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: By increasing the value of assets over time
+            key: A
+          - content: By buying products from local shops
+            key: B
+          - content: By decreasing the value of assets over time
+            key: C
+          - content: By buying things for fun
+            key: D
+        content: How can partnering with local microlenders support local economies?
+        type: SingleChoice
+        uuid: 8fc277f4-5f0b-42b4-ae88-18f1aa6aed7c
+        explanation: >-
+          Partnering with local microlenders can improve access to financial
+          services, providing necessary infrastructure for businesses to thrive
+          and individuals to have access to capital.
+      - answerKeys:
+          - B
+        choices:
+          - content: By increasing the value of assets over time
+            key: A
+          - content: By teaching business skills and financial accounting
+            key: B
+          - content: By decreasing the value of assets over time
+            key: C
+          - content: By buying things for fun
+            key: D
+        content: >-
+          How can vocational training teams contribute to supporting local
+          economies?
+        type: SingleChoice
+        uuid: 3d3890fa-48df-450c-ac9f-33c03451da45
+        explanation: >-
+          Vocational training teams can teach business leaders in developing
+          communities how to create a business plan and maintain accurate
+          financial accounting, equipping individuals with the skills they need
+          for job creation and economic growth.
+    uuid: 9291592e-fea1-4ba0-b998-106b395599e1
+  - content: >-
+      Local economies play a crucial role in shaping the national economy of a
+      country. Small, locally owned businesses have a significant impact on
+      local economies, as they generate higher incomes for people in the
+      community compared to big, nonlocal firms. This is because small
+      businesses tend to outsource services like accounting, legal, and
+      maintenance to professionals within their local or regional communities.
+      The money spent on these services stays within the community, contributing
+      to its economic growth.
+
+
+      Small businesses contribute to the national economy in several ways.
+      Firstly, they create jobs. According to the Small Business Administration
+      (SBA), small businesses created a net 12.9 million new jobs in the last 25
+      years, accounting for about 66% of all jobs created in that period. During
+      the COVID-19 pandemic, small businesses played a crucial role in job
+      creation, with 5.5 million jobs created in the four quarters following the
+      initial job losses.
+
+
+      Moreover, small businesses drive demand for local professional services
+      like accountants, real estate agents, lawyers, and marketers. Small
+      business owners are more likely to do business with professionals in their
+      community, creating opportunities for professional service startups. This
+      further contributes to the growth of the local economy.
+
+
+      Small businesses also foster innovation more effectively than large
+      corporations. They develop more patents per employee and are more likely
+      to find new ways of doing things. Small businesses offer environments that
+      appeal to individuals with innovative ideas, and their fast
+      decision-making processes and focused research programs encourage
+      creativity. This innovation not only benefits the small businesses
+      themselves but also contributes to the overall economic growth of the
+      country.
+
+
+      In Canada, small businesses are particularly important for the economy.
+      The majority of businesses in Canada are small or micro businesses,
+      employing fewer than five people. These businesses make a significant
+      contribution to the country's GDP, with small businesses alone accounting
+      for 37.5% of the GDP. They also provide employment for a large portion of
+      the Canadian workforce, with micro and small businesses employing 63.8% of
+      all Canadian workers.
+
+
+      Supporting local businesses is crucial for the health of the national
+      economy. When you buy from small local businesses, you contribute to the
+      GDP and help strengthen the economy. The money spent at local businesses
+      stays within the community, supporting local taxes and wages. By
+      supporting local businesses, you also help create a vibrant community with
+      diverse alternatives to large chain stores and restaurants. Overall,
+      uplifting the local economy through supporting small businesses has a
+      positive impact on the national economy of a country.
+    name: Local and National Economy
+    stepItems: []
+    uuid: 21fc8864-51ad-45a6-8ec7-f0232f3c8d25
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              They generate higher incomes for people in the community compared
+              to big, nonlocal firms
+            key: A
+          - content: They create more job opportunities compared to big, nonlocal firms
+            key: B
+          - content: >-
+              They contribute more to the national economy compared to big,
+              nonlocal firms
+            key: C
+          - content: >-
+              They provide better quality products and services compared to big,
+              nonlocal firms
+            key: D
+        content: How do small, locally owned businesses impact local economies?
+        type: SingleChoice
+        uuid: c9912170-799a-4ed0-9046-8f5de2615b38
+        explanation: >-
+          Small, locally owned businesses generate higher incomes for people in
+          the community compared to big, nonlocal firms. They tend to outsource
+          services like accounting, legal, and maintenance to professionals
+          within their local or regional communities, which keeps the money
+          spent on these services within the community and contributes to its
+          economic growth.
+      - answerKeys:
+          - B
+        choices:
+          - content: They contribute to the national economy through tax payments
+            key: A
+          - content: >-
+              They create jobs, drive demand for local professional services,
+              and foster innovation
+            key: B
+          - content: They provide financial support to the government
+            key: C
+          - content: They promote international trade and exports
+            key: D
+        content: What do small businesses contribute to the national economy?
+        type: SingleChoice
+        uuid: cb5fe2e2-2114-4acb-8339-7e830b192f41
+        explanation: >-
+          Small businesses contribute to the national economy by creating jobs,
+          driving demand for local professional services, and fostering
+          innovation. They create a significant number of jobs, accounting for
+          about 66% of all jobs created in the last 25 years. They also drive
+          demand for local professional services like accountants, real estate
+          agents, lawyers, and marketers, creating opportunities for
+          professional service startups. Additionally, small businesses foster
+          innovation more effectively than large corporations.
+    uuid: 1211bb19-b518-46a5-8faf-fe2845e6c9a9
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 481f0784-ca47-4de6-8c70-a91abebfbc73
+version: 1
