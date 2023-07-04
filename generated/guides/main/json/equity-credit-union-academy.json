@@ -1,0 +1,98 @@
+{
+  "categories": [],
+  "content": "New Guide",
+  "created": "2023-07-04T05:44:54.953Z",
+  "guideType": "onboarding",
+  "key": "equity-credit-union-academy",
+  "name": "Equity",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "Equity refers to the amount of money that a company's owner has invested in it or owns. It is the difference between a company's liabilities and assets, which shows how much equity the company has. This value can be determined using the share price or a value set by valuation experts or investors. Equity is also known as owners' equity, stockholders' equity, or shareholders' equity.\n\nEquity is important because it represents how much an investor has invested in a business based on the number of shares they own. It allows investors to make capital gains and receive dividends. Additionally, owning equity in a company gives individuals the right to vote on how the company is run and who should be on the board. Shareholders are more likely to stay involved with the organization because of these benefits.\n\nThere can be both negative and positive shareholder equity. Negative shareholder equity occurs when a company's liabilities exceed its assets, which is considered balance sheet insolvency. Investors typically avoid putting their money into companies with negative shareholder equity. However, shareholder equity alone is not enough to determine a company's financial health. It should be used in conjunction with other tools and measures to get a comprehensive understanding of the company's financial situation.\n\nTo calculate shareholder equity, you can use the accounting equation: Owners' equity = total assets - total liabilities. This information can be found on the company's balance sheet. By subtracting the total liabilities from the total assets, you can determine the shareholder equity. It's important to note that shareholder equity can also be the sum of a company's share capital, retained earnings, and the value of its treasury shares. Using a company's total assets and total liabilities is a better indicator of its financial health than just using its total assets.",
+      "name": " What is Equity",
+      "stepItems": [],
+      "uuid": "2c3adea0-56a0-42bc-9174-547f06c8d058"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "88a57067-38c9-4998-8af2-567df6e48fb2"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "3c3eeedf-87c5-4d0d-abb1-7436fb08493b"
+        }
+      ],
+      "uuid": "ad5900b2-030e-4af7-8454-41c45baf86a1"
+    },
+    {
+      "content": "Equity plays a crucial role in startups for several reasons. Firstly, it allows you to distribute ownership of your company among key stakeholders, such as co-founders, investors, and advisory board members. By offering equity, you can incentivize these individuals to contribute their time, effort, and money to the success of your startup. This can help attract top talent and ensure that everyone is aligned towards a common goal.\n\nEquity also serves as a valuable tool for raising capital. Investors are more likely to invest in your startup if they have the opportunity to gain a share of the company's future profits. By giving away a portion of your equity, you can secure the funding needed to fuel your growth and expansion plans. This can be especially beneficial for startups that may not have access to traditional forms of financing, such as bank loans, due to a lack of creditworthiness or financial track record.\n\nFurthermore, equity financing can provide additional benefits beyond just capital. When you bring on investors or partners, you gain access to their knowledge, experience, and business networks. This can help your startup navigate challenges, make strategic decisions, and open doors to new opportunities. While sharing control of the company may come with some tensions and conflicts, the potential advantages of having knowledgeable and well-connected individuals on board often outweigh the drawbacks.\n\nIt is important to approach equity distribution with careful planning and consideration. As a founder, you should have a clear roadmap for identifying the individuals or entities that are worthy of receiving equity in your startup. This includes determining the equity split among co-founders, deciding whether to offer equity to friends or family who have provided financial support, and considering the role of investors and advisory board members. Doing thorough research and seeking advice from financial advisors can help you make informed decisions and ensure that your equity distribution aligns with your short-term and long-term goals.\n\n",
+      "name": "Importance of equity in startups",
+      "stepItems": [],
+      "uuid": "1deba987-bd6a-469e-b20b-b762f73b14d9"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "2927e296-2ce6-4a7b-a485-56449847b528"
+    },
+    {
+      "content": "An Employee Stock Ownership Plan (ESOP) is a benefit plan that allows employees to own shares of the company they work for. ESOPs are designed to incentivize employees to give their best effort and contribute to the company's success, as their hard work directly translates into financial rewards. This can help employees feel more appreciated and better compensated for their work. ESOPs are typically tied to vesting, which means that employees earn the right to the shares over time. It's important for employees to understand the terms of their ESOP, as each plan may have different rules. ESOPs are just one form of employee ownership, with other options including direct-purchase programs, stock options, restricted stock, phantom stock, and stock appreciation rights.\n\nESOPs are often used as a succession planning tool for closely held companies, allowing employees the opportunity to buy shares of the company's stock. They are set up as trust funds and can be funded by the company issuing new shares, using cash to buy existing shares, or borrowing money to buy shares. ESOPs are used by companies of all sizes, including large publicly traded corporations. It's important to note that companies with an ESOP are not allowed to discriminate and are required to appoint a trustee to act as the plan fiduciary. Senior employees cannot receive more shares than other participants, and ESOP participants must have voting rights.\n\nESOPs can be an effective way for companies to keep their employees focused on corporate performance and share price appreciation. By giving employees an ownership stake in the company, they have a vested interest in seeing the stock perform well. This can encourage employees to make decisions that are in the best interest of the shareholders, as they are shareholders themselves. In addition to the financial benefits, having a stake in the company can make employees feel more appreciated and engaged in their work. ESOPs can also be a valuable tool for attracting and retaining talented employees, particularly in start-up companies where high salaries may not be feasible.\n\nOverall, ESOPs are an important tool for companies to incentivize and reward their employees. They provide employees with the opportunity to own a part of the company and benefit from its success. ESOPs can help companies attract and retain talented employees, increase employee productivity, and align the interests of employees and shareholders. It's important for employees to fully understand the terms of their ESOP and take advantage of this valuable benefit.",
+      "name": "ESOPS",
+      "stepItems": [],
+      "uuid": "a4413dc9-119f-4ed2-895e-72fb6371ea9b"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "b524e310-32fc-4604-8f06-ff2450f627db"
+    },
+    {
+      "content": "Equity and stocks are terms that are often used interchangeably, but there is a subtle difference between the two. In the context of the stock market, stocks refer to the equity shares or ownership stakes of a company that are traded on the market. Equity, on the other hand, refers to ownership or possession in the corporate world.\n\nWhen the equity shares of a company are listed on stock exchanges, such as the BSE or NSE, to facilitate the transfer of ownership, it is then referred to as stocks. Owning a share of stock means having a stake in the company's ownership. Investors buy stocks with the expectation of receiving a portion of the company's profits as dividends, benefiting from the growth of the stock price, or both.\n\nFor a company, selling shares is a way to raise capital and expand the business. To do so, the company lists its stock on a stock exchange, such as the NYSE or NASDAQ. The process of listing a new stock issue involves detailed financial filings that comply with the regulations of the relevant securities board.\n\nIn addition to stocks, companies also issue bonds, which are a form of debt that is repaid over time with interest. The stock exchanges are often referred to as equity markets, while the trading of securities is referred to as the debt market.\n",
+      "name": "Equity Vs Stocks",
+      "stepItems": [],
+      "uuid": "6ba26624-af46-444f-bbbe-10d65002db6c"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [],
+      "uuid": "2fb9ef0d-305f-40cc-b2e5-ed58b61ae48c"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "82c64219-9110-42c6-a4a2-753299ab831f",
+  "version": 1
+}
