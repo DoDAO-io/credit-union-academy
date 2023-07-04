@@ -1,75 +1,12 @@
 categories: []
 content: Unlocking the Benefits of Early Investing
-created: '2023-07-04T06:56:18.883Z'
+created: '2023-07-04T17:55:16.834Z'
 guideType: onboarding
 key: investing-basics-credit-union-academy
 name: Investing Basics
 publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
-  - content: >
-      Investing is the act of putting money into assets with the expectation of
-      generating a positive return over time. It can involve buying stocks,
-      bonds, real estate, or other valuable items. The goal of investing is to
-      increase the value of your initial investment through capital gains or
-      income payments. Investing can be a way to grow your wealth and achieve
-      financial goals.
-
-
-      Assets are things that have value and can generate income or appreciate in
-      value over time. Examples of assets include stocks, bonds, real estate,
-      and commodities. When you invest in assets, you are essentially buying a
-      piece of ownership or a claim on future cash flows. The value of assets
-      can fluctuate based on market conditions and other factors.
-
-
-      Liabilities, on the other hand, are obligations or debts that you owe to
-      others. They can include loans, credit card debt, or other financial
-      obligations. Liabilities represent money that you owe and need to repay.
-      Unlike assets, liabilities do not generate income or appreciate in value.
-
-
-      The difference between assets and liabilities is an important concept in
-      personal finance and investing. In general, it is desirable to have more
-      assets than liabilities. This means that you have more value and potential
-      for growth in your financial portfolio. By investing in assets and
-      reducing liabilities, you can build wealth and improve your financial
-      situation over time.
-
-
-      It's important to note that not all investments are guaranteed to generate
-      positive returns. Investing always carries some level of risk, and it's
-      important to carefully consider your risk tolerance and investment goals
-      before making any investment decisions. It's also a good idea to diversify
-      your investments by spreading your money across different asset classes to
-      reduce risk.
-    name: Asset Vs Liabilities
-    stepItems: []
-    uuid: 3bb07bfa-c06d-428a-85b4-86a8e9e2fb4d
-  - content: ''
-    name: ' Evaluation'
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: c4202f41-22e4-4515-84c0-51ddeba59c11
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 31b4901d-8dfd-4681-a727-4292556d34b4
-    uuid: 26e64a07-d7d9-413a-91a6-1f487b858ebc
   - content: >
       Starting to invest at a young age is crucial for several reasons. First,
       when you start investing early, you have more time to take risks and
