@@ -1,9 +1,9 @@
 categories: []
 content: The crucial role of Equity in company's growth
-created: '2023-07-04T06:52:35.046Z'
+created: '2023-07-04T17:51:54.308Z'
 guideType: onboarding
 key: equity-credit-union-academy
-name: Equity
+name: Equity in Startups
 publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
@@ -42,7 +42,7 @@ steps:
       company's share capital, retained earnings, and the value of its treasury
       shares. Using a company's total assets and total liabilities is a better
       indicator of its financial health than just using its total assets.
-    name: ' What is Equity'
+    name: Equity in Startups
     stepItems: []
     uuid: 2c3adea0-56a0-42bc-9174-547f06c8d058
   - content: ''
@@ -68,6 +68,7 @@ steps:
         content: Contents of the question
         type: MultipleChoice
         uuid: 3c3eeedf-87c5-4d0d-abb1-7436fb08493b
+        explanation: null
     uuid: ad5900b2-030e-4af7-8454-41c45baf86a1
   - content: >+
       Equity plays a crucial role in startups for several reasons. Firstly, it

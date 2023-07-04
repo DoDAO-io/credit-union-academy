@@ -1,16 +1,16 @@
 {
   "categories": [],
   "content": "The crucial role of Equity in company's growth",
-  "created": "2023-07-04T06:52:35.046Z",
+  "created": "2023-07-04T17:51:54.308Z",
   "guideType": "onboarding",
   "key": "equity-credit-union-academy",
-  "name": "Equity",
+  "name": "Equity in Startups",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
     {
       "content": "Equity refers to the amount of money that a company's owner has invested in it or owns. It is the difference between a company's liabilities and assets, which shows how much equity the company has. This value can be determined using the share price or a value set by valuation experts or investors. Equity is also known as owners' equity, stockholders' equity, or shareholders' equity.\n\nEquity is important because it represents how much an investor has invested in a business based on the number of shares they own. It allows investors to make capital gains and receive dividends. Additionally, owning equity in a company gives individuals the right to vote on how the company is run and who should be on the board. Shareholders are more likely to stay involved with the organization because of these benefits.\n\nThere can be both negative and positive shareholder equity. Negative shareholder equity occurs when a company's liabilities exceed its assets, which is considered balance sheet insolvency. Investors typically avoid putting their money into companies with negative shareholder equity. However, shareholder equity alone is not enough to determine a company's financial health. It should be used in conjunction with other tools and measures to get a comprehensive understanding of the company's financial situation.\n\nTo calculate shareholder equity, you can use the accounting equation: Owners' equity = total assets - total liabilities. This information can be found on the company's balance sheet. By subtracting the total liabilities from the total assets, you can determine the shareholder equity. It's important to note that shareholder equity can also be the sum of a company's share capital, retained earnings, and the value of its treasury shares. Using a company's total assets and total liabilities is a better indicator of its financial health than just using its total assets.",
-      "name": " What is Equity",
+      "name": "Equity in Startups",
       "stepItems": [],
       "uuid": "2c3adea0-56a0-42bc-9174-547f06c8d058"
     },
@@ -50,7 +50,8 @@
           ],
           "content": "Contents of the question",
           "type": "MultipleChoice",
-          "uuid": "3c3eeedf-87c5-4d0d-abb1-7436fb08493b"
+          "uuid": "3c3eeedf-87c5-4d0d-abb1-7436fb08493b",
+          "explanation": null
         }
       ],
       "uuid": "ad5900b2-030e-4af7-8454-41c45baf86a1"
