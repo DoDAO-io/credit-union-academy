@@ -1,6 +1,6 @@
 categories: []
 content: Understanding various Sustainable Choices
-created: '2023-07-04T16:50:57.999Z'
+created: '2023-07-04T17:20:58.251Z'
 guideType: onboarding
 key: sustainable-choices-credit-union-academy
 name: Sustainable Choices
@@ -59,27 +59,6 @@ steps:
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: ae6a5b1c-cc3f-46af-9b06-8e29d514b49d
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 132a0f0a-6ce0-4a4e-b707-2df0f5e63f74
-        explanation: Explanation of the question
       - answerKeys:
           - C
         choices:
@@ -527,5 +506,5 @@ steps:
     uuid: 60691686-e883-4f31-aa93-04b5fee4b332
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: a1bdc2d2-d65a-4bbc-9e62-bd693ad6666b
+uuid: sustainable-choices-credit-union-academy
 version: 1
