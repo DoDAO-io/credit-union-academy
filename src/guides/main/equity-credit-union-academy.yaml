@@ -1,6 +1,6 @@
 categories: []
 content: The crucial role of Equity in company's growth
-created: '2023-07-04T17:51:54.308Z'
+created: '2023-07-04T18:36:59.830Z'
 guideType: onboarding
 key: equity-credit-union-academy
 name: Equity in Startups
@@ -8,67 +8,88 @@ publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
   - content: >-
-      Equity refers to the amount of money that a company's owner has invested
-      in it or owns. It is the difference between a company's liabilities and
-      assets, which shows how much equity the company has. This value can be
-      determined using the share price or a value set by valuation experts or
-      investors. Equity is also known as owners' equity, stockholders' equity,
-      or shareholders' equity.
+      Equity in startups refers to the ownership of a company that founders
+      exchange for investor funding or offer as an employee benefit. It is
+      important for founders to share ownership equitably based on their role
+      and commitment to the business. Startup equity is typically expressed as a
+      percentage of shares of stock in the company. The distribution of equity
+      among founders can vary depending on factors such as the number of
+      founders and their contributions to the company's success.
 
 
-      Equity is important because it represents how much an investor has
-      invested in a business based on the number of shares they own. It allows
-      investors to make capital gains and receive dividends. Additionally,
-      owning equity in a company gives individuals the right to vote on how the
-      company is run and who should be on the board. Shareholders are more
-      likely to stay involved with the organization because of these benefits.
+      In the early stages of a startup, founders often need to give up a
+      significant percentage of equity to match the risk that investors are
+      taking by funding the startup. As the startup grows and demonstrates
+      greater success, the value of the equity increases, and investors may be
+      willing to pay more or accept less equity in exchange for their funding.
+      When venture capitalists invest in a startup, they form a business
+      relationship with the founders. If the startup turns a profit, investors
+      make returns proportionate to their percentage of equity. However, if the
+      startup fails, investors lose their money.
 
 
-      There can be both negative and positive shareholder equity. Negative
-      shareholder equity occurs when a company's liabilities exceed its assets,
-      which is considered balance sheet insolvency. Investors typically avoid
-      putting their money into companies with negative shareholder equity.
-      However, shareholder equity alone is not enough to determine a company's
-      financial health. It should be used in conjunction with other tools and
-      measures to get a comprehensive understanding of the company's financial
-      situation.
+      Equity is also used to attract and retain employees in startups.
+      Early-stage employees often take on risk by joining a startup and may be
+      compensated with startup equity. This offers them the prospect of a
+      significant payout if the company is acquired or goes public. The amount
+      of equity an employee receives depends on factors such as their skills,
+      seniority, and contribution to the company. Online resources and guides
+      can help founders determine the appropriate percentage of equity to offer
+      employees based on industry benchmarks.
 
 
-      To calculate shareholder equity, you can use the accounting equation:
-      Owners' equity = total assets - total liabilities. This information can be
-      found on the company's balance sheet. By subtracting the total liabilities
-      from the total assets, you can determine the shareholder equity. It's
-      important to note that shareholder equity can also be the sum of a
-      company's share capital, retained earnings, and the value of its treasury
-      shares. Using a company's total assets and total liabilities is a better
-      indicator of its financial health than just using its total assets.
+      Deciding how to split equity among founders can be a challenging decision.
+      It is important for founders to have open and honest conversations about
+      their expectations, risk profiles, commitment, and personal circumstances.
+      Factors such as the CEO's role and value creation should be considered
+      when determining the distribution of equity. It is recommended to seek
+      legal advice and use templates or tools to ensure that the equity split is
+      fair and properly documented. By properly evaluating and distributing
+      equity, founders can create a strong foundation for their startup's
+      success.
     name: Equity in Startups
     stepItems: []
     uuid: 2c3adea0-56a0-42bc-9174-547f06c8d058
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 88a57067-38c9-4998-8af2-567df6e48fb2
       - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
+          - C
         choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 3c3eeedf-87c5-4d0d-abb1-7436fb08493b
-        explanation: null
+          - content: The profit made by a startup
+            key: A
+          - content: The amount of money invested in a startup
+            key: B
+          - content: >-
+              The ownership of a company that founders exchange for investor
+              funding or offer as an employee benefit
+            key: C
+          - content: The value of shares of stock in a startup
+            key: D
+        content: What is equity in startups?
+        type: SingleChoice
+        uuid: e7b05b3f-ba76-471c-8277-f164492b802d
+        explanation: >-
+          Equity in startups refers to the ownership of a company that founders
+          exchange for investor funding or offer as an employee benefit.
+      - answerKeys:
+          - A
+        choices:
+          - content: To compensate for the risk they take by joining a startup
+            key: A
+          - content: To reduce the amount of equity available for founders
+            key: B
+          - content: To increase the company's profit
+            key: C
+          - content: To attract more investors to the startup
+            key: D
+        content: Why do early-stage employees often receive startup equity?
+        type: SingleChoice
+        uuid: e21b17c3-ebb5-4fc7-80ba-fcd4903f0141
+        explanation: >-
+          Early-stage employees often take on risk by joining a startup and may
+          be compensated with startup equity, offering them the prospect of a
+          significant payout if the company is acquired or goes public.
     uuid: ad5900b2-030e-4af7-8454-41c45baf86a1
   - content: >+
       Equity plays a crucial role in startups for several reasons. Firstly, it
@@ -112,7 +133,61 @@ steps:
     uuid: 1deba987-bd6a-469e-b20b-b762f73b14d9
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              Investors prefer startups that offer equity because it decreases
+              the risk of investment.
+            key: A
+          - content: >-
+              Investors prefer startups that offer equity because it guarantees
+              a fixed return on investment.
+            key: B
+          - content: >-
+              Investors are more likely to invest in startups if they have the
+              opportunity to gain a share of the company's future profits.
+            key: C
+          - content: >-
+              Investors prefer startups that offer equity because it provides
+              immediate financial returns.
+            key: D
+        content: Why do investors prefer startups that offer equity?
+        type: SingleChoice
+        uuid: 30d5f3e3-310b-4bae-ad19-20ee2bca865b
+        explanation: >-
+          Investors are more likely to invest in startups if they have the
+          opportunity to gain a share of the company's future profits.
+      - answerKeys:
+          - D
+        choices:
+          - content: >-
+              Founders should consider the current market value of the startup
+              when distributing equity.
+            key: A
+          - content: >-
+              Founders should consider offering equity to anyone who shows
+              interest in the startup.
+            key: B
+          - content: >-
+              Founders should consider the size of the startup's office space
+              when distributing equity.
+            key: C
+          - content: >-
+              Founders should consider factors such as equity split among
+              co-founders, offering equity to friends or family who have
+              provided financial support, and the role of investors and advisory
+              board members.
+            key: D
+        content: What should founders consider when distributing equity in startups?
+        type: SingleChoice
+        uuid: 9a9fa954-ce0b-4299-8f74-8d8ad2391479
+        explanation: >-
+          Founders should consider factors such as equity split among
+          co-founders, offering equity to friends or family who have provided
+          financial support, and the role of investors and advisory board
+          members.
     uuid: 2927e296-2ce6-4a7b-a485-56449847b528
   - content: >-
       An Employee Stock Ownership Plan (ESOP) is a benefit plan that allows
@@ -164,7 +239,45 @@ steps:
     uuid: a4413dc9-119f-4ed2-895e-72fb6371ea9b
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To allow employees to buy shares of the company's stock
+            key: A
+          - content: To incentivize employees and reward their hard work
+            key: B
+          - content: To provide voting rights to senior employees
+            key: C
+          - content: To increase employee productivity through higher salaries
+            key: D
+        content: What is the purpose of an Employee Stock Ownership Plan (ESOP)?
+        type: SingleChoice
+        uuid: 0a3dadab-61da-4907-8c43-39f8665dd60a
+        explanation: >-
+          ESOPs are designed to incentivize employees to give their best effort
+          and contribute to the company's success, as their hard work directly
+          translates into financial rewards.
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Keeping employees focused on corporate performance and share price
+              appreciation
+            key: A
+          - content: Providing high salaries to employees
+            key: B
+          - content: Allowing discrimination in share allocation
+            key: C
+          - content: Increasing employee productivity through direct-purchase programs
+            key: D
+        content: What is an advantage of ESOPs for companies?
+        type: SingleChoice
+        uuid: 5c51dca4-63b8-4a90-960c-6d6a0a5bad45
+        explanation: >-
+          ESOPs can keep employees focused on corporate performance and share
+          price appreciation, as they have a vested interest in seeing the stock
+          perform well.
     uuid: b524e310-32fc-4604-8f06-ff2450f627db
   - content: >
       Equity and stocks are terms that are often used interchangeably, but there
@@ -196,9 +309,46 @@ steps:
     name: Equity Vs Stocks
     stepItems: []
     uuid: 6ba26624-af46-444f-bbbe-10d65002db6c
-  - content: ''
+  - content: \
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Equity and stocks are the same thing
+            key: A
+          - content: Equity refers to debt while stocks refer to ownership
+            key: B
+          - content: >-
+              Equity refers to ownership while stocks refer to the equity shares
+              of a company traded on the market
+            key: C
+          - content: Equity refers to stocks while stocks refer to debt
+            key: D
+        content: What is the difference between equity and stocks?
+        type: SingleChoice
+        uuid: bebb6abc-fe2a-4b58-a125-8ba0eb75ec81
+        explanation: >-
+          Equity refers to ownership or possession in the corporate world, while
+          stocks refer to the equity shares or ownership stakes of a company
+          that are traded on the market.
+      - answerKeys:
+          - A
+        choices:
+          - content: To raise capital and expand the business
+            key: A
+          - content: To decrease the value of the company
+            key: B
+          - content: To pay off debts
+            key: C
+          - content: To decrease the ownership stake of existing shareholders
+            key: D
+        content: What is the purpose of selling shares for a company?
+        type: SingleChoice
+        uuid: e5e35d91-679b-43ca-bbef-4988c7317e0a
+        explanation: >-
+          Selling shares is a way for a company to raise capital and expand the
+          business.
     uuid: 2fb9ef0d-305f-40cc-b2e5-ed58b61ae48c
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
