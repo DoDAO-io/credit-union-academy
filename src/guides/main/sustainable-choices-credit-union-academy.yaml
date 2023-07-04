@@ -1,6 +1,6 @@
 categories: []
 content: Understanding various Sustainable Choices
-created: '2023-07-04T17:20:58.251Z'
+created: '2023-07-04T17:21:13.436Z'
 guideType: onboarding
 key: sustainable-choices-credit-union-academy
 name: Sustainable Choices
@@ -50,11 +50,7 @@ steps:
       change, we can contribute to a more sustainable and ethical fashion
       industry.
     name: Sustainable Fashion
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 9982c567-75ec-40bc-bfc6-850cad48b235
+    stepItems: []
     uuid: 61ec6f2f-3861-4583-b4d9-90eccb865f60
   - content: ''
     name: Evaluation
