@@ -1,6 +1,6 @@
 categories: []
 content: Is Frugality worth it ?
-created: '2023-07-04T06:49:40.961Z'
+created: '2023-07-04T17:57:20.209Z'
 guideType: onboarding
 key: frugality-credit-union-academy
 name: Frugality
@@ -47,12 +47,8 @@ steps:
       management to employees. This creates a moral obligation for cost-cutting
       and highlights the importance of managing costs for the benefit of the
       company, shareholders, and employees.
-    name: What is Frugality ?
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 31aa8a51-97dc-490b-b07f-829c400176e9
+    name: What is Frugality?
+    stepItems: []
     uuid: 99c2267d-8081-4f17-98de-318a8ba9c319
   - content: ''
     name: Evaluation
@@ -217,5 +213,5 @@ steps:
     uuid: 32ab2eb0-ed9c-4053-bb0c-2b72485b461d
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 5c4f619a-3d4f-40a0-9397-21d8861e8ca6
+uuid: frugality-credit-union-academy
 version: 1
