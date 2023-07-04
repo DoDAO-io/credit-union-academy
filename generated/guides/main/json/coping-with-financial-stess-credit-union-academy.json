@@ -1,10 +1,10 @@
 {
   "categories": [],
-  "content": "New Guide",
-  "created": "2023-07-04T06:08:04.169Z",
+  "content": " Navigating the Challenges of Financial Stress",
+  "created": "2023-07-04T06:55:11.513Z",
   "guideType": "onboarding",
   "key": "coping-with-financial-stess-credit-union-academy",
-  "name": "Coping with Financial Stess",
+  "name": "Coping with Financial Stress",
   "publishStatus": "Live",
   "showIncorrectOnCompletion": true,
   "steps": [
@@ -81,6 +81,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "ef98d222-317b-44ed-addb-902a06d9afb1",
+  "uuid": "coping-with-financial-stess-credit-union-academy",
   "version": 1
 }
