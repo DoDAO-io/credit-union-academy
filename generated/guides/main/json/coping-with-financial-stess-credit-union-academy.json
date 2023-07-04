@@ -1,0 +1,86 @@
+{
+  "categories": [],
+  "content": "New Guide",
+  "created": "2023-07-04T06:08:04.169Z",
+  "guideType": "onboarding",
+  "key": "coping-with-financial-stess-credit-union-academy",
+  "name": "Coping with Financial Stess",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "Financial stress refers to the state of worry, anxiety, or emotional tension that arises from money-related issues. It is a common and persistent form of stress that affects many individuals worldwide. Managing money is a significant aspect of adulthood, and when financial matters are not going well, it can feel like everything else in life is also falling apart.\n\nAccording to a report by the American Psychological Association, a large percentage of Americans, around 72%, experience stress related to money at least some of the time. Typically, financial stress is more prevalent among individuals with lower incomes. This is because they have fewer resources to manage and cope with the stress that arises from financial difficulties.\n\nThe symptoms of financial stress are similar to those of anxiety and other forms of stress. They can manifest as changes in thoughts, feelings, and behaviors surrounding money. Some common symptoms include experiencing anxiety symptoms like shortness of breath and a racing heart when thinking about money, feeling a loss of control over finances, and becoming irritable or angry with individuals involved in financial matters.\n\nFinancial stress can have a severe impact on an individual's health and well-being. It often leads to sleep disturbances, as money concerns keep individuals awake at night. This lack of sleep further exacerbates the effects of stress. Additionally, financial stress may cause individuals to cut back on self-care routines, such as gym memberships or doctor's visits, in an attempt to save money.\n\nStress can also affect eating habits, leading to overeating or loss of appetite. Physical symptoms like headaches, high blood pressure, and stomach issues may arise from financial stress. Moreover, financial stress can have a detrimental effect on an individual's self-esteem and social life, isolating them from friends and family and causing them to miss out on social gatherings.\n\nTo cope with financial stress, it is essential to address the underlying feelings of stress and anxiety. Taking steps to calm oneself down, such as having a snack, drinking water, or practicing deep breathing, can help alleviate immediate stress. Sharing financial worries with a trusted friend or family member can also provide emotional support.\n\nIt is common for individuals to avoid dealing with their finances when experiencing financial stress. However, facing financial issues head-on is crucial. Educating oneself about personal finance and money management through blogs, books, or online resources can help build confidence and control over financial matters. Seeking creative solutions, such as sharing expenses with a family member or finding ways to increase income, can also alleviate financial stress.\n\nPrevention is key in managing financial stress. Creating a budget and tracking expenses can provide a clear understanding of where money is going and help identify areas where savings can be made. Building an emergency fund is also important to handle unexpected expenses without resorting to debt. Cultivating good money management habits and being compassionate towards oneself during the learning process is essential in reducing financial stress.",
+      "name": "What is financial stress",
+      "stepItems": [],
+      "uuid": "c6a970cb-6efb-4dfb-99ee-f7e21affc349"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "be1d38c1-847a-49a9-835f-438adbca0c37"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "3dd5390f-ba79-4eb2-bd11-72695c78bb46"
+        }
+      ],
+      "uuid": "bc28d2d9-f6b9-4efb-9fc5-6e5530816d98"
+    },
+    {
+      "content": "The link between money and mental health is a complex and significant one. Numerous studies have shown that financial worries and psychological distress are closely related. When individuals experience financial difficulties or have concerns about their financial situation, it can have a negative impact on their mental well-being.\n\nOne study found that both men and women who reported higher levels of psychological distress also had higher levels of financial worries. This suggests that financial concerns can contribute to feelings of anxiety, depression, and overall psychological distress. It is important to note that this relationship held true regardless of gender.\n\nMarital status also plays a role in the link between money and mental health. Individuals who were separated, divorced, widowed, or never married reported higher levels of psychological distress and financial worries compared to those who were married or cohabiting. This suggests that financial difficulties can be particularly challenging for individuals who do not have the support of a partner.\n\nEducation level is another factor that influences the link between money and mental health. Individuals with lower levels of education reported higher levels of psychological distress and financial worries compared to those with higher education. This suggests that financial difficulties can be more burdensome for individuals with less education, potentially due to limited job opportunities and lower income.\n\nEmployment status also plays a role in the link between money and mental health. Unemployed individuals reported higher levels of psychological distress and financial worries compared to those who were employed or retired. This suggests that financial instability and the uncertainty of unemployment can have a significant impact on mental well-being.\n\nLastly, household income and homeownership are important factors in understanding the link between money and mental health. Individuals with lower household incomes reported higher levels of psychological distress and financial worries compared to those with higher incomes. Additionally, individuals who rented or had other forms of housing reported higher levels of psychological distress and financial worries compared to homeowners. This suggests that financial stability and security, as indicated by higher incomes and homeownership, can have a positive impact on mental well-being.",
+      "name": "What is link between money",
+      "stepItems": [],
+      "uuid": "adc078de-fc98-4b55-a4b6-85ece7ef9f59"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [],
+      "uuid": "24f4bc5b-f28a-4e3d-816b-9829268c8da2"
+    },
+    {
+      "content": "Coping with financial stress can be overwhelming, but there are ways to manage it and regain control of your finances. Many people around the world are currently facing financial struggles, and it's important to remember that you're not alone. Financial stress can have a negative impact on your mental and physical health, as well as your relationships. It's crucial to address these issues and find healthy coping mechanisms.\n\nOne of the first steps in coping with financial stress is to talk about it. Keeping your worries to yourself can make them seem insurmountable. Reach out to a trusted friend or loved one and express your concerns. Talking openly about your financial problems can help put things in perspective and provide emotional support. If you need practical advice, consider seeking help from a financial counseling service or a professional therapist. Remember, reaching out for help is not a sign of weakness, but a wise decision to address your stress.\n\nCreating a plan to address your financial problems is another important step. Take inventory of your income, debt, and spending habits. This will give you a clearer idea of where you stand financially. Identify the specific problem you're facing, whether it's excessive debt, insufficient income, or overspending. Brainstorm ideas with your family or a trusted friend, and come up with practical solutions. Set specific goals and make a monthly budget to help you stay on track. Regularly review your plan and make adjustments as needed.\n\nIt's also important to take care of your mental and physical well-being while dealing with financial stress. Engage in regular exercise, even if it's just short bursts of activity. Exercise can help relieve stress, boost your mood, and improve your self-esteem. Find time to relax and practice relaxation techniques like meditation or deep breathing. Getting enough sleep is crucial, as fatigue can worsen stress and negative thoughts. Take care of your diet by eating nutritious foods that support your mood and energy levels.\n\nLastly, try to focus on the positives in your life and practice gratitude. While it's important to address your financial problems, it's also important to appreciate the good things around you. Spend time with loved ones, engage in activities that bring you joy, and find ways to give back to others. Remember that financial difficulties can happen to anyone, and it doesn't define your worth as a person. By taking proactive steps and seeking support, you can cope with financial stress and work towards a more stable future.",
+      "name": "Coping with financial stress",
+      "stepItems": [],
+      "uuid": "26d64ebb-7471-4d8d-8e64-43383ba82871"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [],
+      "uuid": "e1681525-b3b1-4af1-8d0a-298b3f857cd8"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "ef98d222-317b-44ed-addb-902a06d9afb1",
+  "version": 1
+}
