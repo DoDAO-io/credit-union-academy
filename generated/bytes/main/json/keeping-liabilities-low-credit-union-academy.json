@@ -1,0 +1,137 @@
+{
+  "uniqueId": "0bbd0a0c-9bbc-4ae2-b79d-83264e72df93",
+  "id": "keeping-liabilities-low-credit-union-academy",
+  "name": "Keeping Liabilities Low",
+  "content": "Tips for Keeping Your Liabilities Low",
+  "created": "2023-07-04T11:53:42.441Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Take Control and Be Responsible",
+      "uuid": "fb82cc5a-158f-4ca3-8ffe-37add9429786",
+      "content": "When you're in college, it's important to take control of your finances and be responsible. Create a solid financial strategy and work out a plan with your parents for shifting expenses to your control.",
+      "stepItems": []
+    },
+    {
+      "name": "Determine Your Income and Expenses",
+      "uuid": "d5c0b9e1-5bee-4eed-8de6-b9b8963e6270",
+      "content": "Determine the amount of money you have coming in from various sources and estimate your expenses. Create a budget and stick to it to avoid going into debt.",
+      "stepItems": []
+    },
+    {
+      "name": "Open a Bank Account",
+      "uuid": "1b19f951-c622-4d46-87dc-5dfad4c10b91",
+      "content": "Open a bank account or join a credit union to have access to banking services and start a savings account. Be aware of fees and choose the best options for your needs.",
+      "stepItems": []
+    },
+    {
+      "name": "Keep Track of Your Finances",
+      "uuid": "9c0ee99a-35eb-45b1-97d7-b9e6329a367a",
+      "content": "Keep track of your finances by regularly reviewing your expenses and income. This will give you a clear picture of your financial situation and help you stay on track.",
+      "stepItems": []
+    },
+    {
+      "name": "Use Credit Wisely",
+      "uuid": "4315ea03-7af3-45f0-b38a-d958448fd96a",
+      "content": "Use credit cards wisely and avoid accumulating credit card debt. Shop around for the best deals and read the fine print to avoid high interest rates.",
+      "stepItems": []
+    },
+    {
+      "name": "Work Part-Time",
+      "uuid": "10c7c8b7-51c2-4f9b-9632-9e1ab89c008d",
+      "content": "Consider working part-time while in school to earn extra money. Look for on-campus or off-campus jobs with flexible hours that can help cover your expenses.",
+      "stepItems": []
+    },
+    {
+      "name": "Save Money",
+      "uuid": "7fb925a9-8bf3-46ce-a196-216d5025fea9",
+      "content": "Save money by buying used textbooks, furniture, and other items. Take advantage of student discounts and look for ways to spend less on entertainment and other expenses.",
+      "stepItems": []
+    },
+    {
+      "name": "Be Cautious and Prepared",
+      "uuid": "7837581e-935d-47f6-858d-3a65e35e11fe",
+      "content": "Be cautious about lending money to classmates or friends and protect yourself from identity theft. Keep a stash of cash for emergencies and avoid unnecessary fees.",
+      "stepItems": []
+    },
+    {
+      "name": "Learn About Personal Finance",
+      "uuid": "4102b636-0d13-48e0-b6f2-b7f701a45f7b",
+      "content": "Look for resources and opportunities to learn more about personal finance. Take advantage of financial literacy programs, workshops, and online resources to improve your financial knowledge.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "7b594cff-129c-4dd7-8b2d-40cbeb587902",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "659d5d06-93bb-4580-acb6-9d79bf3ae780",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Something that is owned by a person or company and increases in value over time"
+            },
+            {
+              "key": "B",
+              "content": "Something that you buy from a shop"
+            },
+            {
+              "key": "C",
+              "content": "Something that decreases in value over time"
+            },
+            {
+              "key": "D",
+              "content": "Something that you buy for fun"
+            }
+          ],
+          "content": "What is an asset?",
+          "answerKeys": [
+            "A"
+          ],
+          "explanation": "Property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "64ef3cb4-527a-4bde-853e-30e13abcfcbf",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "734ef8ba-83d8-461c-b081-a2193b860808",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Creating a solid financial strategy"
+            },
+            {
+              "key": "B",
+              "content": "Using credit cards wisely and avoiding accumulating credit card debt"
+            },
+            {
+              "key": "C",
+              "content": "Working part-time to earn extra money"
+            },
+            {
+              "key": "D",
+              "content": "Saving money by buying used textbooks and furniture"
+            }
+          ],
+          "content": "What is one way to keep your liabilities low?",
+          "answerKeys": [
+            "B"
+          ],
+          "explanation": "One way to keep your liabilities low is by using credit cards wisely and avoiding accumulating credit card debt."
+        }
+      ]
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
