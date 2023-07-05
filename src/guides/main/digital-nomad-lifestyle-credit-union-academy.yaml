@@ -1,6 +1,6 @@
 categories: []
 content: The Various Aspects of a Digital Nomad Lifestyle
-created: '2023-07-05T07:30:26.451Z'
+created: '2023-07-05T16:08:08.174Z'
 guideType: onboarding
 key: digital-nomad-lifestyle-credit-union-academy
 name: Digital Nomad Lifestyle
@@ -40,36 +40,11 @@ steps:
       to travel, personal and professional growth, lower costs of living, and a
       flexible work schedule.
     name: Advantages of Digital Nomad Life
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: c95905b2-f0ca-4ee0-bf6a-2a90d2c56482
+    stepItems: []
     uuid: 2662ea86-5ef0-426a-9a8f-c2e0241bafda
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 9eba3d97-4034-4100-bdd8-ae7c4e4d97b2
-      - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
-        choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 75d466cb-e763-4405-8490-335869005076
-        explanation: Explanation of the question
       - answerKeys:
           - A
         choices:
@@ -391,5 +366,5 @@ steps:
     uuid: d5da4163-0406-4bfe-abd3-5f780a380b24
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 9abcf456-cf16-4cbe-ba27-2dfb186e7ebe
+uuid: digital-nomad-lifestyle-credit-union-academy
 version: 1
