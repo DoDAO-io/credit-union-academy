@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Understanding the Gig Economy",
-  "created": "2023-07-05T06:45:39.541Z",
+  "created": "2023-07-05T16:07:17.763Z",
   "guideType": "onboarding",
   "key": "gig-economy-credit-union-academy",
   "name": "Gig Economy",
@@ -10,55 +10,13 @@
     {
       "content": "A gig economy is a labor market where temporary and part-time positions are common, and organizations hire independent workers for short-term commitments. It is a free market system that operates through digital platforms, connecting buyers and sellers of labor and resources. In the gig economy, individuals work as freelancers, independent contractors, or project-based workers, taking on jobs or projects on a contract-to-contract basis. The term \"gig\" originated from the music industry, where it referred to a performance engagement. However, it has now expanded to include various types of work in different industries.\n\nThe gig economy offers several advantages for workers. It provides flexibility and independence, allowing individuals to choose the jobs they want to take on and work on their own terms. Workers can have a better work-life balance and the freedom to select projects that align with their interests and preferences. They can also have the flexibility to work from anywhere, as long as they have an internet connection. Additionally, the gig economy can provide opportunities for individuals to earn extra income or pursue their passions outside of their regular jobs.\n\nFor businesses, the gig economy offers cost savings and access to a larger pool of talent. Companies can hire independent contractors or freelancers for specific projects or tasks, without the need to provide employee benefits or invest in office space and equipment. This allows businesses to be more agile and adapt to changing demands quickly. They can also tap into a global talent pool and select the best person for a particular project, regardless of their location.\n\nConsumers also benefit from the gig economy. They have access to a wide range of services and products offered by gig workers through digital platforms. This can lead to more choices, convenience, and often lower prices. For example, ride-hailing apps like Uber and food delivery services like Grubhub provide consumers with alternative transportation and dining options. The gig economy has become particularly relevant during the COVID-19 pandemic, as it has enabled people to access essential services and goods while maintaining social distancing measures.\n\nHowever, there are also downsides to the gig economy. Gig workers often lack job security and the benefits that come with traditional employment, such as health insurance and paid leave. They are responsible for managing their own taxes and expenses, and their income can be unpredictable. Additionally, the gig economy can lead to the erosion of long-term relationships between workers, employers, and clients, as temporary positions become the norm. It can also create challenges in maintaining consistent work and career development.\n\nOverall, the gig economy is a growing trend that offers both opportunities and challenges for workers, businesses, and consumers. It provides flexibility and independence, but also comes with risks and uncertainties. As the gig economy continues to evolve, it is important for policymakers, businesses, and individuals to navigate its impact on the labor market and ensure fair and equitable working conditions for all.",
       "name": "What is Gig Economy",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "f23d0d75-f61a-47e2-a86b-04ac8399241c"
-        }
-      ],
+      "stepItems": [],
       "uuid": "28c6a79d-4976-4ad6-bc0f-4f156538ff97"
     },
     {
       "content": "",
       "name": "Evaluation",
       "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "6a161057-c22d-4297-bc19-6d00e0b00a50"
-        },
-        {
-          "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
-          ],
-          "choices": [
-            {
-              "content": "Choice 1",
-              "key": "choice_1"
-            },
-            {
-              "content": "Choice 2",
-              "key": "choice_2"
-            },
-            {
-              "content": "Choice 3",
-              "key": "choice_3"
-            },
-            {
-              "content": "Choice 4",
-              "key": "choice_4"
-            }
-          ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "2c2e85c3-1cf6-4657-8565-37ec4391efe4",
-          "explanation": "Explanation of the question"
-        },
         {
           "answerKeys": [
             "C"
@@ -319,6 +277,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "65dfdc49-fd34-445f-8d56-92178a5beab2",
+  "uuid": "gig-economy-credit-union-academy",
   "version": 1
 }
