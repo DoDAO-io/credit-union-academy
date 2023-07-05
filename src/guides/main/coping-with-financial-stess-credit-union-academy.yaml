@@ -1,11 +1,10 @@
 categories: []
 content: ' Navigating the Challenges of Financial Stress'
-created: '2023-07-04T06:55:11.513Z'
+created: '2023-07-05T07:34:52.063Z'
 guideType: onboarding
 key: coping-with-financial-stess-credit-union-academy
 name: Coping with Financial Stress
 publishStatus: Live
-showIncorrectOnCompletion: true
 steps:
   - content: >-
       Financial stress refers to the state of worry, anxiety, or emotional
@@ -77,26 +76,48 @@ steps:
   - content: ''
     name: ' Evaluation'
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: be1d38c1-847a-49a9-835f-438adbca0c37
       - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
+          - B
         choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 3dd5390f-ba79-4eb2-bd11-72695c78bb46
+          - content: The state of feeling overwhelmed by financial responsibilities
+            key: A
+          - content: >-
+              The state of worry, anxiety, or emotional tension that arises from
+              money-related issues
+            key: B
+          - content: The state of having a lot of money and not knowing how to spend it
+            key: C
+          - content: >-
+              The state of feeling content and secure with one's financial
+              situation
+            key: D
+        content: What is financial stress?
+        type: SingleChoice
+        uuid: cbf7a146-3354-466d-91d2-2f883bd0d7f7
+        explanation: >-
+          Financial stress refers to the state of worry, anxiety, or emotional
+          tension that arises from money-related issues.
+      - answerKeys:
+          - D
+        choices:
+          - content: Feeling content and secure with one's financial situation
+            key: A
+          - content: Having a lot of money and not knowing how to spend it
+            key: B
+          - content: Feeling overwhelmed by financial responsibilities
+            key: C
+          - content: >-
+              Experiencing anxiety symptoms and feeling a loss of control over
+              finances
+            key: D
+        content: What are some common symptoms of financial stress?
+        type: SingleChoice
+        uuid: 3e976867-66b1-4132-93ac-a43c3ba0af92
+        explanation: >-
+          Common symptoms of financial stress include experiencing anxiety
+          symptoms like shortness of breath and a racing heart when thinking
+          about money, feeling a loss of control over finances, and becoming
+          irritable or angry with individuals involved in financial matters.
     uuid: bc28d2d9-f6b9-4efb-9fc5-6e5530816d98
   - content: >-
       The link between money and mental health is a complex and significant one.
@@ -150,7 +171,47 @@ steps:
     uuid: adc078de-fc98-4b55-a4b6-85ece7ef9f59
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - D
+        choices:
+          - content: Education level
+            key: A
+          - content: Marital status
+            key: B
+          - content: Household income
+            key: C
+          - content: Employment status
+            key: D
+        content: Which factor influences the link between money and mental health?
+        type: SingleChoice
+        uuid: c257ae83-a6ac-492e-83d2-31dc766ea585
+        explanation: >-
+          Employment status plays a role in the link between money and mental
+          health.
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              Financial instability and unemployment have no impact on mental
+              well-being.
+            key: A
+          - content: >-
+              Financial instability and the uncertainty of unemployment can have
+              a significant impact on mental well-being.
+            key: B
+          - content: Financial instability has a positive impact on mental well-being.
+            key: C
+          - content: Unemployment has a positive impact on mental well-being.
+            key: D
+        content: >-
+          What is the impact of financial instability and unemployment on mental
+          well-being?
+        type: SingleChoice
+        uuid: 34be149b-36a3-4241-9ad9-97bb987e6407
+        explanation: >-
+          Financial instability and the uncertainty of unemployment can have a
+          significant impact on mental well-being.
     uuid: 24f4bc5b-f28a-4e3d-816b-9829268c8da2
   - content: >-
       Coping with financial stress can be overwhelming, but there are ways to
@@ -204,7 +265,41 @@ steps:
     uuid: 26d64ebb-7471-4d8d-8e64-43383ba82871
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Ignoring your financial problems
+            key: A
+          - content: Talking openly about your financial problems
+            key: B
+          - content: Creating a plan to address your financial problems
+            key: C
+          - content: Blaming others for your financial problems
+            key: D
+        content: What is an important step in addressing financial problems?
+        type: SingleChoice
+        uuid: 1c7d127b-b7e6-4d2c-9f4a-0398aebbd5e0
+        explanation: >-
+          Creating a plan to address your financial problems is an important
+          step.
+      - answerKeys:
+          - D
+        choices:
+          - content: Eating unhealthy foods
+            key: A
+          - content: Avoiding exercise
+            key: B
+          - content: Not getting enough sleep
+            key: C
+          - content: Engaging in regular exercise
+            key: D
+        content: What can help relieve stress and improve your mood?
+        type: SingleChoice
+        uuid: 134d55fe-4c19-4075-a8a2-8b699f7696c2
+        explanation: >-
+          Engaging in regular exercise can help relieve stress, boost your mood,
+          and improve your self-esteem.
     uuid: e1681525-b3b1-4af1-8d0a-298b3f857cd8
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
