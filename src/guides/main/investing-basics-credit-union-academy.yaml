@@ -1,11 +1,10 @@
 categories: []
 content: Unlocking the Benefits of Early Investing
-created: '2023-07-04T17:55:29.384Z'
+created: '2023-07-05T06:11:22.515Z'
 guideType: onboarding
 key: investing-basics-credit-union-academy
 name: Investing Basics
 publishStatus: Live
-showIncorrectOnCompletion: true
 steps:
   - content: >
       Starting to invest at a young age is crucial for several reasons. First,
@@ -40,7 +39,43 @@ steps:
     uuid: 0a4c8657-f8f7-4092-acda-19c40a2d75bf
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: To have more time to spend money
+            key: A
+          - content: To allow your money to grow through compounding
+            key: B
+          - content: To decrease the value of your assets over time
+            key: C
+          - content: To have fun buying things
+            key: D
+        content: What is the benefit of starting to invest early?
+        type: SingleChoice
+        uuid: cad902fc-10b5-47b1-b281-e8b0802e903a
+        explanation: >-
+          Starting to invest early gives your money more time to grow through
+          compounding, even with small amounts saved.
+      - answerKeys:
+          - C
+        choices:
+          - content: To have more time to spend money
+            key: A
+          - content: To decrease the value of your assets over time
+            key: B
+          - content: >-
+              To prioritize saving and investing, creating better financial
+              habits
+            key: C
+          - content: To have fun buying things
+            key: D
+        content: How does starting to invest early improve your spending habits?
+        type: SingleChoice
+        uuid: e0917cbe-9b1e-451b-8c05-1c67f909ff83
+        explanation: >-
+          Starting to invest early helps you prioritize saving and investing,
+          leading to better financial habits and conscious spending.
     uuid: 2d640b4f-2665-4571-b853-c1ba224a39b2
   - content: >-
       Compound interest is a powerful tool that can help you grow your wealth
@@ -86,12 +121,45 @@ steps:
       IRAs, SEP IRAs, or education-specific accounts like Coverdell IRAs or 529
       plans. These accounts offer tax advantages and can help your money grow
       even faster.
-    name: How does compounding help when
+    name: 'Compounding '
     stepItems: []
     uuid: 0fd1410f-d825-47b6-8091-70d4d480c9d9
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Money decreases over time
+            key: A
+          - content: Money stays the same over time
+            key: B
+          - content: Money can grow at a faster rate
+            key: C
+          - content: Money grows at a slower rate
+            key: D
+        content: What is the impact of compounding?
+        type: SingleChoice
+        uuid: a98ab8eb-684e-4d55-952b-2378867ae34f
+        explanation: >-
+          Money can grow at a faster rate than simple interest, as it earns
+          interest not only on the initial investment but also on the
+          accumulated interest from previous periods.
+      - answerKeys:
+          - B
+        choices:
+          - content: Invest in high-risk assets
+            key: A
+          - content: Start investing early and be consistent
+            key: B
+          - content: Invest in low-risk assets
+            key: C
+          - content: Invest in multiple assets
+            key: D
+        content: What is the best way to take advantage of compound interest?
+        type: SingleChoice
+        uuid: 13ba114b-37f4-45e0-9a9a-bcecec5776a6
+        explanation: Start investing early and be consistent with your investments.
     uuid: 868ea4d7-95b2-48fa-9904-4e0e4b7dfb7c
   - content: >+
       Starting to invest at a young age is crucial for building wealth and
@@ -137,7 +205,43 @@ steps:
     uuid: 5d37efeb-0696-4126-8e13-821a54ba66a1
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - D
+        choices:
+          - content: Higher interest rates
+            key: A
+          - content: Tax advantages
+            key: B
+          - content: Free stock and ETF trades
+            key: C
+          - content: Diversification and risk minimization
+            key: D
+        content: What is the benefit of investing in index funds?
+        type: SingleChoice
+        uuid: 5e7b2184-96a4-4dca-8f85-e2370783eb3a
+        explanation: >-
+          Investing in index funds allows for diversification of the portfolio
+          and minimizes risk by holding shares of multiple stocks that mimic the
+          performance of a specific market index.
+      - answerKeys:
+          - C
+        choices:
+          - content: Investing in real estate
+            key: A
+          - content: Staying focused on short-term market fluctuations
+            key: B
+          - content: Diversification of investments
+            key: C
+          - content: Having unrealistic expectations
+            key: D
+        content: What is a key strategy for successful investing?
+        type: SingleChoice
+        uuid: 3e120b72-eee6-4d71-b02f-ea70d2ec9817
+        explanation: >-
+          Diversification is a key strategy for successful investing as it helps
+          manage risk and maximize returns by spreading investments across
+          different asset classes.
     uuid: 01f5b0de-883f-40e0-abb7-7de18c953861
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi

@@ -1,12 +1,11 @@
 {
   "categories": [],
   "content": "Unlocking the Benefits of Early Investing",
-  "created": "2023-07-04T17:55:29.384Z",
+  "created": "2023-07-05T06:11:22.515Z",
   "guideType": "onboarding",
   "key": "investing-basics-credit-union-academy",
   "name": "Investing Basics",
   "publishStatus": "Live",
-  "showIncorrectOnCompletion": true,
   "steps": [
     {
       "content": "Starting to invest at a young age is crucial for several reasons. First, when you start investing early, you have more time to take risks and recover from any losses. This allows you to potentially earn higher returns on your investments. Second, starting early gives your money more time to grow through compounding. Even small amounts saved and invested at a young age can snowball into a significant sum by the time you retire. \n\nAdditionally, starting to invest early helps improve your spending habits. When you prioritize saving and investing a portion of your income, you naturally become more conscious of your spending and create a monthly budget. This can help you develop good financial habits and avoid unnecessary expenses. \n\nFurthermore, investing early allows you to build a financial safety net for emergencies and future expenses. Whether it's for marriage, education, or retirement, starting early ensures that you have the funds you need when the time comes. It also helps you avoid impulsive financial decisions and provides you with a sense of security. \n\nLastly, starting to invest at a young age gives you a higher risk tolerance. With fewer financial responsibilities and more time ahead of you, you can afford to take more risks with your investments. This can potentially lead to higher returns in the long run and help you accumulate a larger corpus. \n",
@@ -17,19 +16,129 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To have more time to spend money",
+              "key": "A"
+            },
+            {
+              "content": "To allow your money to grow through compounding",
+              "key": "B"
+            },
+            {
+              "content": "To decrease the value of your assets over time",
+              "key": "C"
+            },
+            {
+              "content": "To have fun buying things",
+              "key": "D"
+            }
+          ],
+          "content": "What is the benefit of starting to invest early?",
+          "type": "SingleChoice",
+          "uuid": "cad902fc-10b5-47b1-b281-e8b0802e903a",
+          "explanation": "Starting to invest early gives your money more time to grow through compounding, even with small amounts saved."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To have more time to spend money",
+              "key": "A"
+            },
+            {
+              "content": "To decrease the value of your assets over time",
+              "key": "B"
+            },
+            {
+              "content": "To prioritize saving and investing, creating better financial habits",
+              "key": "C"
+            },
+            {
+              "content": "To have fun buying things",
+              "key": "D"
+            }
+          ],
+          "content": "How does starting to invest early improve your spending habits?",
+          "type": "SingleChoice",
+          "uuid": "e0917cbe-9b1e-451b-8c05-1c67f909ff83",
+          "explanation": "Starting to invest early helps you prioritize saving and investing, leading to better financial habits and conscious spending."
+        }
+      ],
       "uuid": "2d640b4f-2665-4571-b853-c1ba224a39b2"
     },
     {
       "content": "Compound interest is a powerful tool that can help you grow your wealth exponentially, especially when you start investing early. It works by earning interest not only on your initial investment but also on the accumulated interest from previous periods. This means that your money can snowball and grow at a faster rate than simple interest, which is calculated only on the principal amount.\n\nLet's take a look at an example to understand the impact of compounding. Alice, Barney, and Christopher all experience the same 7% annual investment return on their retirement funds. Alice starts investing at age 28 and contributes $5,000 per year until she retires at age 58. Barney, on the other hand, starts investing at age 18 and contributes three times as much as Alice, but he retires at the same age. Surprisingly, Alice's account has a higher value than Barney's, even though he invested more. This is because of compound interest. The investment return that Alice earned in her 10 early years of saving is snowballing and growing at a faster rate.\n\nThe best scenario is Christopher, who starts saving early and never stops. His savings are massively higher than both Alice and Barney. The key takeaway here is that starting early and being consistent with your investments can have a significant impact on your wealth accumulation. Compound interest favors those who start early, which is why it's important to start investing as soon as possible.\n\nStarting early and being consistent with your investments can also benefit you in other financial goals, such as saving for retirement or your child's education. By saving now, you give yourself a huge edge in building a stress-free retirement fund. Similarly, if you start saving for your child's education when they are young, the power of compound interest will work in your favor.\n\nEven small contributions of $25-$100 per month can add up over time, thanks to compound interest. Time is your best friend when it comes to compounding, so the earlier you start, the more time your money has to grow. It's important to take advantage of retirement accounts like Roth IRAs, SEP IRAs, or education-specific accounts like Coverdell IRAs or 529 plans. These accounts offer tax advantages and can help your money grow even faster.",
-      "name": "How does compounding help when",
+      "name": "Compounding ",
       "stepItems": [],
       "uuid": "0fd1410f-d825-47b6-8091-70d4d480c9d9"
     },
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Money decreases over time",
+              "key": "A"
+            },
+            {
+              "content": "Money stays the same over time",
+              "key": "B"
+            },
+            {
+              "content": "Money can grow at a faster rate",
+              "key": "C"
+            },
+            {
+              "content": "Money grows at a slower rate",
+              "key": "D"
+            }
+          ],
+          "content": "What is the impact of compounding?",
+          "type": "SingleChoice",
+          "uuid": "a98ab8eb-684e-4d55-952b-2378867ae34f",
+          "explanation": "Money can grow at a faster rate than simple interest, as it earns interest not only on the initial investment but also on the accumulated interest from previous periods."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Invest in high-risk assets",
+              "key": "A"
+            },
+            {
+              "content": "Start investing early and be consistent",
+              "key": "B"
+            },
+            {
+              "content": "Invest in low-risk assets",
+              "key": "C"
+            },
+            {
+              "content": "Invest in multiple assets",
+              "key": "D"
+            }
+          ],
+          "content": "What is the best way to take advantage of compound interest?",
+          "type": "SingleChoice",
+          "uuid": "13ba114b-37f4-45e0-9a9a-bcecec5776a6",
+          "explanation": "Start investing early and be consistent with your investments."
+        }
+      ],
       "uuid": "868ea4d7-95b2-48fa-9904-4e0e4b7dfb7c"
     },
     {
@@ -41,7 +150,62 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Higher interest rates",
+              "key": "A"
+            },
+            {
+              "content": "Tax advantages",
+              "key": "B"
+            },
+            {
+              "content": "Free stock and ETF trades",
+              "key": "C"
+            },
+            {
+              "content": "Diversification and risk minimization",
+              "key": "D"
+            }
+          ],
+          "content": "What is the benefit of investing in index funds?",
+          "type": "SingleChoice",
+          "uuid": "5e7b2184-96a4-4dca-8f85-e2370783eb3a",
+          "explanation": "Investing in index funds allows for diversification of the portfolio and minimizes risk by holding shares of multiple stocks that mimic the performance of a specific market index."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Investing in real estate",
+              "key": "A"
+            },
+            {
+              "content": "Staying focused on short-term market fluctuations",
+              "key": "B"
+            },
+            {
+              "content": "Diversification of investments",
+              "key": "C"
+            },
+            {
+              "content": "Having unrealistic expectations",
+              "key": "D"
+            }
+          ],
+          "content": "What is a key strategy for successful investing?",
+          "type": "SingleChoice",
+          "uuid": "3e120b72-eee6-4d71-b02f-ea70d2ec9817",
+          "explanation": "Diversification is a key strategy for successful investing as it helps manage risk and maximize returns by spreading investments across different asset classes."
+        }
+      ],
       "uuid": "01f5b0de-883f-40e0-abb7-7de18c953861"
     }
   ],
