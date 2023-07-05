@@ -1,12 +1,11 @@
 {
   "categories": [],
   "content": "Planning for Financial Freedom",
-  "created": "2023-07-04T06:54:11.953Z",
+  "created": "2023-07-05T06:44:28.484Z",
   "guideType": "onboarding",
   "key": "early-retirement-planning-credit-union-academy",
   "name": "Early Retirement Planning ",
   "publishStatus": "Live",
-  "showIncorrectOnCompletion": true,
   "steps": [
     {
       "content": "A retirement plan is a financial strategy that helps individuals prepare for life after they stop working. It involves setting goals for retirement income and determining how much money is needed to achieve those goals. Retirement planning includes identifying sources of income, estimating future expenses, implementing a savings program, and managing assets and risk.\n\nIt is important to start retirement planning as early as possible, although it can be done at any time. By factoring it into your financial planning early on, you can take advantage of the power of compounding and give your savings more time to grow. Retirement planning is not just about the financial aspect, but also about making decisions regarding lifestyle choices, such as how you want to spend your time in retirement, where you want to live, and when you want to stop working.\n\nThe amount of money needed for retirement varies from person to person and depends on factors such as income, expenses, liabilities, and life expectancy. While there are rules of thumb, such as the 80% rule, which states that you need enough savings to live on 80% of your pre-retirement income, it is important to personalize your retirement plan based on your individual circumstances.\n\nRetirement planning involves considering various investment vehicles, such as individual retirement accounts (IRAs) and 401(k)s, which offer tax advantages to help grow your savings. It also requires careful consideration of expenses, such as housing, health insurance, food, clothing, transportation, and entertainment. By estimating these costs and creating a reasonable budget, you can ensure that you have enough savings to support your desired lifestyle in retirement.\n\nIn addition to saving and investing, retirement planning also involves making decisions about when to start saving, when to retire, and how much to save. It is important to take advantage of employer-sponsored retirement plans, such as 401(k)s, and contribute enough to receive any employer match. Automatic deductions can help you stay on track with your savings goals and prevent you from forgetting to save. Regularly reviewing and adjusting your investments and retirement plan as your circumstances change is also crucial to ensure that you are on track to meet your retirement goals.",
@@ -17,7 +16,62 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "A financial strategy that helps individuals prepare for life after they stop working",
+              "key": "B"
+            },
+            {
+              "content": "A plan to buy a new house after retirement",
+              "key": "A"
+            },
+            {
+              "content": "A plan to travel the world after retirement",
+              "key": "C"
+            },
+            {
+              "content": "A plan to start a new business after retirement",
+              "key": "D"
+            }
+          ],
+          "content": "What is a retirement plan?",
+          "type": "SingleChoice",
+          "uuid": "43614be4-8301-4f45-86d4-4d16fe114d47",
+          "explanation": "A retirement plan is a financial strategy that helps individuals prepare for life after they stop working. It involves setting goals for retirement income and determining how much money is needed to achieve those goals."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Age and gender",
+              "key": "A"
+            },
+            {
+              "content": "Marital status",
+              "key": "B"
+            },
+            {
+              "content": "Education level",
+              "key": "C"
+            },
+            {
+              "content": "Income, expenses, liabilities, and life expectancy",
+              "key": "D"
+            }
+          ],
+          "content": "What factors determine the amount of money needed for retirement?",
+          "type": "SingleChoice",
+          "uuid": "2c40d539-50e0-4e51-ae07-c134d1e0a213",
+          "explanation": "The amount of money needed for retirement varies from person to person and depends on factors such as income, expenses, liabilities, and life expectancy."
+        }
+      ],
       "uuid": "f092987f-38bc-44fb-a252-4075e6cd31d2"
     },
     {
@@ -29,7 +83,62 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Various sources such as annuities, systematic withdrawals, Social Security benefits, real estate holdings, bonds, and certificate of deposit (CD) ladders",
+              "key": "A"
+            },
+            {
+              "content": "Only from annuities",
+              "key": "B"
+            },
+            {
+              "content": "Only from Social Security benefits",
+              "key": "C"
+            },
+            {
+              "content": "Only from real estate holdings",
+              "key": "D"
+            }
+          ],
+          "content": "Where does money after retirement come from?",
+          "type": "SingleChoice",
+          "uuid": "4458684e-6d39-4630-a6ac-9d889da20b11",
+          "explanation": "During retirement, money can come from various sources such as annuities, systematic withdrawals, Social Security benefits, real estate holdings, bonds, and certificate of deposit (CD) ladders."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Something that is owned by a person or company and increases in value over time",
+              "key": "A"
+            },
+            {
+              "content": "Something that you buy from a shop",
+              "key": "B"
+            },
+            {
+              "content": "Something that decreases in value over time",
+              "key": "C"
+            },
+            {
+              "content": "Purchasing multiple bonds with staggered maturity dates, which provides consistent returns and protection from call risk",
+              "key": "D"
+            }
+          ],
+          "content": "What is a bond ladder?",
+          "type": "SingleChoice",
+          "uuid": "c4c712a6-1e98-4dde-a5d1-54a04c325f91",
+          "explanation": "A bond ladder involves purchasing multiple bonds with staggered maturity dates, which provides consistent returns and protection from call risk."
+        }
+      ],
       "uuid": "020eab42-729b-4fe8-8667-e6a56d63823a"
     },
     {
@@ -41,7 +150,62 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Investing in fixed deposits",
+              "key": "A"
+            },
+            {
+              "content": "Investing in real estate",
+              "key": "B"
+            },
+            {
+              "content": "Investing in equity mutual funds",
+              "key": "C"
+            },
+            {
+              "content": "Investing in gold",
+              "key": "D"
+            }
+          ],
+          "content": "What is the recommended investment option for early retirement?",
+          "type": "SingleChoice",
+          "uuid": "60b508e1-6ec7-418b-8b9f-269461c4e2f0",
+          "explanation": "Experts recommend investing in equity mutual funds, which have higher returns compared to traditional products like fixed deposits."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Not saving enough money",
+              "key": "A"
+            },
+            {
+              "content": "Delaying investments",
+              "key": "B"
+            },
+            {
+              "content": "Investing in high-risk assets",
+              "key": "C"
+            },
+            {
+              "content": "Not having a financial advisor",
+              "key": "D"
+            }
+          ],
+          "content": "What is one common mistake people make when planning for early retirement?",
+          "type": "SingleChoice",
+          "uuid": "4bcd3fac-6063-4bfd-a154-caef0bba383c",
+          "explanation": "One common mistake people make when planning for early retirement is delaying investments."
+        }
+      ],
       "uuid": "73f1dbcd-6ca6-4bb1-86e2-604d9bf362b0"
     }
   ],

@@ -1,11 +1,10 @@
 categories: []
 content: Planning for Financial Freedom
-created: '2023-07-04T06:54:11.953Z'
+created: '2023-07-05T06:44:28.484Z'
 guideType: onboarding
 key: early-retirement-planning-credit-union-academy
 name: 'Early Retirement Planning '
 publishStatus: Live
-showIncorrectOnCompletion: true
 steps:
   - content: >-
       A retirement plan is a financial strategy that helps individuals prepare
@@ -56,7 +55,46 @@ steps:
     uuid: e427df55-9d5b-4e76-9ffa-ac1f502cdf9a
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: >-
+              A financial strategy that helps individuals prepare for life after
+              they stop working
+            key: B
+          - content: A plan to buy a new house after retirement
+            key: A
+          - content: A plan to travel the world after retirement
+            key: C
+          - content: A plan to start a new business after retirement
+            key: D
+        content: What is a retirement plan?
+        type: SingleChoice
+        uuid: 43614be4-8301-4f45-86d4-4d16fe114d47
+        explanation: >-
+          A retirement plan is a financial strategy that helps individuals
+          prepare for life after they stop working. It involves setting goals
+          for retirement income and determining how much money is needed to
+          achieve those goals.
+      - answerKeys:
+          - D
+        choices:
+          - content: Age and gender
+            key: A
+          - content: Marital status
+            key: B
+          - content: Education level
+            key: C
+          - content: Income, expenses, liabilities, and life expectancy
+            key: D
+        content: What factors determine the amount of money needed for retirement?
+        type: SingleChoice
+        uuid: 2c40d539-50e0-4e51-ae07-c134d1e0a213
+        explanation: >-
+          The amount of money needed for retirement varies from person to person
+          and depends on factors such as income, expenses, liabilities, and life
+          expectancy.
     uuid: f092987f-38bc-44fb-a252-4075e6cd31d2
   - content: >-
       During retirement, money can come from various sources. One common source
@@ -99,7 +137,50 @@ steps:
     uuid: f431dbb7-01ee-43c5-8582-246c299974de
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - A
+        choices:
+          - content: >-
+              Various sources such as annuities, systematic withdrawals, Social
+              Security benefits, real estate holdings, bonds, and certificate of
+              deposit (CD) ladders
+            key: A
+          - content: Only from annuities
+            key: B
+          - content: Only from Social Security benefits
+            key: C
+          - content: Only from real estate holdings
+            key: D
+        content: Where does money after retirement come from?
+        type: SingleChoice
+        uuid: 4458684e-6d39-4630-a6ac-9d889da20b11
+        explanation: >-
+          During retirement, money can come from various sources such as
+          annuities, systematic withdrawals, Social Security benefits, real
+          estate holdings, bonds, and certificate of deposit (CD) ladders.
+      - answerKeys:
+          - D
+        choices:
+          - content: >-
+              Something that is owned by a person or company and increases in
+              value over time
+            key: A
+          - content: Something that you buy from a shop
+            key: B
+          - content: Something that decreases in value over time
+            key: C
+          - content: >-
+              Purchasing multiple bonds with staggered maturity dates, which
+              provides consistent returns and protection from call risk
+            key: D
+        content: What is a bond ladder?
+        type: SingleChoice
+        uuid: c4c712a6-1e98-4dde-a5d1-54a04c325f91
+        explanation: >-
+          A bond ladder involves purchasing multiple bonds with staggered
+          maturity dates, which provides consistent returns and protection from
+          call risk.
     uuid: 020eab42-729b-4fe8-8667-e6a56d63823a
   - content: >-
       If you're planning to retire early, it's important to make smart
@@ -145,7 +226,43 @@ steps:
     uuid: 708730ce-44b4-47cf-916a-45452f10fa72
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Investing in fixed deposits
+            key: A
+          - content: Investing in real estate
+            key: B
+          - content: Investing in equity mutual funds
+            key: C
+          - content: Investing in gold
+            key: D
+        content: What is the recommended investment option for early retirement?
+        type: SingleChoice
+        uuid: 60b508e1-6ec7-418b-8b9f-269461c4e2f0
+        explanation: >-
+          Experts recommend investing in equity mutual funds, which have higher
+          returns compared to traditional products like fixed deposits.
+      - answerKeys:
+          - B
+        choices:
+          - content: Not saving enough money
+            key: A
+          - content: Delaying investments
+            key: B
+          - content: Investing in high-risk assets
+            key: C
+          - content: Not having a financial advisor
+            key: D
+        content: >-
+          What is one common mistake people make when planning for early
+          retirement?
+        type: SingleChoice
+        uuid: 4bcd3fac-6063-4bfd-a154-caef0bba383c
+        explanation: >-
+          One common mistake people make when planning for early retirement is
+          delaying investments.
     uuid: 73f1dbcd-6ca6-4bb1-86e2-604d9bf362b0
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
