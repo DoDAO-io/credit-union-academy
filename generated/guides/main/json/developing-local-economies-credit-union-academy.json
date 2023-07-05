@@ -1,24 +1,16 @@
 {
   "categories": [],
   "content": "The importance of supporting and developing local economies",
-  "created": "2023-07-04T17:32:34.985Z",
+  "created": "2023-07-05T16:05:26.717Z",
   "guideType": "onboarding",
   "key": "developing-local-economies-credit-union-academy",
   "name": "Developing Local Economies",
   "publishStatus": "Live",
-  "showIncorrectOnCompletion": true,
   "steps": [
     {
       "content": "Local economic development is a crucial process that focuses on improving the competitiveness of a local area and creating better conditions for economic growth and employment generation. In today's globalized world, it is even more important for local actors to take actions that directly impact their lives and opportunities. By building up the economic capacity of a local area, local economic development aims to improve the economic future and quality of life for all.\n\nOne of the key reasons why local economic development is necessary is because it addresses the uneven patterns of development that result from global forces of change. Some localities experience growth while others decline, and local economic development aims to bridge this gap. It draws on various schools of economic and social development and focuses on local employment issues. By engaging local actors and stakeholders, it ensures that the needs and opportunities of local businesses, workers, products, and services are taken into account.\n\nLocal economic development also plays a crucial role in achieving inclusive growth. Inclusive growth is economic growth that creates opportunities for all groups of the population and distributes the benefits of increased prosperity fairly across society. By focusing on the needs and opportunities of local economies, local economic development contributes to inclusive growth by creating productive and decent employment. It also fosters social inclusion and builds networks within communities.\n\nFurthermore, local economic development is key to sustainable development. It expands the circle of recognized actors in economic life, including local governments, municipalities, and community-based organizations. By fostering partnerships and cooperation among these actors, local economic development drives economic activity, production, and investment. This leads to increased competitiveness, job creation, and improved living conditions for the local population.\n\nTo ensure successful local economic development, tailored approaches to local conditions are necessary. This includes an integrated approach that considers social, environmental, and physical aspects, as well as economic issues. It also requires the involvement of influential and effective local leaders, capacity building for implementation, and political, financial, and technical support from other levels of government. By following these guiding principles, local economic development can contribute to sustainable and inclusive growth in local economies.",
       "name": "Importance of Local Economy",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "e1ac4eba-7258-461a-ab6b-0834e2197dff"
-        }
-      ],
+      "stepItems": [],
       "uuid": "4972370b-2605-46a4-a3b0-7cf547fb80fb"
     },
     {
@@ -320,6 +312,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "481f0784-ca47-4de6-8c70-a91abebfbc73",
+  "uuid": "developing-local-economies-credit-union-academy",
   "version": 1
 }

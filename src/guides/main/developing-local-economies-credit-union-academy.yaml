@@ -1,11 +1,10 @@
 categories: []
 content: The importance of supporting and developing local economies
-created: '2023-07-04T17:32:34.985Z'
+created: '2023-07-05T16:05:26.717Z'
 guideType: onboarding
 key: developing-local-economies-credit-union-academy
 name: Developing Local Economies
 publishStatus: Live
-showIncorrectOnCompletion: true
 steps:
   - content: >-
       Local economic development is a crucial process that focuses on improving
@@ -55,11 +54,7 @@ steps:
       following these guiding principles, local economic development can
       contribute to sustainable and inclusive growth in local economies.
     name: Importance of Local Economy
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: e1ac4eba-7258-461a-ab6b-0834e2197dff
+    stepItems: []
     uuid: 4972370b-2605-46a4-a3b0-7cf547fb80fb
   - content: ''
     name: Evaluation
@@ -448,5 +443,5 @@ steps:
     uuid: 1211bb19-b518-46a5-8faf-fe2845e6c9a9
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 481f0784-ca47-4de6-8c70-a91abebfbc73
+uuid: developing-local-economies-credit-union-academy
 version: 1
