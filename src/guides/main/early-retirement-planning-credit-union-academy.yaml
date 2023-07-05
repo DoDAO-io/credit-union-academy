@@ -1,6 +1,6 @@
 categories: []
 content: Planning for Financial Freedom
-created: '2023-07-05T06:44:28.484Z'
+created: '2023-07-05T07:53:45.231Z'
 guideType: onboarding
 key: early-retirement-planning-credit-union-academy
 name: 'Early Retirement Planning '
@@ -132,7 +132,7 @@ steps:
       maturity dates. As each CD matures, a new one is purchased, extending the
       ladder. CD ladders are often used for short-term income needs and provide
       a low-risk investment option.
-    name: Where does money after retiremen
+    name: Sources of Retirement Income
     stepItems: []
     uuid: f431dbb7-01ee-43c5-8582-246c299974de
   - content: ''
@@ -221,7 +221,7 @@ steps:
       committed to your investment goals. By exploring these investment options
       and making informed decisions, you can increase your chances of achieving
       early retirement.
-    name: 'What are investment options '
+    name: Investment for early retirement
     stepItems: []
     uuid: 708730ce-44b4-47cf-916a-45452f10fa72
   - content: ''
