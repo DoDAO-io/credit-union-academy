@@ -1,6 +1,6 @@
 categories: []
 content: Best Practices for Side Hustles and Entrepreneurship
-created: '2023-07-05T10:41:20.020Z'
+created: '2023-07-05T16:08:36.353Z'
 guideType: onboarding
 key: side-hustles-and-entrepreneurs-credit-union-academy
 name: Side Hustles and Entrepreneurs
@@ -53,19 +53,11 @@ steps:
       mitigating risks. By implementing these measures, entrepreneurs can create
       a more viable and profitable business.
     name: Risk and Entrepreneurship
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: fe16cc0b-cbb1-4148-9b4c-cad1feb4b078
+    stepItems: []
     uuid: d22f125c-82ca-4f9e-a7eb-ce9ffac8da65
   - content: ''
     name: Evaluation
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: 1a415250-01ee-4f5c-a787-0f595594bc4d
       - answerKeys:
           - C
         choices:
@@ -396,5 +388,5 @@ steps:
     uuid: 33f954ed-864c-4017-b343-915adfd40543
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 65562731-7b51-459c-995c-dcaf2083083f
+uuid: side-hustles-and-entrepreneurs-credit-union-academy
 version: 1

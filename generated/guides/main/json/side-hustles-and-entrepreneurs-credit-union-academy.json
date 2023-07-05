@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Best Practices for Side Hustles and Entrepreneurship",
-  "created": "2023-07-05T10:41:20.020Z",
+  "created": "2023-07-05T16:08:36.353Z",
   "guideType": "onboarding",
   "key": "side-hustles-and-entrepreneurs-credit-union-academy",
   "name": "Side Hustles and Entrepreneurs",
@@ -10,26 +10,13 @@
     {
       "content": "Risk mitigation in entrepreneurship is crucial for the success and sustainability of a business. There are various risks involved in entrepreneurship, such as strategic risk, economic risk, financial risk, market risk, people risk, personal risk, and technical risk. These risks can have serious consequences for a business if not properly managed.\n\nTo mitigate these risks, entrepreneurs need to take certain measures. Firstly, they need to identify and assess the risks that their business may face. This involves analyzing both internal and external factors that could impact the business. By understanding the potential risks, entrepreneurs can develop strategies to minimize their impact.\n\nOne way to mitigate risks is by diversifying the business. This means not relying on a single product or market, but instead exploring different opportunities. By diversifying, entrepreneurs can spread their risks and reduce the impact of any one failure.\n\nAnother important aspect of risk mitigation is having a contingency plan. This involves having a backup plan in case the original strategy does not work out as planned. By having a Plan B, entrepreneurs can quickly adapt and minimize the negative consequences of a failed strategy.\n\nInsurance is also a valuable tool for risk mitigation. By insuring their business and assets, entrepreneurs can transfer the financial risks to insurance companies. This provides a safety net in case of accidents, liabilities, or other unforeseen events.\n\nLastly, risk mitigation in entrepreneurship requires continuous monitoring and evaluation. Entrepreneurs need to regularly review their risk management strategies and make adjustments as needed. By staying proactive and vigilant, entrepreneurs can effectively mitigate risks and ensure the long-term success of their business.\n\nIn conclusion, risk mitigation is a critical aspect of entrepreneurship. By identifying, assessing, and managing risks, entrepreneurs can minimize the negative impact on their business. Diversification, contingency planning, insurance, and continuous monitoring are key strategies for mitigating risks. By implementing these measures, entrepreneurs can create a more viable and profitable business.",
       "name": "Risk and Entrepreneurship",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "fe16cc0b-cbb1-4148-9b4c-cad1feb4b078"
-        }
-      ],
+      "stepItems": [],
       "uuid": "d22f125c-82ca-4f9e-a7eb-ce9ffac8da65"
     },
     {
       "content": "",
       "name": "Evaluation",
       "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "1a415250-01ee-4f5c-a787-0f595594bc4d"
-        },
         {
           "answerKeys": [
             "C"
@@ -290,6 +277,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "65562731-7b51-459c-995c-dcaf2083083f",
+  "uuid": "side-hustles-and-entrepreneurs-credit-union-academy",
   "version": 1
 }
