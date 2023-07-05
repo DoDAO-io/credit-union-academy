@@ -1,11 +1,10 @@
 categories: []
 content: Is Frugality worth it ?
-created: '2023-07-04T17:57:20.209Z'
+created: '2023-07-05T07:48:21.535Z'
 guideType: onboarding
 key: frugality-credit-union-academy
 name: Frugality
 publishStatus: Live
-showIncorrectOnCompletion: true
 steps:
   - content: >
       Frugality is a quality that involves being careful and economical in the
@@ -52,9 +51,82 @@ steps:
     uuid: 99c2267d-8081-4f17-98de-318a8ba9c319
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: >-
+              A quality that involves being careless and extravagant in the way
+              we consume resources
+            key: A
+          - content: >-
+              A quality that involves being careful and economical in the way we
+              consume resources
+            key: B
+          - content: >-
+              A quality that involves being reckless and wasteful in the way we
+              consume resources
+            key: C
+          - content: >-
+              A quality that involves being generous and extravagant in the way
+              we consume resources
+            key: D
+        content: What is frugality?
+        type: SingleChoice
+        uuid: 1a9531d9-295d-447b-80fd-434b66516d9f
+        explanation: >-
+          Frugality is a quality that involves being careful and economical in
+          the way we consume resources such as food, time, and money. It is
+          about avoiding waste and extravagance, and instead, making wise and
+          prudent choices.
+      - answerKeys:
+          - B
+        choices:
+          - content: Buying expensive products and services
+            key: A
+          - content: >-
+              Reducing waste, cutting down on costly habits, resisting the
+              temptation of instant gratification, seeking efficiency, and
+              avoiding expensive social norms
+            key: B
+          - content: >-
+              Indulging in instant gratification, seeking inefficiency, and
+              following expensive social norms
+            key: C
+          - content: Ignoring local circumstances and market realities
+            key: D
+        content: What are some techniques and strategies to practice frugality?
+        type: SingleChoice
+        uuid: d738ce21-010d-4a68-9c07-b27278dbc125
+        explanation: >-
+          Techniques and strategies to practice frugality include reducing
+          waste, cutting down on costly habits, resisting the temptation of
+          instant gratification, seeking efficiency, and avoiding expensive
+          social norms.
+      - answerKeys:
+          - D
+        choices:
+          - content: By encouraging excessive spending and wastefulness among employees
+            key: A
+          - content: By ignoring cost reduction and focusing on extravagant expenses
+            key: B
+          - content: By allocating excessive resources and funds to non-essential areas
+            key: C
+          - content: >-
+              By promoting careful spending, cost-cutting, and managing costs
+              for the benefit of the company, shareholders, and employees
+            key: D
+        content: How is frugality practiced on a larger scale?
+        type: SingleChoice
+        uuid: 9d1b6913-1802-4959-a528-c17e96cdfeec
+        explanation: >-
+          On a larger scale, frugality is practiced by large enterprises as a
+          strategic imperative to reduce costs. They promote a philosophy of
+          careful spending among their workforce, creating a moral obligation
+          for cost-cutting and highlighting the importance of managing costs for
+          the benefit of the company, shareholders, and employees.
     uuid: e1af8781-6b2f-4224-93af-bdb19176d70b
-  - content: >-
+  - content: >+
       Frugality is the practice of being mindful and intentional with our
       spending habits. It involves making conscious choices about what we truly
       need and finding ways to save money. Many people wonder if frugality is
@@ -99,19 +171,55 @@ steps:
       rather about building wealth slowly and steadily. It requires patience and
       discipline, but the rewards can be significant.
 
-
-      In conclusion, frugality is worth it because it allows us to take control
-      of our finances, prioritize our needs, and make informed decisions about
-      our money. It teaches us the value of patience, delayed gratification, and
-      long-term financial goals. By being mindful of our spending habits and
-      setting good examples for our children, we can build a financially
-      responsible future. So, embrace frugality and reap the benefits it brings.
     name: Is Frugality worth it ?
     stepItems: []
     uuid: 8a4489f2-87e7-4b32-9e28-330ed60afb37
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Losing control over our money
+            key: A
+          - content: Having more control over our money
+            key: B
+          - content: Accumulating unnecessary debt
+            key: C
+          - content: Buying things impulsively
+            key: D
+        content: What is one benefit of being frugal?
+        type: SingleChoice
+        uuid: 3d09c700-1147-4754-b10e-fcb891300bdf
+        explanation: >-
+          Being frugal allows us to have more control over our money. By making
+          conscious choices about our spending, we can prioritize our needs and
+          goals. It helps us avoid unnecessary debt and live within our means.
+          Frugality also teaches us the value of patience and delayed
+          gratification. Instead of buying things impulsively, we learn to save
+          and wait for the right time.
+      - answerKeys:
+          - C
+        choices:
+          - content: Impulsiveness
+            key: A
+          - content: Indifference
+            key: B
+          - content: Budgeting
+            key: C
+          - content: Extravagance
+            key: D
+        content: What is an essential part of frugality?
+        type: SingleChoice
+        uuid: 75acf23d-19a2-48ef-991d-b3e9e0eca2d0
+        explanation: >-
+          Budgeting is an essential part of frugality. It helps us track our
+          expenses and make informed decisions about our money. Contrary to
+          popular belief, budgeting is not restrictive, but rather a tool that
+          creates financial freedom. It allows us to allocate our resources
+          wisely and avoid overspending. By revisiting our budgets regularly, we
+          can adapt to our changing circumstances and make necessary
+          adjustments.
     uuid: bbf5b210-5ba5-49fb-83e6-6d1b00e03272
   - content: >-
       Creating a budget is an essential practice for college students to manage
@@ -165,7 +273,43 @@ steps:
     uuid: cc5a1e11-33c9-4eec-9ef0-d3934e994f17
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Sharing textbooks with other students
+            key: A
+          - content: Taking expensive meal plans
+            key: B
+          - content: Finding part-time jobs that allow you to study while earning money
+            key: C
+          - content: Taking expensive in-person classes
+            key: D
+        content: What is a smart way to manage finances as a college student?
+        type: SingleChoice
+        uuid: da27c4a1-4dbb-48b6-8c3c-6806f766b34f
+        explanation: >-
+          Finding part-time jobs that allow you to study while earning money is
+          a smart way to manage your finances as a college student.
+      - answerKeys:
+          - B
+        choices:
+          - content: Buying brand new textbooks
+            key: A
+          - content: >-
+              Sharing textbooks with other students or utilizing copies
+              available in the library
+            key: B
+          - content: Renting textbooks from the bookstore
+            key: C
+          - content: Enrolling in courses that provide free eTextbooks
+            key: D
+        content: What is a great way to save money on textbooks?
+        type: SingleChoice
+        uuid: 39e5e31e-f803-4484-87c0-67a0eac596d6
+        explanation: >-
+          Sharing textbooks with other students or utilizing copies available in
+          the library is a great way to save money on textbooks.
     uuid: 5c5cb42f-0488-4c8f-bc15-8d03899a817a
   - content: >-
       Frugality can indeed help you become rich, and there are several ways in
@@ -209,7 +353,44 @@ steps:
     uuid: 91f75d05-74ed-4cf1-851b-558ba19e3aca
   - content: ''
     name: Evaluation
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Impulse spending and excessive borrowing
+            key: A
+          - content: Budgeting and living below your means
+            key: B
+          - content: Comparing yourself to others and overspending
+            key: C
+          - content: Giving away all your money and not saving
+            key: D
+        content: What are some financial habits that frugality helps develop?
+        type: SingleChoice
+        uuid: f73cc428-7178-4b96-bbc7-188850200105
+        explanation: >-
+          Frugality helps develop financial habits such as budgeting, living
+          below your means, eliminating wasteful spending, and prioritizing
+          saving money. These habits contribute to your ability to build wealth
+          over time.
+      - answerKeys:
+          - D
+        choices:
+          - content: Excessive borrowing
+            key: A
+          - content: Impulsive spending
+            key: B
+          - content: Comparing yourself to others
+            key: C
+          - content: Financial simplicity
+            key: D
+        content: What does frugality promote for building wealth?
+        type: SingleChoice
+        uuid: 909f3228-3f03-4267-8ccf-871ca599586c
+        explanation: >-
+          Frugality promotes financial simplicity by eliminating debt and
+          simplifying your financial life. This allows you to focus on your
+          long-term financial goals and make better financial decisions.
     uuid: 32ab2eb0-ed9c-4053-bb0c-2b72485b461d
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
