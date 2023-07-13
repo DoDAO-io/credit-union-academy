@@ -1,0 +1,149 @@
+{
+  "uniqueId": "34395d3e-6ae7-4290-8dae-ed86bd0ea688",
+  "id": "navigating-uncertain-times-credit-union-academy",
+  "name": "Navigating Uncertain Times",
+  "content": "Tip on how to Navigate Uncertain Times",
+  "created": "2023-07-13T17:03:07.431Z",
+  "visibility": "Public",
+  "publishStatus": "Live",
+  "admins": [],
+  "tags": [],
+  "priority": 0,
+  "steps": [
+    {
+      "name": "Introduction",
+      "uuid": "06494157-53c2-4843-94d6-fdfe98088b98",
+      "content": "The COVID-19 pandemic has reminded us that financial challenges can come in various forms and sizes.",
+      "stepItems": []
+    },
+    {
+      "name": "Immediate and Subtle Challenges",
+      "uuid": "eb3939d7-dc96-4ee4-b78c-c7ca849b54e9",
+      "content": "Some challenges, like job loss or income reduction, are immediate and obvious, while others can disrupt our spending and saving patterns.",
+      "stepItems": []
+    },
+    {
+      "name": "Minimizing Damage",
+      "uuid": "dc541e88-1173-4081-89a4-ee338fb07955",
+      "content": "To minimize the damage caused by financial emergencies, it is important to limit spending to essentials and cut costs wherever possible.",
+      "stepItems": []
+    },
+    {
+      "name": "Calculating Financial Impact",
+      "uuid": "6183cb6e-fa33-42e3-a053-8e27ca59030f",
+      "content": "Calculating the total financial impact of the emergency, including its consequences, can help in creating an effective recovery plan.",
+      "stepItems": []
+    },
+    {
+      "name": "Temporary Solutions",
+      "uuid": "17ba1636-0c3f-40e6-8363-04b4ebe6eb60",
+      "content": "Seeking temporary solutions like extending payment due dates can help manage the stress of a financial emergency.",
+      "stepItems": []
+    },
+    {
+      "name": "Seeking Guidance and Support",
+      "uuid": "0cc26148-5642-4aa1-9cf7-8517b35bf310",
+      "content": "It is crucial to seek guidance and support from knowledgeable sources, such as financial institutions and government programs.",
+      "stepItems": []
+    },
+    {
+      "name": "Recovering from Income Loss",
+      "uuid": "cf8d2a2b-48da-4c00-af3f-44c1d0cae112",
+      "content": "Recovering from income loss requires addressing both the financial and non-financial consequences, such as routines and socialization.",
+      "stepItems": []
+    },
+    {
+      "name": "Maintaining Routines and Pursuing Goals",
+      "uuid": "0b31cc8f-26db-42c7-bc63-0325aa27fff2",
+      "content": "Maintaining daily routines, pursuing personal goals, and engaging in social activities are important for overall well-being during recovery.",
+      "stepItems": []
+    },
+    {
+      "name": "Importance of Emergency Fund",
+      "uuid": "018a9017-d142-44e1-91ba-97db037829ec",
+      "content": "Saving for an emergency fund is crucial for managing unexpected financial challenges and maintaining financial health.",
+      "stepItems": []
+    },
+    {
+      "name": "Saving for Emergencies",
+      "uuid": "4a21ae24-088a-4a5a-8f20-d30148d9d874",
+      "content": "Financial professionals recommend saving three to nine months of living expenses in an easily accessible account.",
+      "stepItems": []
+    },
+    {
+      "name": "Building an Emergency Fund",
+      "uuid": "d0abc0dd-1f7e-473c-b41c-f0deae5421a1",
+      "content": "Building an emergency fund can be done through practical ways like budgeting and establishing good financial habits.",
+      "stepItems": []
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "91233fee-df32-4c42-9d0a-b52e81e60592",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "822f0863-ba4d-402f-acce-cea442f2c64d",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Something that is owned by a person or company and increases in value over time"
+            },
+            {
+              "key": "B",
+              "content": "Something that you buy from a shop"
+            },
+            {
+              "key": "C",
+              "content": "Saving for an emergency fund is crucial for managing unexpected financial challenges and maintaining financial health."
+            },
+            {
+              "key": "D",
+              "content": "Something that you buy for fun"
+            }
+          ],
+          "content": "What is the importance of an emergency fund?",
+          "answerKeys": [
+            "C"
+          ],
+          "explanation": "Saving for an emergency fund is crucial for managing unexpected financial challenges and maintaining financial health."
+        }
+      ]
+    },
+    {
+      "name": "Evaluation",
+      "uuid": "53cb599a-8ba9-41be-a347-37257f290695",
+      "content": "",
+      "stepItems": [
+        {
+          "type": "SingleChoice",
+          "uuid": "4f5cc0a6-14ab-40ef-9c0d-a074ca3bb403",
+          "choices": [
+            {
+              "key": "A",
+              "content": "Something that is owned by a person or company and increases in value over time"
+            },
+            {
+              "key": "B",
+              "content": "Something that you buy from a shop"
+            },
+            {
+              "key": "C",
+              "content": "Something that decreases in value over time"
+            },
+            {
+              "key": "D",
+              "content": "Seeking temporary solutions like extending payment due dates can help manage the stress of a financial emergency."
+            }
+          ],
+          "content": "What can help manage the stress of a financial emergency?",
+          "answerKeys": [
+            "D"
+          ],
+          "explanation": "Seeking temporary solutions like extending payment due dates can help manage the stress of a financial emergency."
+        }
+      ]
+    }
+  ],
+  "spaceId": "credit-union-academy"
+}
