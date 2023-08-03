@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-08-03T11:00:33.441Z'
+created: '2023-08-03T11:00:57.708Z'
 guideType: onboarding
 key: credit-unions-vs-banks-credit-union-academy-634
 name: Credit Unions vs. Banks
@@ -44,11 +44,7 @@ steps:
       democratic control and community engagement in credit unions foster a
       sense of ownership and belonging among members.
     name: Ownership and Governance
-    stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: b0d48b54-edd9-4b86-bc12-496858f88348
+    stepItems: []
     uuid: 7f043fca-af7a-4ca1-ad77-2822b5da8871
   - content: ''
     name: ' Evaluation'
@@ -204,5 +200,5 @@ steps:
     uuid: 351c3c8e-9c48-4a37-b431-3921713a538f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: a63858f2-610a-46b9-8c00-16b58e3f0569
+uuid: credit-unions-vs-banks-credit-union-academy-634
 version: 1

@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-08-03T11:00:33.441Z",
+  "created": "2023-08-03T11:00:57.708Z",
   "guideType": "onboarding",
   "key": "credit-unions-vs-banks-credit-union-academy-634",
   "name": "Credit Unions vs. Banks",
@@ -10,14 +10,7 @@
     {
       "content": "Ownership and governance structures play a crucial role in distinguishing banks and credit unions. These structures shape how these financial institutions operate and interact with their stakeholders. The main difference between banks and credit unions lies in their purpose and priorities. Banks aim to generate profits and maximize shareholder value. Shareholders elect a board of directors to oversee the bank's operations and make strategic decisions. This board usually consists of individuals with financial expertise and business acumen. In banks, decision-making authority is concentrated among the board of directors and executive management, creating a hierarchical structure.\n\nOn the other hand, credit unions operate as not-for-profit cooperatives owned by their members. Each member is a partial owner and has a say in the institution's governance. Members elect a board of directors from among themselves, ensuring representation and alignment with their collective interests. The governance structure of credit unions reflects the principles of democratic control and community engagement. Decision-making is more decentralized, involving members in strategic choices that prioritize their financial well-being. The focus of credit unions is on providing affordable financial services, promoting financial education, and fostering a sense of ownership and belonging among members.\n\nThe ownership and governance structures of banks and credit unions reflect their divergent missions. Banks are profit-driven entities with shareholder-elected boards, while credit unions are member-focused cooperatives with democratically elected boards. These differences shape their approaches to decision-making, community engagement, and the overall financial experience they provide to their stakeholders. Banks prioritize profit generation, growth, and market competitiveness, which can sometimes lead to decisions driven by shareholder interests. Credit unions, on the other hand, prioritize the financial well-being of their members and aim to provide affordable services and promote financial education. The democratic control and community engagement in credit unions foster a sense of ownership and belonging among members.",
       "name": "Ownership and Governance",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "b0d48b54-edd9-4b86-bc12-496858f88348"
-        }
-      ],
+      "stepItems": [],
       "uuid": "7f043fca-af7a-4ca1-ad77-2822b5da8871"
     },
     {
@@ -100,6 +93,6 @@
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
-  "uuid": "a63858f2-610a-46b9-8c00-16b58e3f0569",
+  "uuid": "credit-unions-vs-banks-credit-union-academy-634",
   "version": 1
 }
