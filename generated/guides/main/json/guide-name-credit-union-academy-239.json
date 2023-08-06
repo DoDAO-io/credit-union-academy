@@ -1,0 +1,110 @@
+{
+  "categories": [],
+  "content": "New Guide",
+  "created": "2023-08-06T05:39:55.619Z",
+  "guideType": "onboarding",
+  "key": "guide-name-credit-union-academy-239",
+  "name": "Guide Name",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "Financial inclusion and access to banking services are crucial for economic empowerment and societal development. Credit unions, with their cooperative philosophy, play a significant role in advancing financial inclusion and ensuring broader access to financial services. They actively work to break down barriers that hinder financial inclusion, particularly for underserved and marginalized populations.\n\nCredit unions offer tailored products and services that accommodate diverse needs, extending a helping hand to those who are often left behind by traditional banking systems. They prioritize the well-being of their members over profit, focusing on the collective betterment of the community. By doing so, credit unions contribute to reducing inequalities and ensuring that even the most vulnerable individuals have access to banking services.\n\nOne key aspect of credit unions' approach is their localized focus and community engagement. They establish strong ties with their communities and tailor their services to meet local needs. This fosters trust and enables credit unions to offer services that align with the socio-economic realities of their members, enhancing access to essential banking services.\n\nCredit unions also play a vital role in building inclusive financial ecosystems. Their commitment to financial inclusion contributes to the United Nations' Sustainable Development Goals, particularly in reducing poverty and promoting economic growth. By expanding access to banking services, credit unions empower individuals to save, invest, and secure a better future for themselves and their families.\n\n",
+      "name": "Financial Inclusion ",
+      "stepItems": [],
+      "uuid": "5c38f67a-24c4-422d-bc5e-aa98faffb11e"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "815702ee-84c1-432e-b035-5fd73e87ed30"
+        },
+        {
+          "answerKeys": [
+            "choice_1",
+            "choice_2",
+            "choice_3"
+          ],
+          "choices": [
+            {
+              "content": "Choice 1",
+              "key": "choice_1"
+            },
+            {
+              "content": "Choice 2",
+              "key": "choice_2"
+            },
+            {
+              "content": "Choice 3",
+              "key": "choice_3"
+            },
+            {
+              "content": "Choice 4",
+              "key": "choice_4"
+            }
+          ],
+          "content": "Contents of the question",
+          "type": "MultipleChoice",
+          "uuid": "a975159d-5209-45b9-893f-9dd7558f58ba",
+          "explanation": "Explanation of the question"
+        }
+      ],
+      "uuid": "4a791305-e449-4a36-9fd5-bd7461dd064f"
+    },
+    {
+      "content": "Credit unions have a long history of actively contributing to the well-being and prosperity of the communities they serve. They go beyond traditional banking services and prioritize lending to small businesses and local initiatives, which helps fuel economic growth at the grassroots level. By offering accessible loans and financial services, credit unions empower individuals and entrepreneurs, stimulating local economies.\n\nIn addition to their economic impact, credit unions also prioritize social responsibility. They actively engage in social and environmental initiatives that benefit their communities. This includes supporting charitable causes and implementing sustainable practices. Credit unions align their operations with the well-being of their members and communities, ensuring that they contribute positively to society.\n\nCredit unions also play a crucial role in community economic development. They invest in initiatives that directly improve living standards and create opportunities for underserved populations. By providing financial services and education, credit unions pave the way for economic empowerment and an enhanced quality of life for individuals and communities.\n\nFurthermore, credit unions align with the concept of \"progressive community organizing.\" They engage in advocacy efforts and collaborate with community organizations to address systemic issues. This demonstrates their commitment to effecting positive change beyond financial services. Credit unions work hand in hand with local stakeholders to address challenges and create a more inclusive and prosperous future for all.",
+      "name": "Community Development ",
+      "stepItems": [],
+      "uuid": "8792f4a7-bb02-4bd5-a810-1bb54773bdac"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [],
+      "uuid": "a94a9c8a-fe68-4aff-87c5-acad7e6311d0"
+    },
+    {
+      "content": "Credit unions are not only beneficial for their members' financial well-being, but they also play a significant role in job creation and employment opportunities within their communities. As credit unions expand their services and operations, they create employment opportunities across various sectors. This job growth contributes to economic development at the community level, promoting stability and prosperity.\n\nWorking at a credit union provides individuals with the chance to make a meaningful impact within their communities. The emphasis on personalized customer service, community engagement, and ethical banking practices makes careers at credit unions uniquely rewarding. Employees at credit unions have the chance to contribute to their communities while enjoying fulfilling careers. These institutions often prioritize employee well-being, offering competitive compensation, professional growth opportunities, and a supportive work environment.\n\nRobust employment rates contribute to members' financial stability, which, in turn, positively impacts loan demand and repayment. Credit unions' focus on job creation aligns with their mission of improving the financial health of their members. By providing varied job opportunities, credit unions contribute to skill development and career advancement. They offer a diverse range of roles, from financial services to community engagement and operations.",
+      "name": "Job Creation and Employment",
+      "stepItems": [],
+      "uuid": "7c0d6f9b-6fd9-475b-98f3-3243ee142096"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [],
+      "uuid": "4a4153d0-13a7-436b-956f-6bdc3de25e2f"
+    },
+    {
+      "content": "Credit unions are playing a vital role in promoting financial education and empowerment within their communities. They understand the importance of financial literacy and are committed to strengthening individuals' financial well-being. By providing educational resources and workshops, credit unions are equipping individuals with the knowledge and skills needed to make informed financial decisions.\n\nOne of the key ways credit unions empower communities is by offering workshops, seminars, and personalized guidance. They understand that financial empowerment goes beyond just providing financial products and services. By educating their members, credit unions are enabling individuals to take control of their finances and work towards their goals. This proactive approach enhances members' financial stability and contributes to stronger, more resilient communities.\n\nCredit unions also recognize the value of financial education as a value proposition. They go beyond traditional banking services by offering comprehensive financial education programs. These programs benefit both employees and members, fostering a culture of financial empowerment that extends beyond banking transactions. By prioritizing financial education, credit unions are ensuring that individuals have the necessary tools to navigate the complex world of personal finance.\n\nFurthermore, credit unions understand the importance of starting financial education at a young age. They actively engage in initiatives that empower children to develop sound money management habits. By fostering financial literacy from a young age, credit unions are contributing to a more financially capable and responsible future generation. They recognize that early financial education is crucial in building a strong foundation for individuals to make informed financial decisions throughout their lives.\n",
+      "name": "Financial Education and Empowerm",
+      "stepItems": [],
+      "uuid": "40458efb-bdd9-4fbf-8e90-bf40ae30f70f"
+    },
+    {
+      "content": "",
+      "name": " Evaluation",
+      "stepItems": [],
+      "uuid": "853a908f-5286-4412-a65d-e6c189e3bf58"
+    },
+    {
+      "content": "Collaboration with local organizations is a key advantage that sets credit unions apart from traditional banks. Unlike banks, credit unions have the ability to foster partnerships with local businesses, community groups, and nonprofits. This collaboration allows credit unions to address shared challenges and seize growth opportunities, ultimately strengthening the local economy and improving the financial well-being of their members.\n\nOne of the ways credit unions embrace collaboration is by joining forces with other credit unions. Small credit unions, in particular, benefit from sharing knowledge, resources, and services with each other. This collaborative approach helps them navigate the changing financial landscape and ensures their continued relevance and sustainability.\n\nIn addition to collaborating with other credit unions, credit unions also collaborate with local businesses and nonprofits. By working together, they are able to pool resources, insights, and expertise to compete effectively against larger financial institutions. This collaboration allows credit unions to overcome obstacles, create innovative solutions, and position themselves for success in a rapidly changing financial landscape.\n\nCollaboration is especially important in the digital economy. Credit unions leverage collaboration to address challenges related to technology, operations, and member engagement. By sharing knowledge, services, and even personnel, credit unions enhance their collective capabilities and deliver superior value to their members.\n\n",
+      "name": "​​Collaboration with Local Organ",
+      "stepItems": [],
+      "uuid": "b605fef7-0b7e-47c8-91cb-e6b004146120"
+    },
+    {
+      "content": "",
+      "name": "Step 10",
+      "stepItems": [],
+      "uuid": "ebeb90d3-e533-4584-a9a0-64d3ebe3ceb7"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "e1fa52a2-dc71-4251-9530-86e1721b48bd",
+  "version": 1
+}
