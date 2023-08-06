@@ -1,9 +1,9 @@
 categories: []
 content: New Guide
-created: '2023-08-06T05:39:55.619Z'
+created: '2023-08-06T16:44:23.807Z'
 guideType: onboarding
 key: guide-name-credit-union-academy-239
-name: Guide Name
+name: Impact on Local Economies
 publishStatus: Live
 steps:
   - content: >+
@@ -219,5 +219,5 @@ steps:
     uuid: ebeb90d3-e533-4584-a9a0-64d3ebe3ceb7
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: e1fa52a2-dc71-4251-9530-86e1721b48bd
+uuid: guide-name-credit-union-academy-239
 version: 1
