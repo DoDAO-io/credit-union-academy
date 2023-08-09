@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-08-09T19:49:30.734Z",
+  "created": "2023-08-09T20:12:30.139Z",
   "guideType": "onboarding",
   "key": "membership-in-credit-unions-credit-union-academy-150",
   "name": "Membership  in Credit Unions",
@@ -46,33 +46,6 @@
         },
         {
           "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "Making profits for shareholders",
-              "key": "A"
-            },
-            {
-              "content": "Serving their members",
-              "key": "B"
-            },
-            {
-              "content": "Expanding their business",
-              "key": "C"
-            },
-            {
-              "content": "Investing in stocks",
-              "key": "D"
-            }
-          ],
-          "content": "What is the main focus of credit unions?",
-          "type": "SingleChoice",
-          "uuid": "6da47df2-ecca-43c8-949f-bf2dd92e20d5",
-          "explanation": "Unlike traditional banks, credit unions are not-for-profit organizations. This means that their focus is on serving their members rather than making profits for shareholders."
-        },
-        {
-          "answerKeys": [
             "C"
           ],
           "choices": [
@@ -113,33 +86,6 @@
       "stepItems": [
         {
           "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "Complete an application form",
-              "key": "A"
-            },
-            {
-              "content": "Determine if you meet the credit union's eligibility requirements",
-              "key": "B"
-            },
-            {
-              "content": "Pay a small membership fee",
-              "key": "C"
-            },
-            {
-              "content": "Open a savings account",
-              "key": "D"
-            }
-          ],
-          "content": "What is the first step in joining a credit union?",
-          "type": "SingleChoice",
-          "uuid": "2e1ab77c-205f-4dcc-91db-523f3b235a0b",
-          "explanation": "The first step in joining a credit union is to determine if you meet the credit union's eligibility requirements."
-        },
-        {
-          "answerKeys": [
             "D"
           ],
           "choices": [
@@ -167,30 +113,30 @@
         },
         {
           "answerKeys": [
-            "C"
+            "A"
           ],
           "choices": [
             {
-              "content": "Free money",
+              "content": "Not-for-profit organizations",
               "key": "A"
             },
             {
-              "content": "Discounts at local businesses",
+              "content": "Profit-driven corporations",
               "key": "B"
             },
             {
-              "content": "Various financial services such as savings accounts, checking accounts, loans, and more",
+              "content": "Government-owned institutions",
               "key": "C"
             },
             {
-              "content": "Unlimited credit",
+              "content": "Private investment firms",
               "key": "D"
             }
           ],
-          "content": "What do you gain access to once you become a member of a credit union?",
+          "content": "What is the nature of credit unions?",
           "type": "SingleChoice",
-          "uuid": "c5490033-93fa-4d67-90a1-8778475017f9",
-          "explanation": "Once you become a member of a credit union, you gain access to various financial services such as savings accounts, checking accounts, loans, and more."
+          "uuid": "407ab756-6550-4e48-98e9-be89d6b3c6fa",
+          "explanation": "Credit unions are not-for-profit organizations that prioritize providing personalized customer service to effectively meet your financial needs."
         }
       ],
       "uuid": "a79d10da-96c4-4c3d-803b-7386aeee2e9a"
