@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-08-09T18:21:07.481Z'
+created: '2023-08-09T20:13:43.921Z'
 guideType: onboarding
 key: credit-unions-vs-banks-credit-union-academy-634
 name: Credit Unions vs. Banks
@@ -71,23 +71,6 @@ steps:
           members, focusing on providing affordable financial services and
           promoting financial education.
       - answerKeys:
-          - B
-        choices:
-          - content: The government
-            key: A
-          - content: The shareholders
-            key: B
-          - content: The employees
-            key: C
-          - content: The customers
-            key: D
-        content: Who elects the board of directors in a bank?
-        type: SingleChoice
-        uuid: 7fba9a90-1f75-4256-bf0d-4f69ab4c6fd9
-        explanation: >-
-          In banks, the shareholders elect a board of directors to oversee the
-          bank's operations and make strategic decisions.
-      - answerKeys:
           - D
         choices:
           - content: Maximizing shareholder value
@@ -148,24 +131,6 @@ steps:
   - content: ''
     name: ' Evaluation'
     stepItems:
-      - answerKeys:
-          - C
-        choices:
-          - content: Credit Unions
-            key: A
-          - content: Non-profit organizations
-            key: B
-          - content: Banks
-            key: C
-          - content: Private Companies
-            key: D
-        content: Who often relies on fees to generate revenue?
-        type: SingleChoice
-        uuid: 16c93314-3792-4c35-966f-ec1d96e0e481
-        explanation: >-
-          Banks, being for-profit entities, often rely on fees to generate
-          revenue. They charge fees for services like overdrafts, account
-          maintenance, and ATM usage.
       - answerKeys:
           - B
         choices:
