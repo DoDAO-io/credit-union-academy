@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-08-09T12:44:43.350Z",
+  "created": "2023-08-09T18:07:14.883Z",
   "guideType": "onboarding",
   "key": "history-of-credit-unions-credit-union-academy-507",
   "name": "History of Credit Unions",
@@ -18,39 +18,85 @@
       "name": " Evaluation",
       "stepItems": [
         {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "904f5d40-c3ba-4008-822f-9a021aa07287"
-        },
-        {
           "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
+            "B"
           ],
           "choices": [
             {
-              "content": "Choice 1",
-              "key": "choice_1"
+              "content": "John C. Pemberton",
+              "key": "A"
             },
             {
-              "content": "Choice 2",
-              "key": "choice_2"
+              "content": "Friedrich Wilhelm Raiffeisen",
+              "key": "B"
             },
             {
-              "content": "Choice 3",
-              "key": "choice_3"
+              "content": "Thomas Edison",
+              "key": "C"
             },
             {
-              "content": "Choice 4",
-              "key": "choice_4"
+              "content": "Alexander Graham Bell",
+              "key": "D"
             }
           ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "b1e603d8-edc1-4a5f-8607-d3b78b9b88ae",
-          "explanation": "Explanation of the question"
+          "content": "Who established the first modern credit union in the mid-1800s?",
+          "type": "SingleChoice",
+          "uuid": "6049949e-a4cd-4937-92b5-4b3101942215",
+          "explanation": "Friedrich Wilhelm Raiffeisen, a German mayor, established the first modern credit union in the mid-1800s."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To establish a new political system",
+              "key": "A"
+            },
+            {
+              "content": "To promote industrialization",
+              "key": "B"
+            },
+            {
+              "content": "To encourage urbanization",
+              "key": "C"
+            },
+            {
+              "content": "To provide fair and affordable access to financial services",
+              "key": "D"
+            }
+          ],
+          "content": "What was the main goal of the early cooperative movements?",
+          "type": "SingleChoice",
+          "uuid": "62a03f89-a047-4ed2-8b85-e29cfac00ed1",
+          "explanation": "The main goal of these early cooperative movements was to provide fair and affordable access to credit, savings, and other financial services that were often limited or unavailable from traditional banks."
+        },
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "Canada",
+              "key": "A"
+            },
+            {
+              "content": "United States",
+              "key": "B"
+            },
+            {
+              "content": "Mexico",
+              "key": "C"
+            },
+            {
+              "content": "Cuba",
+              "key": "D"
+            }
+          ],
+          "content": "Where was the first credit union in North America established?",
+          "type": "SingleChoice",
+          "uuid": "62c77916-9015-497c-9dfa-1bc1e1989ac7",
+          "explanation": "In 1909, the first credit union in North America was established in Canada."
         }
       ],
       "uuid": "5800362a-fafb-4d7c-aacd-b4a5073a40bb"
@@ -64,7 +110,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To abolish credit unions",
+              "key": "A"
+            },
+            {
+              "content": "To establish the National Credit Union Administration as the regulatory body for federal credit unions",
+              "key": "B"
+            },
+            {
+              "content": "To decrease the value of credit union assets",
+              "key": "C"
+            },
+            {
+              "content": "To limit the growth of credit unions",
+              "key": "D"
+            }
+          ],
+          "content": "What was the purpose of the Credit Union Regulatory Act enacted in 1970?",
+          "type": "SingleChoice",
+          "uuid": "0bcdd799-682b-4f33-9520-37d43c0c3ead",
+          "explanation": "The Credit Union Regulatory Act was enacted to establish the National Credit Union Administration (NCUA) as the regulatory body for federal credit unions. This paved the way for uniform regulations and improved stability in the credit union sector."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To limit the growth of credit unions",
+              "key": "A"
+            },
+            {
+              "content": "To decrease the value of credit union assets",
+              "key": "B"
+            },
+            {
+              "content": "To abolish credit unions",
+              "key": "C"
+            },
+            {
+              "content": "To enhance financial stability and prevent practices that could harm consumers",
+              "key": "D"
+            }
+          ],
+          "content": "What was the main focus of the Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010?",
+          "type": "SingleChoice",
+          "uuid": "debf0882-6a7d-420d-a749-410c9ed054c3",
+          "explanation": "The Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010 aimed to enhance financial stability and prevent practices that could harm consumers."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To limit the growth of credit unions",
+              "key": "A"
+            },
+            {
+              "content": "To decrease the value of credit union assets",
+              "key": "B"
+            },
+            {
+              "content": "To shape a secure and thriving financial environment for both credit unions and their members",
+              "key": "C"
+            },
+            {
+              "content": "To abolish credit unions",
+              "key": "D"
+            }
+          ],
+          "content": "What is the role of legal regulations in the credit union landscape?",
+          "type": "SingleChoice",
+          "uuid": "7bb09cb0-a609-4b80-95ee-12a71afc622c",
+          "explanation": "Legal regulations play a crucial role in shaping a secure and thriving financial environment for both credit unions and their members."
+        }
+      ],
       "uuid": "71e6d1cc-ce08-440c-a8a0-d23da234ee52"
     },
     {
@@ -76,7 +204,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Their high interest rates",
+              "key": "A"
+            },
+            {
+              "content": "Their aggressive marketing strategies",
+              "key": "B"
+            },
+            {
+              "content": "Their popularity and trust as member-owned institutions, modernization, and expanded eligibility criteria",
+              "key": "C"
+            },
+            {
+              "content": "Their affiliation with large banks",
+              "key": "D"
+            }
+          ],
+          "content": "What has contributed to the remarkable growth of credit unions in North America?",
+          "type": "SingleChoice",
+          "uuid": "96ecbeba-4ddb-4e6d-8ee7-9d99094e776a",
+          "explanation": "The growth of credit unions in North America can be attributed to their popularity and trust as member-owned financial institutions, modernization, and expansion of their eligibility criteria."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "50%",
+              "key": "A"
+            },
+            {
+              "content": "Over 75%",
+              "key": "B"
+            },
+            {
+              "content": "25%",
+              "key": "C"
+            },
+            {
+              "content": "60%",
+              "key": "D"
+            }
+          ],
+          "content": "What percentage of credit unions provide mobile banking apps?",
+          "type": "SingleChoice",
+          "uuid": "4ce5483a-233f-4723-8330-665b41bc4c63",
+          "explanation": "Over 75% of credit unions provide mobile banking apps, making it easier for members to manage their finances on the go."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "50%",
+              "key": "A"
+            },
+            {
+              "content": "75%",
+              "key": "B"
+            },
+            {
+              "content": "80%",
+              "key": "C"
+            },
+            {
+              "content": "Over 95%",
+              "key": "D"
+            }
+          ],
+          "content": "What percentage of Americans now have access to a credit union within their community?",
+          "type": "SingleChoice",
+          "uuid": "702b3ac2-4c18-44a7-a8eb-a8a0341a07d1",
+          "explanation": "Over 95% of Americans now have access to a credit union within their community, even in underserved areas."
+        }
+      ],
       "uuid": "ff2d8beb-3b7a-4534-bd6e-e639334a778e"
     },
     {
@@ -88,7 +298,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Lack of physical branches",
+              "key": "A"
+            },
+            {
+              "content": "Too many members",
+              "key": "B"
+            },
+            {
+              "content": "Competition from traditional banks and online financial institutions",
+              "key": "C"
+            },
+            {
+              "content": "Decreasing interest rates",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the biggest challenges faced by credit unions today?",
+          "type": "SingleChoice",
+          "uuid": "a15fcdf8-0ab2-4066-8c52-dd93f2b0e4a8",
+          "explanation": "Credit unions face stiff competition from traditional banks and online financial institutions, which offer a wide range of services and attractive interest rates."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Because regulations are easy to understand",
+              "key": "A"
+            },
+            {
+              "content": "Because it requires dedicated resources and expertise to keep up with changing regulations",
+              "key": "B"
+            },
+            {
+              "content": "Because regulations never change",
+              "key": "C"
+            },
+            {
+              "content": "Because regulations are not important",
+              "key": "D"
+            }
+          ],
+          "content": "Why is regulatory compliance a challenge for credit unions?",
+          "type": "SingleChoice",
+          "uuid": "eb3078ae-4d93-4b55-89fc-768885f948ad",
+          "explanation": "Regulatory compliance is a challenge because keeping up with changing regulations requires dedicated resources and expertise. Balancing these requirements with providing excellent service can be demanding."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Younger members prefer traditional banks",
+              "key": "A"
+            },
+            {
+              "content": "Younger members do not use banking services",
+              "key": "B"
+            },
+            {
+              "content": "Younger members are not interested in financial products",
+              "key": "C"
+            },
+            {
+              "content": "Younger consumers may perceive credit unions as old-fashioned or have limited awareness of their benefits",
+              "key": "D"
+            }
+          ],
+          "content": "What is a challenge credit unions face in attracting younger members?",
+          "type": "SingleChoice",
+          "uuid": "e7aad690-a226-415a-aab7-102c7aaf0f48",
+          "explanation": "Younger consumers may perceive credit unions as old-fashioned or have limited awareness of their benefits. Credit unions need to develop strategies to engage and appeal to younger members."
+        }
+      ],
       "uuid": "77b1e797-6f83-4fa5-a9e5-6392337e4253"
     }
   ],
