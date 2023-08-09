@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-08-09T18:54:25.128Z",
+  "created": "2023-08-09T19:16:52.267Z",
   "guideType": "onboarding",
   "key": "guide-name-credit-union-academy-239",
   "name": "Impact on Local Economies",
@@ -110,7 +110,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Credit unions charge higher interest rates",
+              "key": "A"
+            },
+            {
+              "content": "Credit unions are for-profit institutions",
+              "key": "B"
+            },
+            {
+              "content": "Credit unions prioritize the needs and interests of the communities they serve",
+              "key": "C"
+            },
+            {
+              "content": "Credit unions are owned by shareholders",
+              "key": "D"
+            }
+          ],
+          "content": "What sets credit unions apart from traditional banks?",
+          "type": "SingleChoice",
+          "uuid": "c4fa5d11-cdb5-4756-b981-1ffecfa96389",
+          "explanation": "Credit unions are not-for-profit financial institutions that are owned by their members. They prioritize the needs and interests of the communities they serve, unlike traditional banks."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "By charging high interest rates",
+              "key": "A"
+            },
+            {
+              "content": "By focusing on profit maximization",
+              "key": "B"
+            },
+            {
+              "content": "By investing in stock markets",
+              "key": "C"
+            },
+            {
+              "content": "By focusing on financial inclusion and reinvesting profits back into the community",
+              "key": "D"
+            }
+          ],
+          "content": "How do credit unions support community development?",
+          "type": "SingleChoice",
+          "uuid": "52a532de-fc3b-4fd7-914b-246e7e479916",
+          "explanation": "Credit unions support community development by focusing on financial inclusion, providing accessible banking services to a diverse range of individuals, including those with lower incomes or limited access to mainstream banking. They also reinvest their profits back into the community through various initiatives and programs."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "By investing in high-risk ventures",
+              "key": "A"
+            },
+            {
+              "content": "By supporting local charities and nonprofits",
+              "key": "B"
+            },
+            {
+              "content": "By focusing on increasing their own profits",
+              "key": "C"
+            },
+            {
+              "content": "By charging high fees for their services",
+              "key": "D"
+            }
+          ],
+          "content": "What is one way credit unions contribute to the betterment of the community?",
+          "type": "SingleChoice",
+          "uuid": "e07a38c0-8693-4c6e-ab3b-6bef4b1fa6ed",
+          "explanation": "Credit unions contribute to the betterment of the community by supporting local charities and nonprofits."
+        }
+      ],
       "uuid": "a94a9c8a-fe68-4aff-87c5-acad7e6311d0"
     },
     {
@@ -122,7 +204,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "They only provide financial support to small businesses",
+              "key": "A"
+            },
+            {
+              "content": "They only collaborate with local businesses and organizations",
+              "key": "B"
+            },
+            {
+              "content": "They provide financial support, collaborate with local businesses and organizations, and invest in community development initiatives",
+              "key": "C"
+            },
+            {
+              "content": "They only invest in community development initiatives",
+              "key": "D"
+            }
+          ],
+          "content": "What role do credit unions play in job creation and employment within the communities?",
+          "type": "SingleChoice",
+          "uuid": "b3ddaed1-f568-4c80-a426-ea5e94c7fd78",
+          "explanation": "Credit unions support local economies by providing access to affordable credit for small businesses and entrepreneurs. They also collaborate with local businesses and organizations to stimulate economic growth and create employment opportunities. They invest their funds back into the community for job training programs, skill-building workshops, and workforce development initiatives."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "By providing high-interest loans",
+              "key": "A"
+            },
+            {
+              "content": "By offering low-interest loans and personalized financial guidance",
+              "key": "B"
+            },
+            {
+              "content": "By providing financial support without any guidance",
+              "key": "C"
+            },
+            {
+              "content": "By offering loans without any financial guidance",
+              "key": "D"
+            }
+          ],
+          "content": "How do credit unions support small businesses and entrepreneurs?",
+          "type": "SingleChoice",
+          "uuid": "bd170141-8d5b-42aa-81a5-11cc349753a6",
+          "explanation": "Credit unions support small businesses and entrepreneurs by offering low-interest loans and personalized financial guidance. This helps these businesses thrive and expand, leading to the creation of new jobs within the community."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "It leads to a decrease in the number of job opportunities",
+              "key": "A"
+            },
+            {
+              "content": "It has no impact on the community",
+              "key": "B"
+            },
+            {
+              "content": "It only benefits the credit unions",
+              "key": "C"
+            },
+            {
+              "content": "It enhances the employability of local residents and creates job opportunities",
+              "key": "D"
+            }
+          ],
+          "content": "What is the result of credit unions investing their funds back into the community?",
+          "type": "SingleChoice",
+          "uuid": "17d6ed39-243a-4e37-acbd-57cb68ff4da2",
+          "explanation": "When credit unions invest their funds back into the community, they direct their profits towards community development initiatives, which can include job training programs, skill-building workshops, and workforce development initiatives. These initiatives enhance the employability of local residents by providing them with the necessary skills and training to secure employment."
+        }
+      ],
       "uuid": "4a4153d0-13a7-436b-956f-6bdc3de25e2f"
     },
     {
@@ -134,7 +298,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To maximize profit",
+              "key": "A"
+            },
+            {
+              "content": "To compete with traditional banks",
+              "key": "B"
+            },
+            {
+              "content": "To provide individuals with the necessary knowledge and tools to make informed financial decisions",
+              "key": "C"
+            },
+            {
+              "content": "To offer high interest rates",
+              "key": "D"
+            }
+          ],
+          "content": "What is the main focus of credit unions?",
+          "type": "SingleChoice",
+          "uuid": "59c81c9e-a515-4011-a3ac-56872fe00c99",
+          "explanation": "Unlike traditional banks, credit unions focus on providing individuals with the necessary knowledge and tools to make informed financial decisions and build a secure financial future."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "By offering high interest rates",
+              "key": "A"
+            },
+            {
+              "content": "By competing with traditional banks",
+              "key": "B"
+            },
+            {
+              "content": "By maximizing profit",
+              "key": "C"
+            },
+            {
+              "content": "By providing financial education and personalized guidance",
+              "key": "D"
+            }
+          ],
+          "content": "How do credit unions empower their members?",
+          "type": "SingleChoice",
+          "uuid": "ea263d97-cd9a-42e7-b55f-6af46915b011",
+          "explanation": "Credit unions empower their members by providing financial education and personalized guidance. They offer one-on-one consultations to address individual financial challenges and goals."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Members feel less confident in managing their finances",
+              "key": "A"
+            },
+            {
+              "content": "Improved financial decision-making and a greater ability to achieve both short-term and long-term financial goals",
+              "key": "B"
+            },
+            {
+              "content": "Members feel more dependent on the credit union",
+              "key": "C"
+            },
+            {
+              "content": "Decreased financial literacy among members",
+              "key": "D"
+            }
+          ],
+          "content": "What is the result of empowering members with financial education and personalized guidance?",
+          "type": "SingleChoice",
+          "uuid": "71beed59-0a85-4a90-afa7-462ef39e791d",
+          "explanation": "By empowering their members with financial education and personalized guidance, credit unions foster a sense of ownership and control over one's financial well-being. This leads to improved financial decision-making and a greater ability to achieve both short-term and long-term financial goals."
+        }
+      ],
       "uuid": "853a908f-5286-4412-a65d-e6c189e3bf58"
     },
     {
@@ -146,7 +392,89 @@
     {
       "content": "",
       "name": "Step 10",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "They charge higher interest rates",
+              "key": "A"
+            },
+            {
+              "content": "They are for-profit institutions",
+              "key": "B"
+            },
+            {
+              "content": "They are not-for-profit institutions owned by their members",
+              "key": "C"
+            },
+            {
+              "content": "They do not offer loans",
+              "key": "D"
+            }
+          ],
+          "content": "What is a unique feature of credit unions compared to traditional banks?",
+          "type": "SingleChoice",
+          "uuid": "8bc0171d-9bf1-4414-a62f-7260e02ebe74",
+          "explanation": "Unlike traditional banks, credit unions are not-for-profit institutions that are owned by their members. This unique structure allows credit unions to prioritize the needs of their local communities."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To increase their profits",
+              "key": "A"
+            },
+            {
+              "content": "To support community initiatives and understand community needs",
+              "key": "B"
+            },
+            {
+              "content": "To compete with traditional banks",
+              "key": "C"
+            },
+            {
+              "content": "To expand their business operations",
+              "key": "D"
+            }
+          ],
+          "content": "Why do credit unions collaborate with local organizations?",
+          "type": "SingleChoice",
+          "uuid": "dc3e3178-ed72-4681-9dc3-f867f72c5aed",
+          "explanation": "Credit unions collaborate with local organizations to support various initiatives that benefit the community, gain a deeper understanding of the specific needs and challenges faced by their community members, and develop tailored solutions and services that effectively address these needs."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Increased competition among financial institutions",
+              "key": "A"
+            },
+            {
+              "content": "Decreased community involvement",
+              "key": "B"
+            },
+            {
+              "content": "Reduced financial literacy programs",
+              "key": "C"
+            },
+            {
+              "content": "A more inclusive and prosperous community",
+              "key": "D"
+            }
+          ],
+          "content": "What is the outcome of the collaboration between credit unions and local organizations?",
+          "type": "SingleChoice",
+          "uuid": "264cf282-bedf-4c61-9d55-12550a3cfb8c",
+          "explanation": "The collaboration between credit unions and local organizations creates a more inclusive and prosperous community. This collaborative effort fosters a sense of unity and cooperation within the community, leading to a stronger and more resilient society."
+        }
+      ],
       "uuid": "ebeb90d3-e533-4584-a9a0-64d3ebe3ceb7"
     }
   ],
