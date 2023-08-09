@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-08-09T19:39:32.310Z",
+  "created": "2023-08-09T19:56:00.969Z",
   "guideType": "onboarding",
   "key": "financial-health-and-stability-credit-union-academy-966",
   "name": "Financial Health and Stability ",
@@ -70,33 +70,6 @@
           "type": "SingleChoice",
           "uuid": "9ea276b9-e556-4a0c-802a-fc472e9f8cd2",
           "explanation": "Capital adequacy refers to the credit union's ability to maintain an appropriate level of capital in relation to its risk exposure."
-        },
-        {
-          "answerKeys": [
-            "D"
-          ],
-          "choices": [
-            {
-              "content": "To increase the salaries of the management",
-              "key": "A"
-            },
-            {
-              "content": "To invest in high-risk ventures",
-              "key": "B"
-            },
-            {
-              "content": "To pay dividends to members",
-              "key": "C"
-            },
-            {
-              "content": "To remain viable and fulfill their mission of serving their members' financial needs",
-              "key": "D"
-            }
-          ],
-          "content": "Why is maintaining sufficient financial reserves and meeting capital adequacy requirements crucial for credit unions?",
-          "type": "SingleChoice",
-          "uuid": "f905be48-4d8e-4486-8237-b4ea2dad3f50",
-          "explanation": "Maintaining sufficient financial reserves and meeting capital adequacy requirements is crucial for credit unions to remain viable and fulfill their mission of serving their members' financial needs."
         }
       ],
       "uuid": "e463f3c4-f48e-4dcb-bada-1ce2af9a8785"
@@ -137,33 +110,6 @@
           "type": "SingleChoice",
           "uuid": "d4ca3bbe-a400-45b1-8d02-10ce9563b108",
           "explanation": "Asset quality refers to the overall health and performance of a credit union's assets, which include loans and investments."
-        },
-        {
-          "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "A list of potential borrowers",
-              "key": "A"
-            },
-            {
-              "content": "The loans that credit unions provide to their members",
-              "key": "B"
-            },
-            {
-              "content": "A collection of loan applications",
-              "key": "C"
-            },
-            {
-              "content": "The total amount of money a credit union has loaned",
-              "key": "D"
-            }
-          ],
-          "content": "What is a loan portfolio in the context of a credit union?",
-          "type": "SingleChoice",
-          "uuid": "e59bc3ae-2af3-4f61-92d7-62e7fd8c837e",
-          "explanation": "Loan portfolios represent the loans that credit unions provide to their members for various purposes such as mortgages, auto loans, personal loans, and business loans."
         },
         {
           "answerKeys": [
@@ -313,7 +259,7 @@
               "key": "B"
             },
             {
-              "content": "Overseeing credit unions' activities, financial health, and adherence to established rules",
+              "content": "Overseeing credit unions activities, financial health, and adherence to established rules",
               "key": "C"
             },
             {
@@ -325,33 +271,6 @@
           "type": "SingleChoice",
           "uuid": "8543fde2-6725-4740-9f34-45df7977ae3c",
           "explanation": "Regulatory oversight involves government agencies, such as the National Credit Union Administration (NCUA), overseeing credit unions' activities, financial health, and adherence to established rules."
-        },
-        {
-          "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "The ability of credit unions to compete with traditional banks",
-              "key": "A"
-            },
-            {
-              "content": "The responsibility of credit unions to follow the laws and regulations that apply to their operations",
-              "key": "B"
-            },
-            {
-              "content": "The requirement for credit unions to have a physical branch in every state",
-              "key": "C"
-            },
-            {
-              "content": "The process of credit unions merging with other financial institutions",
-              "key": "D"
-            }
-          ],
-          "content": "What does compliance refer to in the context of credit unions?",
-          "type": "SingleChoice",
-          "uuid": "cc6283f7-e084-431b-8405-f3f3c65c859c",
-          "explanation": "Compliance refers to credit unions' responsibility to follow the laws and regulations that apply to their operations. This includes adhering to rules related to lending practices, member data protection, financial reporting, and other areas."
         },
         {
           "answerKeys": [
