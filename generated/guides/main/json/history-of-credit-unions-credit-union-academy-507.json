@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Tracing the Evolution and Impact of Credit Unions",
-  "created": "2023-08-09T20:57:32.345Z",
+  "created": "2023-08-09T21:05:27.671Z",
   "guideType": "onboarding",
   "key": "history-of-credit-unions-credit-union-academy-507",
   "name": "History of Credit Unions",
@@ -140,33 +140,6 @@
         },
         {
           "answerKeys": [
-            "D"
-          ],
-          "choices": [
-            {
-              "content": "To limit the growth of credit unions",
-              "key": "A"
-            },
-            {
-              "content": "To decrease the value of credit union assets",
-              "key": "B"
-            },
-            {
-              "content": "To abolish credit unions",
-              "key": "C"
-            },
-            {
-              "content": "To enhance financial stability and prevent practices that could harm consumers",
-              "key": "D"
-            }
-          ],
-          "content": "What was the main focus of the Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010?",
-          "type": "SingleChoice",
-          "uuid": "debf0882-6a7d-420d-a749-410c9ed054c3",
-          "explanation": "The Dodd-Frank Wall Street Reform and Consumer Protection Act in 2010 aimed to enhance financial stability and prevent practices that could harm consumers."
-        },
-        {
-          "answerKeys": [
             "C"
           ],
           "choices": [
@@ -234,57 +207,30 @@
         },
         {
           "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "50%",
-              "key": "A"
-            },
-            {
-              "content": "Over 75%",
-              "key": "B"
-            },
-            {
-              "content": "25%",
-              "key": "C"
-            },
-            {
-              "content": "60%",
-              "key": "D"
-            }
-          ],
-          "content": "What percentage of credit unions provide mobile banking apps?",
-          "type": "SingleChoice",
-          "uuid": "4ce5483a-233f-4723-8330-665b41bc4c63",
-          "explanation": "Over 75% of credit unions provide mobile banking apps, making it easier for members to manage their finances on the go."
-        },
-        {
-          "answerKeys": [
             "D"
           ],
           "choices": [
             {
-              "content": "50%",
+              "content": "Increased financial instability",
               "key": "A"
             },
             {
-              "content": "75%",
+              "content": "Decreased access to financial services",
               "key": "B"
             },
             {
-              "content": "80%",
+              "content": "Increased income inequality",
               "key": "C"
             },
             {
-              "content": "Over 95%",
+              "content": "Positive impact on communities and individuals",
               "key": "D"
             }
           ],
-          "content": "What percentage of Americans now have access to a credit union within their community?",
+          "content": "What is the impact of the growth, modernization, and global influence of credit unions?",
           "type": "SingleChoice",
-          "uuid": "702b3ac2-4c18-44a7-a8eb-a8a0341a07d1",
-          "explanation": "Over 95% of Americans now have access to a credit union within their community, even in underserved areas."
+          "uuid": "e0faa0d6-a2ed-41bf-967a-d8c14e167058",
+          "explanation": "The text mentions that credit unions have had a positive impact on communities and individuals, supporting financial inclusion and prioritizing the best interests of their members."
         }
       ],
       "uuid": "ff2d8beb-3b7a-4534-bd6e-e639334a778e"
@@ -325,33 +271,6 @@
           "type": "SingleChoice",
           "uuid": "a15fcdf8-0ab2-4066-8c52-dd93f2b0e4a8",
           "explanation": "Credit unions face stiff competition from traditional banks and online financial institutions, which offer a wide range of services and attractive interest rates."
-        },
-        {
-          "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "Because regulations are easy to understand",
-              "key": "A"
-            },
-            {
-              "content": "Because it requires dedicated resources and expertise to keep up with changing regulations",
-              "key": "B"
-            },
-            {
-              "content": "Because regulations never change",
-              "key": "C"
-            },
-            {
-              "content": "Because regulations are not important",
-              "key": "D"
-            }
-          ],
-          "content": "Why is regulatory compliance a challenge for credit unions?",
-          "type": "SingleChoice",
-          "uuid": "eb3078ae-4d93-4b55-89fc-768885f948ad",
-          "explanation": "Regulatory compliance is a challenge because keeping up with changing regulations requires dedicated resources and expertise. Balancing these requirements with providing excellent service can be demanding."
         },
         {
           "answerKeys": [
