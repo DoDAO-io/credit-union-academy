@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-08-09T12:44:22.562Z'
+created: '2023-08-09T18:18:30.142Z'
 guideType: onboarding
 key: credit-unions-vs-banks-credit-union-academy-634
 name: Credit Unions vs. Banks
@@ -49,27 +49,62 @@ steps:
   - content: ''
     name: ' Evaluation'
     stepItems:
-      - label: Full Name
-        required: false
-        type: PublicShortInput
-        uuid: dc894bb7-9304-48f3-adf2-6cd45dafc07d
       - answerKeys:
-          - choice_1
-          - choice_2
-          - choice_3
+          - C
         choices:
-          - content: Choice 1
-            key: choice_1
-          - content: Choice 2
-            key: choice_2
-          - content: Choice 3
-            key: choice_3
-          - content: Choice 4
-            key: choice_4
-        content: Contents of the question
-        type: MultipleChoice
-        uuid: 112ae2f8-1adb-4f99-96b9-5058b1c01c4d
-        explanation: Explanation of the question
+          - content: Banks provide loans while credit unions do not
+            key: A
+          - content: Banks are government-owned while credit unions are privately owned
+            key: B
+          - content: >-
+              Banks aim to generate profits while credit unions focus on
+              member's financial well-being
+            key: C
+          - content: There is no significant difference between banks and credit unions
+            key: D
+        content: What is the main difference between banks and credit unions?
+        type: SingleChoice
+        uuid: 5ed5c7b1-c032-4619-9648-e2c2735a43aa
+        explanation: >-
+          Banks aim to generate profits and maximize shareholder value, while
+          credit unions operate as not-for-profit cooperatives owned by their
+          members, focusing on providing affordable financial services and
+          promoting financial education.
+      - answerKeys:
+          - B
+        choices:
+          - content: The government
+            key: A
+          - content: The shareholders
+            key: B
+          - content: The employees
+            key: C
+          - content: The customers
+            key: D
+        content: Who elects the board of directors in a bank?
+        type: SingleChoice
+        uuid: 7fba9a90-1f75-4256-bf0d-4f69ab4c6fd9
+        explanation: >-
+          In banks, the shareholders elect a board of directors to oversee the
+          bank's operations and make strategic decisions.
+      - answerKeys:
+          - D
+        choices:
+          - content: Maximizing shareholder value
+            key: A
+          - content: Increasing market competitiveness
+            key: B
+          - content: Generating high profits
+            key: C
+          - content: Providing affordable services and promoting financial education
+            key: D
+        content: What is the focus of credit unions?
+        type: SingleChoice
+        uuid: 36203cca-7dc4-4eb3-b4c8-e40d04efaa11
+        explanation: >-
+          The focus of credit unions is on providing affordable financial
+          services, promoting financial education, and fostering a sense of
+          ownership and belonging among members.
     uuid: 85730523-fdda-48c6-b70e-eb4b85197fd4
   - content: >-
       Fees and interest rates are important factors to consider when dealing
@@ -112,7 +147,68 @@ steps:
     uuid: b382fc90-3397-4135-b21b-14af35aba1d8
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Credit Unions
+            key: A
+          - content: Non-profit organizations
+            key: B
+          - content: Banks
+            key: C
+          - content: Private Companies
+            key: D
+        content: Who often relies on fees to generate revenue?
+        type: SingleChoice
+        uuid: 16c93314-3792-4c35-966f-ec1d96e0e481
+        explanation: >-
+          Banks, being for-profit entities, often rely on fees to generate
+          revenue. They charge fees for services like overdrafts, account
+          maintenance, and ATM usage.
+      - answerKeys:
+          - B
+        choices:
+          - content: Because they have fewer members
+            key: A
+          - content: >-
+              Because they prioritize benefiting their members rather than
+              generating profits
+            key: B
+          - content: Because they have a smaller operational cost
+            key: C
+          - content: Because they have less overhead
+            key: D
+        content: Why do credit unions often have lower fees compared to banks?
+        type: SingleChoice
+        uuid: 2b442bb6-98a1-41c8-ad51-bd398dc3a644
+        explanation: >-
+          Credit unions, on the other hand, are known for having fewer and lower
+          fees compared to banks. Their focus on member well-being allows them
+          to provide competitive interest rates on loans and savings accounts.
+          This is because credit unions prioritize benefiting their members
+          rather than generating profits.
+      - answerKeys:
+          - D
+        choices:
+          - content: The location of the institution
+            key: A
+          - content: The number of ATMs available
+            key: B
+          - content: The reputation of the institution
+            key: C
+          - content: >-
+              The fees, interest rates, and which institution best suits their
+              needs and preferences
+            key: D
+        content: >-
+          What do individuals need to consider when choosing between banks and
+          credit unions?
+        type: SingleChoice
+        uuid: 80d35f00-2dcb-4330-93f4-67882d3b39c8
+        explanation: >-
+          It is important for individuals to consider these factors and choose
+          the financial institution that best suits their needs and preferences.
     uuid: 5b87e03b-8a1a-4f7e-93a2-fdc4dd6f3c09
   - content: >-
       Community involvement and social impact are two important aspects that
@@ -154,7 +250,75 @@ steps:
     uuid: 87a79f59-d2d7-4a39-8d40-d9c98669cb96
   - content: ''
     name: ' Evaluation'
-    stepItems: []
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Banks are more involved in community projects than credit unions
+            key: A
+          - content: Credit unions are for-profit organizations
+            key: B
+          - content: >-
+              Credit unions have a stronger commitment to giving back to the
+              communities they serve
+            key: C
+          - content: >-
+              Banks prioritize social impact by focusing on financial education
+              and literacy programs
+            key: D
+        content: >-
+          What is a key difference between banks and credit unions in terms of
+          community involvement and social impact?
+        type: SingleChoice
+        uuid: 09ececa5-0535-4ed5-9c4f-01ff1c36337a
+        explanation: >-
+          Credit unions, with their not-for-profit status, have a strong
+          commitment to giving back to the communities they serve and prioritize
+          social impact by focusing on financial education and literacy
+          programs. While banks also engage in community initiatives, their
+          for-profit orientation can sometimes influence the scope and nature of
+          their involvement.
+      - answerKeys:
+          - B
+        choices:
+          - content: By focusing on increasing their profits
+            key: A
+          - content: By focusing on financial education and literacy programs
+            key: B
+          - content: By focusing on enhancing their brand image
+            key: C
+          - content: >-
+              By focusing on complying with corporate social responsibility
+              norms
+            key: D
+        content: What is one way credit unions prioritize social impact?
+        type: SingleChoice
+        uuid: 0b2ed70f-daaa-4e8b-a0de-06c8d24d985e
+        explanation: >-
+          Credit unions prioritize social impact by focusing on financial
+          education and literacy programs. They offer workshops, seminars, and
+          resources to empower their members with the knowledge and tools needed
+          for informed financial decision-making.
+      - answerKeys:
+          - D
+        choices:
+          - content: To decrease their profits
+            key: A
+          - content: To compete with credit unions
+            key: B
+          - content: Because they are not-for-profit organizations
+            key: C
+          - content: >-
+              To enhance their brand image or comply with corporate social
+              responsibility norms
+            key: D
+        content: Why might banks contribute to philanthropic activities?
+        type: SingleChoice
+        uuid: 469a7522-dc09-4117-8802-a5023f8ca806
+        explanation: >-
+          While banks contribute to philanthropic activities, their primary
+          motive may be to enhance their brand image or comply with corporate
+          social responsibility norms.
     uuid: 351c3c8e-9c48-4a37-b431-3921713a538f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
