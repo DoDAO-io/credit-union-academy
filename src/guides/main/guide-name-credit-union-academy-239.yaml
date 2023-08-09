@@ -1,6 +1,6 @@
 categories: []
 content: New Guide
-created: '2023-08-09T19:52:38.223Z'
+created: '2023-08-09T19:53:12.740Z'
 guideType: onboarding
 key: guide-name-credit-union-academy-239
 name: Impact on Local Economies
@@ -383,27 +383,6 @@ steps:
   - content: ''
     name: ' Evaluation'
     stepItems:
-      - answerKeys:
-          - C
-        choices:
-          - content: They charge higher interest rates
-            key: A
-          - content: They are for-profit institutions
-            key: B
-          - content: They are not-for-profit institutions owned by their members
-            key: C
-          - content: They do not offer loans
-            key: D
-        content: >-
-          What is a unique feature of credit unions compared to traditional
-          banks?
-        type: SingleChoice
-        uuid: 8bc0171d-9bf1-4414-a62f-7260e02ebe74
-        explanation: >-
-          Unlike traditional banks, credit unions are not-for-profit
-          institutions that are owned by their members. This unique structure
-          allows credit unions to prioritize the needs of their local
-          communities.
       - answerKeys:
           - B
         choices:
