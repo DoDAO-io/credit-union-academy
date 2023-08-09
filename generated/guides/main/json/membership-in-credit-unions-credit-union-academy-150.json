@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2023-08-09T18:52:22.787Z",
+  "created": "2023-08-09T19:49:30.734Z",
   "guideType": "onboarding",
   "key": "membership-in-credit-unions-credit-union-academy-150",
   "name": "Membership  in Credit Unions",
@@ -204,7 +204,89 @@
     {
       "content": "",
       "name": " Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "The right to ignore fees and interest rates",
+              "key": "A"
+            },
+            {
+              "content": "The right to avoid annual meetings",
+              "key": "B"
+            },
+            {
+              "content": "The right to access and manage your account with transparency and fairness",
+              "key": "C"
+            },
+            {
+              "content": "The right to ignore loan payments",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the rights of a credit union member?",
+          "type": "SingleChoice",
+          "uuid": "d37a5458-b88c-4bae-a92a-ee6f30d309ce",
+          "explanation": "One of the rights of a credit union member is the ability to access and manage your account with transparency and fairness."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "The responsibility to ignore fees and interest rates",
+              "key": "A"
+            },
+            {
+              "content": "The responsibility to keep personal information up to date and provide accurate details when requested",
+              "key": "B"
+            },
+            {
+              "content": "The responsibility to avoid annual meetings",
+              "key": "C"
+            },
+            {
+              "content": "The responsibility to ignore loan payments",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the responsibilities of a credit union member?",
+          "type": "SingleChoice",
+          "uuid": "76ffb390-7223-47ad-9133-e8fa6487a00e",
+          "explanation": "One of the responsibilities of a credit union member is to keep your personal information up to date and provide accurate details when requested."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "By ignoring the credit union's initiatives",
+              "key": "A"
+            },
+            {
+              "content": "By avoiding community events",
+              "key": "B"
+            },
+            {
+              "content": "By not volunteering for credit union programs",
+              "key": "C"
+            },
+            {
+              "content": "By participating in community events or volunteering for credit union programs",
+              "key": "D"
+            }
+          ],
+          "content": "How can a member contribute to the growth and success of the credit union?",
+          "type": "SingleChoice",
+          "uuid": "9cd1bf18-d912-4927-9a49-57ac5aced598",
+          "explanation": "Members can contribute to the growth and success of the credit union by actively engaging in the community and supporting the credit union's initiatives."
+        }
+      ],
       "uuid": "dd5f2e4d-daf3-4b7a-bc18-56fb52116c52"
     },
     {
