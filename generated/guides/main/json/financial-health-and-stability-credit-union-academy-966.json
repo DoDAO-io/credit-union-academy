@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Achieving and Maintaining Financial Health and Stability",
-  "created": "2023-08-11T11:06:20.781Z",
+  "created": "2023-08-11T11:31:04.415Z",
   "guideType": "onboarding",
   "key": "financial-health-and-stability-credit-union-academy-966",
   "name": "Financial Health and Stability ",
@@ -19,57 +19,84 @@
       "stepItems": [
         {
           "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "To invest in risky ventures",
-              "key": "A"
-            },
-            {
-              "content": "To provide a safety net against potential losses",
-              "key": "B"
-            },
-            {
-              "content": "To pay dividends to members",
-              "key": "C"
-            },
-            {
-              "content": "To fund extravagant expenses",
-              "key": "D"
-            }
-          ],
-          "content": "What is the purpose of financial reserves for credit unions?",
-          "type": "SingleChoice",
-          "uuid": "eed6a4d7-27a5-4ad6-8f95-35cefd39fdb5",
-          "explanation": "Financial reserves act as a safety net, providing a cushion against potential losses and ensuring that the credit union can continue to operate smoothly even during challenging economic times."
-        },
-        {
-          "answerKeys": [
             "C"
           ],
           "choices": [
             {
-              "content": "The ability to pay dividends to members",
+              "content": "To increase the bank's profit",
               "key": "A"
             },
             {
-              "content": "The ability to invest in high-risk ventures",
+              "content": "To reduce the bank's liabilities",
               "key": "B"
             },
             {
-              "content": "The ability to maintain an appropriate level of capital in relation to risk exposure",
+              "content": "To ensure the bank's stability and ability to absorb potential losses",
               "key": "C"
             },
             {
-              "content": "The ability to fund extravagant expenses",
+              "content": "To increase the bank's market share",
               "key": "D"
             }
           ],
-          "content": "What does capital adequacy refer to in the context of credit unions?",
+          "content": "What is the purpose of financial reserves and capital adequacy in the banking industry?",
           "type": "SingleChoice",
-          "uuid": "9ea276b9-e556-4a0c-802a-fc472e9f8cd2",
-          "explanation": "Capital adequacy refers to the credit union's ability to maintain an appropriate level of capital in relation to its risk exposure."
+          "uuid": "52a6c484-9f36-4fc4-b7d5-8bd9a8af5835",
+          "explanation": "Financial reserves and capital adequacy refer to the amount of money and assets that a financial institution must hold to ensure its stability and ability to absorb potential losses."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The ratio of a credit union's liabilities to its assets",
+              "key": "A"
+            },
+            {
+              "content": "The ratio of a credit union's profits to its losses",
+              "key": "B"
+            },
+            {
+              "content": "The ratio of a credit union's assets to its liabilities",
+              "key": "C"
+            },
+            {
+              "content": "The ratio of a credit union's total net worth to its total assets",
+              "key": "D"
+            }
+          ],
+          "content": "What is the Net Worth Ratio in the context of credit unions?",
+          "type": "SingleChoice",
+          "uuid": "49c96724-1dd4-4408-989b-2dd5d079901b",
+          "explanation": "The Net Worth Ratio is calculated by dividing the total net worth of a credit union by its total assets. Different assets are assigned specific risk weights, with higher-risk assets assigned higher weights."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Net Worth Ratio (NWR) and Risk-Based Net Worth (RBNW) ratio",
+              "key": "A"
+            },
+            {
+              "content": "Risk-Based Capital (RBC) framework and the Complex Credit Union Leverage Ratio (CCULR) framework",
+              "key": "B"
+            },
+            {
+              "content": "Asset-Liability Management (ALM) and Liquidity Risk Management (LRM)",
+              "key": "C"
+            },
+            {
+              "content": "Capital Adequacy Ratio (CAR) and Tier 1 Capital Ratio (T1CR)",
+              "key": "D"
+            }
+          ],
+          "content": "What are the new standards introduced by the National Credit Union Administration (NCUA)?",
+          "type": "SingleChoice",
+          "uuid": "51d5ab6a-f9ae-4144-b9d1-c285952a6887",
+          "explanation": "The new standards introduce the Risk-Based Capital (RBC) framework and the Complex Credit Union Leverage Ratio (CCULR) framework."
         }
       ],
       "uuid": "e463f3c4-f48e-4dcb-bada-1ce2af9a8785"
@@ -86,57 +113,57 @@
       "stepItems": [
         {
           "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "The risk associated with a financial institution's investment and loan portfolios, as well as other assets",
+              "key": "A"
+            },
+            {
+              "content": "The total amount of assets owned by a financial institution",
+              "key": "B"
+            },
+            {
+              "content": "The physical condition of a financial institution's assets",
+              "key": "C"
+            },
+            {
+              "content": "The age of a financial institution's assets",
+              "key": "D"
+            }
+          ],
+          "content": "What does asset quality refer to?",
+          "type": "SingleChoice",
+          "uuid": "6832bb69-236e-4afd-8dcd-b8198a268569",
+          "explanation": "Asset quality refers to the risk associated with a financial institution's investment and loan portfolios, as well as other assets."
+        },
+        {
+          "answerKeys": [
             "C"
           ],
           "choices": [
             {
-              "content": "The number of assets a credit union has",
+              "content": "They focus on large-scale, international lending",
               "key": "A"
             },
             {
-              "content": "The physical condition of a credit union's assets",
+              "content": "They have a high tolerance for risk and often lend to high-risk borrowers",
               "key": "B"
             },
             {
-              "content": "The overall health and performance of a credit union's assets",
+              "content": "They have a conservative approach, focusing on community-based lending and serving their members",
               "key": "C"
             },
             {
-              "content": "The age of a credit union's assets",
+              "content": "They do not require collateral for loans",
               "key": "D"
             }
           ],
-          "content": "What does asset quality refer to in the context of a credit union?",
+          "content": "What is a characteristic of credit union's approach to lending?",
           "type": "SingleChoice",
-          "uuid": "d4ca3bbe-a400-45b1-8d02-10ce9563b108",
-          "explanation": "Asset quality refers to the overall health and performance of a credit union's assets, which include loans and investments."
-        },
-        {
-          "answerKeys": [
-            "D"
-          ],
-          "choices": [
-            {
-              "content": "To increase the total amount of loans they can offer",
-              "key": "A"
-            },
-            {
-              "content": "To attract more members",
-              "key": "B"
-            },
-            {
-              "content": "To offer more competitive interest rates",
-              "key": "C"
-            },
-            {
-              "content": "To spread the risk across different types of loans and borrower profiles",
-              "key": "D"
-            }
-          ],
-          "content": "Why is it important for credit unions to diversify their loan offerings?",
-          "type": "SingleChoice",
-          "uuid": "39cd5e4e-5a9c-4594-8561-4a4c6b2a48a4",
-          "explanation": "By diversifying their loan offerings, credit unions can spread the risk across different types of loans and borrower profiles, reducing the impact of potential defaults."
+          "uuid": "0541141d-5bd3-4360-a4f5-41360b0fafc7",
+          "explanation": "Credit unions tend to have a more conservative approach to lending, focusing on community-based lending and serving their members. This often results in a higher quality loan portfolio, with lower default rates and fewer non-performing loans."
         }
       ],
       "uuid": "02636a4d-79fb-4884-9afd-9b839e9ae52a"
@@ -153,84 +180,57 @@
       "stepItems": [
         {
           "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "To maximize profits",
-              "key": "A"
-            },
-            {
-              "content": "To balance inflow and outflow of money while maintaining financial stability",
-              "key": "B"
-            },
-            {
-              "content": "To minimize operational costs",
-              "key": "C"
-            },
-            {
-              "content": "To increase member numbers",
-              "key": "D"
-            }
-          ],
-          "content": "What is the primary goal of liquidity management in credit unions?",
-          "type": "SingleChoice",
-          "uuid": "44ed2f09-1e62-4bc4-83df-4b14e2af9417",
-          "explanation": "The primary goal of liquidity management in credit unions is to strike a balance between the inflow and outflow of money, maintaining financial stability and the ability to respond to unexpected demands."
-        },
-        {
-          "answerKeys": [
             "C"
           ],
           "choices": [
             {
-              "content": "To increase the value of the credit union",
+              "content": "The process of managing a company's debt",
               "key": "A"
             },
             {
-              "content": "To attract more investors",
+              "content": "The process of managing a company's investments",
               "key": "B"
             },
             {
-              "content": "To meet withdrawal requests, process loans, and handle financial transactions",
+              "content": "The process of managing a company's cash flow to ensure that it has enough liquid assets to meet its financial obligations and operational demands",
               "key": "C"
             },
             {
-              "content": "To pay higher dividends to members",
+              "content": "The process of managing a company's employees",
               "key": "D"
             }
           ],
-          "content": "What is the importance of having sufficient liquidity in credit unions?",
+          "content": "What is liquidity management?",
           "type": "SingleChoice",
-          "uuid": "e1069a10-8fe7-4385-9947-f3583727402c",
-          "explanation": "Having sufficient liquidity allows credit unions to promptly meet withdrawal requests, process loans, and handle day-to-day financial transactions smoothly."
+          "uuid": "e3732003-3d39-4ae5-a8f2-a2ca7f59a543",
+          "explanation": "Liquidity management is the process of managing a company's cash flow to ensure that it has enough liquid assets to meet its financial obligations and operational demands."
         },
         {
           "answerKeys": [
-            "D"
+            "A"
           ],
           "choices": [
             {
-              "content": "By increasing membership fees",
+              "content": "Regularly monitoring their liquidity position",
               "key": "A"
             },
             {
-              "content": "By investing in high-risk assets",
+              "content": "Ignoring liquidity triggers",
               "key": "B"
             },
             {
-              "content": "By reducing operational costs",
+              "content": "Ignoring cash flow analysis",
               "key": "C"
             },
             {
-              "content": "By analyzing cash flow patterns, historical data, and member behavior",
+              "content": "Ignoring stress tests",
               "key": "D"
             }
           ],
-          "content": "How do credit unions manage liquidity effectively?",
+          "content": "What is one way credit unions can address liquidity challenges?",
           "type": "SingleChoice",
-          "uuid": "297641fa-0def-44c9-aa7b-b085422b343e",
-          "explanation": "To manage liquidity effectively, credit unions analyze their cash flow patterns, historical data, and member behavior to predict future needs. They also comply with regulations that require them to hold a certain level of liquid assets to protect their financial health."
+          "uuid": "6726ad2b-2d46-4fb6-8025-1cfd5444b9d6",
+          "explanation": "Credit unions should regularly monitor their liquidity position. This includes reviewing liquidity triggers, conducting pro-forma cash flow analysis, and subjecting cash flows to stress tests."
         }
       ],
       "uuid": "81947fe9-873d-45fc-b529-620e0336d238"
@@ -251,26 +251,53 @@
           ],
           "choices": [
             {
-              "content": "Monitoring the personal activities of credit union members",
+              "content": "To increase the credit union's profits",
               "key": "A"
             },
             {
-              "content": "Setting the interest rates for loans and savings accounts",
+              "content": "To manage the credit union's marketing strategies",
               "key": "B"
             },
             {
-              "content": "Overseeing credit unions activities, financial health, and adherence to established rules",
+              "content": "To address all compliance responsibilities and ensure regulatory compliance",
               "key": "C"
             },
             {
-              "content": "Determining the salaries of credit union employees",
+              "content": "To handle the credit union's hiring process",
               "key": "D"
             }
           ],
-          "content": "What does regulatory oversight involve in the context of credit unions?",
+          "content": "What is the main purpose of a Compliance Management System (CMS) in credit unions?",
           "type": "SingleChoice",
-          "uuid": "8543fde2-6725-4740-9f34-45df7977ae3c",
-          "explanation": "Regulatory oversight involves government agencies, such as the National Credit Union Administration (NCUA), overseeing credit unions' activities, financial health, and adherence to established rules."
+          "uuid": "4de3c019-55e6-425a-b7f3-10b49cc8bc23",
+          "explanation": "A CMS addresses all compliance responsibilities and its effectiveness is crucial in determining the adequacy of a credit union's regulatory compliance."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Increase in member confidence",
+              "key": "A"
+            },
+            {
+              "content": "Fines, penalties, and decreased member confidence",
+              "key": "B"
+            },
+            {
+              "content": "Increase in profits",
+              "key": "C"
+            },
+            {
+              "content": "Increase in regulatory compliances",
+              "key": "D"
+            }
+          ],
+          "content": "What can be the consequences of failure to implement a satisfactory CMS in a credit union?",
+          "type": "SingleChoice",
+          "uuid": "31237421-2a86-43e7-a221-842de4dfe4ac",
+          "explanation": "Failure to implement a satisfactory CMS can lead to compliance risk, which can result in fines, penalties, and decreased member confidence."
         },
         {
           "answerKeys": [
@@ -278,26 +305,26 @@
           ],
           "choices": [
             {
-              "content": "To increase the profits of the credit union",
+              "content": "To provide financial support to credit unions",
               "key": "A"
             },
             {
-              "content": "To expand the membership base of the credit union",
+              "content": "To manage the credit union's marketing strategies",
               "key": "B"
             },
             {
-              "content": "To enable the credit union to offer a wider range of financial products",
+              "content": "To handle the credit union's hiring process",
               "key": "C"
             },
             {
-              "content": "To demonstrate commitment to operating ethically, responsibly, and in the best interests of their members",
+              "content": "To assess credit unions' compliance management efforts and systems",
               "key": "D"
             }
           ],
-          "content": "Why is maintaining regulatory oversight and compliance crucial for credit unions?",
+          "content": "What is the role of regulatory authorities like the NCUA during examinations?",
           "type": "SingleChoice",
-          "uuid": "35f17126-5ab1-4a06-a7d7-87c5fbe22685",
-          "explanation": "Maintaining regulatory oversight and compliance is crucial for credit unions to demonstrate their commitment to operating ethically, responsibly, and in the best interests of their members. It also ensures that credit unions remain stable and secure institutions, fostering confidence among their members and contributing to the overall stability of the financial industry."
+          "uuid": "f59c3d3a-7965-4026-be34-4b501837f8b2",
+          "explanation": "During examinations, regulatory authorities like the NCUA assess credit unions' compliance management efforts and systems. They review documentation, interview management and compliance personnel, and make conclusions regarding the effectiveness, timeliness, and appropriateness of the credit union's CMS."
         }
       ],
       "uuid": "67141ca9-f690-4385-b8f3-6d5c6d314908"
@@ -318,53 +345,26 @@
           ],
           "choices": [
             {
-              "content": "The money that credit unions receive from donations",
+              "content": "Credit unions are losing members",
               "key": "A"
             },
             {
-              "content": "The money that credit unions save by reducing their operating costs",
+              "content": "Credit unions are decreasing their loan portfolios",
               "key": "B"
             },
             {
-              "content": "The money that credit unions make from different sources, such as interest earned on loans, fees charged for services, and returns on investments",
+              "content": "Credit unions are attracting more members and increasing their loan portfolios",
               "key": "C"
             },
             {
-              "content": "The money that credit unions receive from government grants",
+              "content": "Credit unions are not actively lending to their members",
               "key": "D"
             }
           ],
-          "content": "What does earnings refer to in the context of credit unions?",
+          "content": "What did the growth in total assets and loans for credit unions indicate?",
           "type": "SingleChoice",
-          "uuid": "f3ed5078-e1d6-46ec-ac6b-4b18f5e6b4c2",
-          "explanation": "Earnings refer to the money that credit unions make from different sources, such as interest earned on loans, fees charged for services, and returns on investments."
-        },
-        {
-          "answerKeys": [
-            "B"
-          ],
-          "choices": [
-            {
-              "content": "The amount of money that credit unions save by reducing their operating costs",
-              "key": "A"
-            },
-            {
-              "content": "How efficiently a credit union manages its resources to generate earnings",
-              "key": "B"
-            },
-            {
-              "content": "The amount of money that credit unions receive from donations",
-              "key": "C"
-            },
-            {
-              "content": "The amount of money that credit unions receive from government grants",
-              "key": "D"
-            }
-          ],
-          "content": "What does profitability measure in the context of credit unions?",
-          "type": "SingleChoice",
-          "uuid": "1f232990-a83c-4bb8-9527-718dc68d18f8",
-          "explanation": "Profitability measures how efficiently a credit union manages its resources to generate earnings."
+          "uuid": "3c498fa4-527d-41df-9c0f-82f49d54ecd6",
+          "explanation": "The growth in total assets and loans indicates that credit unions are attracting more members and increasing their loan portfolios. It also shows that they are actively lending to their members and supporting their financial needs."
         },
         {
           "answerKeys": [
@@ -372,26 +372,26 @@
           ],
           "choices": [
             {
-              "content": "A higher ROA signifies that the credit union has more liabilities",
+              "content": "The percentage of loans that are paid on time",
               "key": "A"
             },
             {
-              "content": "A higher ROA signifies that the credit union has more donations",
+              "content": "The percentage of loans that are defaulted",
               "key": "B"
             },
             {
-              "content": "A higher ROA signifies that the credit union has more government grants",
+              "content": "The percentage of loans that are renewed",
               "key": "C"
             },
             {
-              "content": "A higher ROA signifies better financial performance and sustainability",
+              "content": "The percentage of loans that are past due",
               "key": "D"
             }
           ],
-          "content": "What does a higher 'return on assets' (ROA) signify for a credit union?",
+          "content": "What does the delinquency rate at credit unions represent?",
           "type": "SingleChoice",
-          "uuid": "f5511e02-8035-461f-9cbd-3131b8109186",
-          "explanation": "A higher ROA signifies better financial performance and sustainability for a credit union."
+          "uuid": "b9d09752-c185-481f-a379-f42cacd4243d",
+          "explanation": "The delinquency rate represents the percentage of loans that are past due."
         }
       ],
       "uuid": "bef9b049-1e08-4a72-8d6d-a654893e7b62"
