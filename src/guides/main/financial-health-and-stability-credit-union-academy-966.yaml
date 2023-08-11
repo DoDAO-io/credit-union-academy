@@ -1,6 +1,6 @@
 categories: []
 content: Achieving and Maintaining Financial Health and Stability
-created: '2023-08-10T22:08:58.683Z'
+created: '2023-08-11T06:17:08.058Z'
 guideType: onboarding
 key: financial-health-and-stability-credit-union-academy-966
 name: 'Financial Health and Stability '
@@ -309,15 +309,15 @@ steps:
       evaluated.
 
 
-      In conclusion, regulatory compliances are crucial for the financial health
-      and stability of credit unions. Credit unions must implement a
-      comprehensive compliance management system to address all compliance
-      responsibilities. Compliance risk, reputation risk, strategic risk, and
-      transaction risk are some of the risks that credit unions need to mitigate
-      through effective CMS. Regulatory authorities assess credit unions'
-      compliance management efforts and systems to ensure their adequacy and
-      effectiveness. By complying with regulations and managing compliance risk,
-      credit unions can maintain their financial health and stability.
+      Regulatory compliances are crucial for the financial health and stability
+      of credit unions. Credit unions must implement a comprehensive compliance
+      management system to address all compliance responsibilities. Compliance
+      risk, reputation risk, strategic risk, and transaction risk are some of
+      the risks that credit unions need to mitigate through effective CMS.
+      Regulatory authorities assess credit unions' compliance management efforts
+      and systems to ensure their adequacy and effectiveness. By complying with
+      regulations and managing compliance risk, credit unions can maintain their
+      financial health and stability.
     name: Regulatory Compliances
     stepItems: []
     uuid: b90d4d48-b703-475f-b54a-59f416ea54e8
@@ -374,33 +374,38 @@ steps:
           fostering confidence among their members and contributing to the
           overall stability of the financial industry.
     uuid: 67141ca9-f690-4385-b8f3-6d5c6d314908
-  - content: >
-      Earnings and profitability play a crucial role in the success of credit
-      unions. Earnings refer to the money that credit unions make from different
-      sources, such as interest earned on loans, fees charged for services, and
-      returns on investments. These earnings are essential for the financial
-      health of credit unions as they help cover operating costs, offer
-      competitive interest rates on savings, and provide loans to their members.
-      When credit unions earn more than they spend, it contributes to their
-      stability and ability to serve their members effectively.
+  - content: >-
+      Credit unions have shown positive financial performance in recent years.
+      According to the Quarterly Credit Union Data Summary, total assets in
+      federally insured credit unions increased by $108 billion, or 5.2 percent,
+      over the year. This growth indicates that credit unions are attracting
+      more members and increasing their loan portfolios. Total loans outstanding
+      also increased by $251 billion, or 20.0 percent, reaching $1.51 trillion.
+      This shows that credit unions are actively lending to their members and
+      supporting their financial needs.
 
 
-      Profitability, on the other hand, measures how efficiently a credit union
-      manages its resources to generate earnings. It shows how well the credit
-      union is doing in making money. A profitable credit union can continue to
-      grow and offer better services to its members. One common metric used to
-      measure profitability is the "return on assets" (ROA), which indicates how
-      much profit a credit union earns for every dollar of assets it holds. A
-      higher ROA signifies better financial performance and sustainability.
+      Despite the growth in assets and loans, credit unions experienced a
+      decline in net income. Net income totaled $18.9 billion in 2022, down $2.0
+      billion, or 9.5 percent, from the previous year. This decrease can be
+      attributed to factors such as increased interest expense and non-interest
+      expenses. However, credit unions still maintained a healthy net worth
+      ratio of 10.74 percent, indicating their financial stability.
 
 
-      Credit unions, with their focus on member service and not-for-profit
-      structure, may sometimes have lower profits compared to traditional banks.
-      However, this approach benefits the members as they often receive more
-      favorable interest rates on loans, lower fees, and higher returns on
-      savings. It is important for credit unions to strike a balance between
-      earning enough to remain financially stable and fulfilling their mission
-      of serving their members' best interests.
+      The delinquency rate at federally insured credit unions was 61 basis
+      points in the fourth quarter of 2022. This rate represents the percentage
+      of loans that are past due. While this rate is relatively low, it is
+      important for credit unions to closely monitor and manage delinquencies to
+      mitigate potential risks.
+
+
+      Overall, credit unions have demonstrated their profitability and ability
+      to serve their members' financial needs. They have experienced growth in
+      assets and loans, indicating their success in attracting and retaining
+      members. However, credit unions should continue to focus on managing
+      expenses and delinquencies to ensure their long-term profitability and
+      sustainability.
     name: Earnings and Profitability
     stepItems: []
     uuid: 6c0846c7-5ee2-421f-b9f2-fe41227184d4
